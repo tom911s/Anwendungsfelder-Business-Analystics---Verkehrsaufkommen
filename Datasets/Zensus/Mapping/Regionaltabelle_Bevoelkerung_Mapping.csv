@@ -1,0 +1,6 @@
+﻿– Berichtszeitpunkt,Zensusergebnis zum Stichtag 15.05.2022 (Format JJJJMMTT)
+– _RS,Amtlicher Regionalschlüssel (ARS)
+– Name,Name der regionalen Einheit
+– Regionalebene,Kategorie der regionalen Einheit
+– EWZ*,Einwohnerzahl (Anzahl)
+– EWZ_BFS_20220630,Einwohnerzahl laut Bevölkerungsfortschreibung zum 30.06.2022 auf Basis Zensus 2011(Anzahl)

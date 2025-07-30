@@ -1,0 +1,72 @@
+Stadt,Gemeinde/Stadt,ARS,Amtlicher Gemeindeschlüssel(AGS),Textkennzeichen
+Berlin,Berlin,11,,
+Berlin,"Berlin, Stadt",11000,,Kreisfreie Stadt
+Berlin,"Berlin, Stadt",110000000000,11000000,Stadtstaat
+Hamburg,Hamburg,02,,
+Hamburg,"Hamburg, Freie und Hansestadt",02000,,Kreisfreie Stadt
+Hamburg,"Hamburg, Freie und Hansestadt",020000000000,02000000,Stadtstaat
+München,"München, Landeshauptstadt",09162,,Kreisfreie Stadt
+München,"München, Landeshauptstadt",091620000000,09162000,Kreisfreie Stadt
+München,München,09184,,Landkreis
+Köln,"Köln, Stadt",05315,,Kreisfreie Stadt
+Köln,"Köln, Stadt",053150000000,05315000,Kreisfreie Stadt
+Frankfurt am Main,"Frankfurt am Main, Stadt",06412,,Kreisfreie Stadt
+Frankfurt am Main,"Frankfurt am Main, Stadt",064120000000,06412000,Kreisfreie Stadt
+Düsseldorf,"Düsseldorf, Stadt",05111,,Kreisfreie Stadt
+Düsseldorf,"Düsseldorf, Stadt",051110000000,05111000,Kreisfreie Stadt
+Stuttgart,"Stuttgart, Stadtkreis",08111,,Stadtkreis
+Stuttgart,"Stuttgart, Landeshauptstadt",081110000000,08111000,Stadtkreis
+Leipzig,"Leipzig, Stadt",14713,,Kreisfreie Stadt
+Leipzig,"Leipzig, Stadt",147130000000,14713000,Kreisfreie Stadt
+Leipzig,Leipzig,14729,,Landkreis
+Dortmund,"Dortmund, Stadt",05913,,Kreisfreie Stadt
+Dortmund,"Dortmund, Stadt",059130000000,05913000,Kreisfreie Stadt
+Bremen,Bremen,04,,
+Bremen,"Bremen, Stadt",04011,,Kreisfreie Stadt
+Bremen,"Bremen, Stadt",040110000000,04011000,Kreisfreie Stadt
+Essen,Essen (Oldenburg),034530006006,03453006,Kreisangehörige Gemeinde
+Essen,"Essen, Stadt",05113,,Kreisfreie Stadt
+Essen,"Essen, Stadt",051130000000,05113000,Kreisfreie Stadt
+Dresden,"Dresden, Stadt",14612,,Kreisfreie Stadt
+Dresden,"Dresden, Stadt",146120000000,14612000,Kreisfreie Stadt
+Nürnberg,Nürnberg,09564,,Kreisfreie Stadt
+Nürnberg,Nürnberg,095640000000,09564000,Kreisfreie Stadt
+Hannover,Region Hannover,03241,,Landkreis
+Hannover,"Hannover, Landeshauptstadt",032410001001,03241001,Stadt
+Duisburg,"Duisburg, Stadt",05112,,Kreisfreie Stadt
+Duisburg,"Duisburg, Stadt",051120000000,05112000,Kreisfreie Stadt
+Bochum,"Bochum, Stadt",05911,,Kreisfreie Stadt
+Bochum,"Bochum, Stadt",059110000000,05911000,Kreisfreie Stadt
+Wuppertal,"Wuppertal, Stadt",05124,,Kreisfreie Stadt
+Wuppertal,"Wuppertal, Stadt",051240000000,05124000,Kreisfreie Stadt
+Bielefeld,"Bielefeld, Stadt",05711,,Kreisfreie Stadt
+Bielefeld,"Bielefeld, Stadt",057110000000,05711000,Kreisfreie Stadt
+Bonn,"Bonn, Stadt",05314,,Kreisfreie Stadt
+Bonn,"Bonn, Stadt",053140000000,05314000,Kreisfreie Stadt
+Mannheim,"Mannheim, Stadtkreis",08222,,Stadtkreis
+Mannheim,"Mannheim, Universitätsstadt",082220000000,08222000,Stadtkreis
+Karlsruhe,"Karlsruhe, Stadtkreis",08212,,Stadtkreis
+Karlsruhe,"Karlsruhe, Stadt",082120000000,08212000,Stadtkreis
+Karlsruhe,Karlsruhe,08215,,Landkreis
+Münster,"Münster, Stadt",05515,,Kreisfreie Stadt
+Münster,"Münster, Stadt",055150000000,05515000,Kreisfreie Stadt
+Münster,Münster (Hessen),064320015015,06432015,Kreisangehörige Gemeinde
+Münster,Münster-Sarmsheim,073395001038,07339038,Kreisangehörige Gemeinde
+Münster,Münster,097795725187,09779187,Kreisangehörige Gemeinde
+Augsburg,Augsburg,09761,,Kreisfreie Stadt
+Augsburg,Augsburg,097610000000,09761000,Kreisfreie Stadt
+Augsburg,Augsburg,09772,,Landkreis
+Wiesbaden,"Wiesbaden, Landeshauptstadt",06414,,Kreisfreie Stadt
+Wiesbaden,"Wiesbaden, Landeshauptstadt",064140000000,06414000,Kreisfreie Stadt
+Gelsenkirchen,"Gelsenkirchen, Stadt",05513,,Kreisfreie Stadt
+Gelsenkirchen,"Gelsenkirchen, Stadt",055130000000,05513000,Kreisfreie Stadt
+Mönchengladbach,"Mönchengladbach, Stadt",05116,,Kreisfreie Stadt
+Mönchengladbach,"Mönchengladbach, Stadt",051160000000,05116000,Kreisfreie Stadt
+Aachen,Städteregion Aachen,05334,,Kreis
+Aachen,"Aachen, Stadt",053340002002,05334002,Stadt
+Braunschweig,"Braunschweig, Stadt",03101,,Kreisfreie Stadt
+Braunschweig,"Braunschweig, Stadt",031010000000,03101000,Kreisfreie Stadt
+Kiel,"Kiel, Landeshauptstadt",01002,,Kreisfreie Stadt
+Kiel,"Kiel, Landeshauptstadt",010020000000,01002000,Kreisfreie Stadt
+Chemnitz,"Chemnitz, Stadt",14511,,Kreisfreie Stadt
+Chemnitz,"Chemnitz, Stadt",145110000000,14511000,Kreisfreie Stadt

@@ -1,0 +1,41 @@
+table-title,table-code,category
+Bevölkerungsstand - Geburten - Gestorbene - Wanderungen,AI002-1-5,Bevölkerung
+Bevölkerung nach Alter,AI002-2-5,Bevölkerung
+Wanderungen nach Geschlecht und- Alter,AI002-3,Bevölkerung
+Bevölkerung - Durchschnittsalter,AI002-4-5,Bevölkerung
+Einbürgerungen,AI002-5,Bevölkerung
+Betreute Kinder in Tagespflege/Tageseinrichtungen,AI003-1,Bildung
+Schulabgänger/-innen,AI003-2,Bildung
+Betreuungsquote,AI003-3,Bildung
+Gewerbeanmeldungen,AI004-1,Unternehmen
+Unternehmensinsolvenzen,AI004-2,Unternehmen
+Statistisches Unternehmensregister: Abhängig Beschäftigte (AB) je 1.000 EW,AI004-3,Unternehmen
+Erwerbstätige (ET) nach Wirtschaftsbereichen,AI007-1,Erwerbstätigkeit und Arbeitslosigkeit
+Beschäftigtenquote,AI007-2,Erwerbstätigkeit und Arbeitslosigkeit
+"Arbeitslosenquote, Anteil Arbeitslose",AI008-1-5,Erwerbstätigkeit und Arbeitslosigkeit
+Arbeitslosenquote für ausgewählte Personengruppen,AI008-2,Erwerbstätigkeit und Arbeitslosigkeit
+Landwirtschaftl. Betriebe - Viehhaltung,AI009,Landwirtschaft
+Investitionen,AI010-1,Industrie
+Bruttoentgelte,AI010-2-5,Industrie
+Bautätigkeit und Wohnen,AI011-5,Bauen und Wohnen
+Beherbergung,AI012-5,Tourismus
+Pkw-Dichte,AI013-1,Verkehr
+Straßenverkehrsunfälle bezogen auf EW,AI013-2,Verkehr
+Straßenverkehrsunfälle bezogen auf Kfz,AI013-3,Verkehr
+Beschäftigte im öffentlichen Bereich,AI015,Öffentliche Haushalte
+Verfügbares Einkommen,AI016-1,Verdienste und Einkommen
+Einkünfte,AI016-2-5,Verdienste und Einkommen
+Bruttoinlandsprodukt (BIP),AI017-1,Bruttoinlandsprodukt und Bruttowertschöpfung
+Bruttowertschöpfung (BWS),AI017-2,Bruttoinlandsprodukt und Bruttowertschöpfung
+Flächennutzung nach ALKIS,AI-N-01-2-5,Nachhaltigkeit
+Flächennutzung nach ALKIS (4-jährige Veränderung),AI-N-01-3-5,Nachhaltigkeit
+Flächennutzung nach ALB,AI-N-01-5,Nachhaltigkeit
+Landbewirtschaftung,AI-N-02,Nachhaltigkeit
+Bevölkerung - Alterung,AI-N-04,Nachhaltigkeit
+Ganztagsbetreuung von Kindern,AI-N-05,Nachhaltigkeit
+Armutsgefährdung,AI-N-09,Nachhaltigkeit
+Wirtschaftliche Leistungsfähigkeit - BIP je Arbeitsst.,AI-N-11,Nachhaltigkeit
+Armutsgefährdung,AI-S-02,Soziales
+Mindestsicherungsleistungen,AI-S-03,Soziales
+Grundsicherung für Arbeitssuchende (SGB II),AI-S-04,Soziales
+Grundsicherung im Alter und bei Erwerbsminderung,AI-S-05,Soziales

@@ -1,0 +1,13 @@
+pandas
+numpy
+seaborn
+json
+requests
+sqlite3
+functools
+glob
+os
+re
+
+Data_Prep_Regioinalatlas.ipynb und
+Data_Prep_Zensus.ipynb geprüft
