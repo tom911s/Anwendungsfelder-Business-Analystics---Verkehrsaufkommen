@@ -1,0 +1,1226 @@
+Dauerzaehlstellennummer;Dauerzaehlstellenname;Landesnummer;Landeskuerzel;Straßenklasse;Straßennummer;Straßennumernzusatz;Nahziel_Richtung_1;Himmelsrichtung_Richtung_1;Nahziel_Richtung_2;Himmelsrichtung_Richtung_2;Koordinaten_UTM32_E;Koordinaten_UTM32_N
+1101;Bad Oldesloe;1;SH;A;1;;AS Reinfeld;N;AS Bad Oldesloe;S;594121,056;5961309,270
+1102;Barsbüttel;1;SH;A;1;;AS Barsbüttel;N;AK Kreuz Hamburg-Ost (A24);S;578184,972;5935581,358
+1104;Rumohr;1;SH;A;215;;AK Kreuz Kiel-West (A210);N;AS Blumenthal;S;566924,124;6011849,671
+1105;Neustadt i. H.-Süd;1;SH;A;1;;AS Neustadt i.H.-Pelzerhaken;N;AS Neustadt i.H.-Mitte;S;616449,017;5996536,140
+1106;Einfeld;1;SH;A;7;;AD Dreieck Bordesholm (A215);N;AS Neumünster-Nord;S;562466,500;5998018,883
+1107;Owschlag;1;SH;A;7;;AS Owschlag;N;AS Rendsburg/Büdelsdorf;S;541658,159;6028166,846
+1108;Bad Schwartau;1;SH;A;1;;AS Bad Schwartau;N;AS Lübeck-Zentrum;S;609762,070;5972762,429
+1109;Ellund;1;SH;A;7;;AS GÜG Ellund;N;AS Flensburg/Harrislee;S;522137,411;6069898,776
+1110;Gudow;1;SH;A;24;;AS Zarrentin;O;AS Hornbek;W;615433,500;5933199,000
+1119;Krupunder;1;SH;A;23;;AS Halstenbek-Krupunder;N;AS Hamburg-Eidelstedt;S;558301,454;5942310,101
+1124;Oldenburg (Holstein);1;SH;A;1;;AS Oldenburg i.H.-Nord;N;AS Oldenburg i.H.-Mitte;S;622474,230;6018516,918
+1140;Börnsen;1;SH;A;25;;AS Anschluss (B404);O;AS Hamburg-Curslack;W;585568,268;5924291,408
+1154;Nordoe 4;1;SH;A;23;;AS Itzehoe-Süd;N;AS Lägerdorf;S;534150,251;5971824,376
+1156;AS Wankendorf (Stolpe);1;SH;A;21;;AS Wankendorf;N;AS Bornhöved;S;579303,143;5995614,943
+1162;Melsdorf;1;SH;A;210;;AS Melsdorf;O;AS Achterwehr;W;567008,394;6018106,835
+1163;Besdorf;1;SH;A;23;;AS Schafstedt;N;AS Hanerau-Hademarschen;S;521971,218;5990901,502
+1166;Segeberg West 2;1;SH;A;21;;AS Wahlstedt;N;AS Bad Segeberg-Nord;S;583846,650;5977187,177
+1170;Neddelsteenhof;1;SH;A;20;;AS Lübeck-Genin;O;AK Kreuz Lübeck (A1);W;605644,082;5967363,070
+1171;Hüsby;1;SH;A;7;;AS Schleswig/Schuby;N;AS Schleswig/Jagel;S;532621,182;6039904,455
+1172;Glinde (SH);1;SH;A;24;;AS Reinbek;O;AK Kreuz Hamburg-Ost (A1);W;580626,661;5935008,824
+1173;Moorkaten;1;SH;A;7;;AS Kaltenkirchen;N;AS Henstedt-Ulzburg;S;560770,451;5964033,871
+1177;Heide West;1;SH;A;23;;AS Anschluss (B5);N;AS Heide-West;S;502967,127;6004941,628
+1189;Schuby;1;SH;A;7;;AS Tarp;N;AS Schleswig/Schuby;S;530415,476;6043922,746
+1194;Kiel-West;1;SH;A;215;;AS Kiel-Mitte;N;AK Kreuz Kiel-West (A210);S;569952,500;6018673,000
+1260;AK Rendsburg-Süd;1;SH;A;7;;AK Kreuz Rendsburg (A210);N;AS Warder;S;549683,500;6016351,500
+1261;AK Rendsburg-Nord;1;SH;A;7;;AS Rendsburg/Büdelsdorf;N;AK Kreuz Rendsburg (A210);S;548750,000;6018455,500
+1262;Gewerbepark Osterrönfeld;1;SH;A;210;;AK Kreuz Rendsburg (A7);O;AS Schacht-Audorf;W;546791,548;6016463,371
+1263;Hüttener Berge;1;SH;A;7;;AS Owschlag;N;AS Rendsburg/Büdelsdorf;S;544743,000;6023062,500
+1268;Hademarschen;1;SH;A;23;;AS Hanerau-Hademarschen;N;AS Schenefeld;S;524542,327;5989797,428
+1269;Schafstedt;1;SH;A;23;;AS Schafstedt;N;AS Hanerau-Hademarschen;S;519526,000;5991654,000
+1270;Albersdorf;1;SH;A;23;;AS Heide-Süd;N;AS Albersdorf;S;516812,000;5997160,500
+1291;Reinfeld;1;SH;A;1;;AS Reinfeld;N;AS Bad Oldesloe;S;595429,000;5962479,000
+3301;Bispingen;3;NI;A;7;;AS Evendorf;N;AS Bispingen;S;568919,299;5889392,710
+3302;Bockel;3;NI;A;1;;AS Bockel;N;AS Stuckenborstel;S;518757,000;5893523,500
+3303;Verden;3;NI;A;27;;AS Verden-Nord;N;AS Verden-Ost;S;517215,745;5866585,548
+3304;Berkhof;3;NI;A;7;;AS Schwarmstedt;N;AS Berkhof;S;549775,951;5829565,983
+3305;Lauenau;3;NI;A;2;;AS Bad Nenndorf;O;AS Lauenau;W;524589,500;5793474,500
+3306;Peine;3;NI;A;2;;AS Peine;O;AS Hämelerwald;W;582738,130;5799987,986
+3308;Hildesheim;3;NI;A;7;;AS Hildesheim;N; TR Hildesheimer Börde;S;568100,345;5777856,336
+3309;Holdorf;3;NI;A;1;;AS Lohne/Dinklage;N;AS Holdorf;S;440440,798;5828955,770
+3315;Hasbruch;3;NI;A;28;;AS Ganderkesee-West;O;AS Hude;W;465691,171;5878751,668
+3335;Braunschweig-Rüningen;3;NI;A;39;;AS Braunschweig-Rüningen-Nord;N;AS Braunschweig-Rüningen-Süd;S;602202,500;5786284,000
+3343;Stotel;3;NI;A;27;;AS Stotel;N;AS Hagen;S;472197,500;5920810,000
+3349;Wemkendorf;3;NI;A;29;;AS Hahn-Lehmden;N;AS Rastede;S;444498,385;5901596,620
+3350;Riepe;3;NI;A;31;;AS Emden-Ost;N;AS Riepe;S;388702,500;5914696,500
+3351;Glüsingen;3;NI;A;1;;AS Hamburg-Harburg;N;AK Maschener Kreuz;S;568395,623;5918407,019
+3352;Oldenburg-Hafen;3;NI;A;29;;AS Oldenburg-Hafen;N;AK Kreuz Oldenburg-Ost;S;451549,206;5886770,854
+3354;Nordholz;3;NI;A;27;;AS Nordholz;N;AS Neuenwalde;S;477789,984;5950915,794
+3357;Gildehaus;3;NI;A;30;;AS Gildehaus;O;AS GÜG Bad Bentheim;W;367603,601;5798339,144
+3358;Bunderneuland;3;NI;A;280;;AD Dreieck Bunde;O; GÜG Bunde-West;W;381651,918;5893846,995
+3368;Filsum;3;NI;A;28;;AS Filsum;O;AS Leer-Ost;W;405843,022;5901908,666
+3369;Lathen;3;NI;A;31;;AS Lathen;N;AS Haren (Ems);S;380606,341;5859768,973
+3420;Braunschweig-Wilhelmitor;3;NI;A;391;;AS Braunschweig-Lehndorf;N;AS Braunschweig-Weststadt;S;601415,500;5791306,500
+3421;Beienrode;3;NI;A;2;;AS Rennau;O;AS Königslutter;W;627866,000;5795444,000
+3422;Wolfsburg;3;NI;A;39;;AS Sandkamp;N;AS Wolfsburg-West;S;618180,187;5810191,106
+3423;Scheppau;3;NI;A;39;;AK Wolfsburg/Königslutter (A2);N;AS Scheppau;S;617573,500;5796135,000
+3424;Braunschweig-Hansestraße;3;NI;A;391;;AS Braunschweig-Hansestraße;N;AK Kreuz Ölper (A392);S;602689,000;5795529,500
+3425;Braunschweig-Weststadt;3;NI;A;391;;AS Braunschweig-Weststadt;N;AS Braunschweig-Gartenstadt;S;602647,500;5789743,000
+3426;Braunschweig-Ölper;3;NI;A;392;;AS Braunschweig-Hamburger Straße;O;AS Braunschweig-Celler Straße;W;603376,319;5793450,480
+3427;Flöthe;3;NI;A;36;;AS Schladen-Nord;O;AS Flöthe;W;603273,504;5768172,100
+3428;Braunschweig-Südwest;3;NI;A;39;;AK Braunschweig-Süd (A36/B4);N;AD Braunschweig-Südwest (A391);S;603690,500;5788376,500
+3429;Braunschweig-Flughafen;3;NI;A;2;;AS Braunschweig-Ost;O;AS Braunschweig-Flughafen;W;608087,942;5796897,469
+3430;Göttingen;3;NI;A;7;;AS Göttingen;N;AS Rosdorf;S;560966,997;5707695,259
+3431;Lutterberg;3;NI;A;7;;AS Hann.Münden/Lutterberg;N;AS Kassel-Nord;S;542208,500;5688951,500
+3432;Friedland;3;NI;A;38;;AS Arenshausen;O;AS Friedland;W;567862,000;5694564,000
+3433;Hannover-Ost;3;NI;A;2;;AK Kreuz Hann.-Ost (A7);O;AS Hann.-Buchholz (A37);W;559239,210;5806103,696
+3434;Kaltenweide;3;NI;A;352;;AS Langenhagen-Kaltenweide;O;AS Hannover-Flughafen;W;548875,080;5814129,749
+3435;Hannover-Misburg;3;NI;A;37;;AK Hannover-Buchholz (A2);N;AS Hannover-Misburg;S;556483,500;5806890,500
+3436;Hannover-Kirchhorst;3;NI;A;37;;AS Burgdorf;N;AK Hannover-Kirchhorst (A7);S;560798,427;5809301,741
+3437;Isernhagen;3;NI;A;7;;AS Großburgwedel;N;AS Altwarmbüchen;S;558422,500;5812304,000
+3438;Altwarmbüchen;3;NI;A;7;;AK Hannover-Kichhorst;N;AK Hannover-Ost;S;560644,000;5808163,500
+3439;Hannover-Bothfeld;3;NI;A;2;;AS Hannover-Lahe;O;AS Hannover-Bothfeld;W;555748,363;5808881,894
+3440;Wülferode;3;NI;A;7;;AS Hannover-Anderten;N;AS Laatzen;S;558859,000;5797501,000
+3441;Laatzen;3;NI;A;37;;AS Messegelände (B6);N;AD Dreieck Hannover-Süd;S;556649,944;5795390,397
+3442;Winsen;3;NI;A;39;;AS Winsen-Ost;N;AS Handorf;S;584011,500;5910040,500
+3443;Tötensen;3;NI;A;261;;AS Tötensen (Rosengarten);N;AD Buchholzer Dreieck (A1);S;558970,597;5916409,131
+3444;Dibbersen;3;NI;A;1;;AS Hittfeld;N;AS Dibbersen;S;564260,538;5914885,777
+3445;Osnabrück-Hellern;3;NI;A;30;;AS Osnabrück-Sutthausen;O;AS Osnabrück-Hellern;W;433752,500;5788804,000
+3446;Melle;3;NI;A;30;;AS Melle-Ost;O;AS Melle-West;W;454555,500;5782738,500
+3447;Fledder;3;NI;A;33;;AS Osnabrück-Lüstringen;N;AS Osnabrück-Fledder;S;438521,000;5790753,500
+3448;Mündrup;3;NI;A;33;;AS Harderberg;N;AS Borgloh/Kloster Oesede;S;439205,500;5785628,500
+3449;Haarentor;3;NI;A;28;;AS Oldenburg-Haarentor;O;AD Oldenburg-West (A293);W;446013,000;5888887,000
+3450;Wardenburg;3;NI;A;29;;AS Wardenburg;N;AS Großenkneten;S;446258,430;5871593,733
+3451;Sande;3;NI;A;29;;AS Sande;N;AS Zetel;S;434627,000;5925428,000
+3452;Stuhr;3;NI;A;28;;AS Groß-Mackenstedt;O;AD Dreieck Delmenhorst;W;479339,313;5874369,151
+3453;Oldenburg-Etzhorn;3;NI;A;293;;AS Oldenburg-Etzhorn;N;AS Oldenburg-Nadorst;S;448024,521;5891458,800
+3454;Wietmarschen;3;NI;A;31;;AS Wietmarschen;N;AS Lingen;S;378313,000;5816700,000
+3455;Groß Ippener;3;NI;A;1;;AS Groß Ippener;N;AS Wildeshausen-Nord;S;465007,348;5863634,632
+3456;Uphusen;3;NI;A;1;;AK Bremer Kreuz (A27);N;AS Uphusen/Mahndorf;S;498044,870;5876280,775
+3457;Agathenburg;3;NI;A;26;;AS Horneburg;O;AS Dollern;W;538031,335;5932634,068
+3460;Bockmerholz;3;NI;A;7;;AS Laatzen;N;AD Dreieck Hannover-Süd (A37);S;559638,500;5795403,500
+3461;Müllingen;3;NI;A;7;;AD Dreieck Hannover-Süd (A37);N;AS Hildesheim-Drispenstedt;S;561110,000;5793836,000
+3462;Hildesheim-Drispenstedt;3;NI;A;7;;AS Hildesheim-Drispenstedt;N;AS Hildesheim;S;566727,000;5781432,000
+3463;Heersum;3;NI;A;7;; TR Hildesheimer Börde;N;AS Derneburg/Salzgitter;S;575105,000;5775046,500
+3464;Holle;3;NI;A;7;;AS Derneburg/Salzgitter;N;AD Dreieck Salzgitter (A39);S;579666,000;5772344,000
+3466;Schandelah;3;NI;A;39;;AS Scheppau;N;AS Cremlingen;S;615924,000;5792329,000
+3467;Cremlingen;3;NI;A;39;;AS Cremlingen;N;AS Sickte;S;611998,500;5790424,000
+3468;Braunschweig-Rautheim;3;NI;A;39;;AS Sickte;N;AS Braunschweig-Rautheim;S;608475,000;5789925,500
+3469;Braunschweig-Südstadt;3;NI;A;39;;AS Braunschweig-Rautheim;N;AS Braunschweig-Südstadt;S;606076,000;5789325,000
+3470;Salzgitter-Thiede;3;NI;A;39;;AS Braunschweig-Rüningen-Süd;N;AS Salzgitter-Thiede;S;600825,500;5784537,500
+3471;Salzgitter-Üfingen;3;NI;A;39;;AS Salzgitter-Thiede;N;AS Salzgitter-Lebenstedt-Nord;S;596558,500;5783722,500
+3472;Salzgitter-Lebenstedt;3;NI;A;39;;AS Salzgitter-Watenstedt;N;AS Salzgitter-Lebenstedt-Süd;S;592235,500;5777958,000
+3473;Salzgitter-Lichtenberg;3;NI;A;39;;AS Salzgitter-Lebenstedt-Süd;N;AS Salzgitter-Lichtenberg;S;589960,000;5776871,000
+3474;Salzgitter-Osterlinde;3;NI;A;39;;AS Salzgitter-Lichtenberg;N;AS Westerlinde;S;585383,000;5776787,000
+3475;Baddeckenstedt;3;NI;A;39;;AS Westerlinde;N;AS Baddeckenstedt;S;582608,000;5774825,500
+3476;Binder;3;NI;A;39;;AS Baddeckenstedt;N;AD Dreieck Salzgitter (A7);S;580988,000;5772147,000
+3484;Watenbüttel;3;NI;A;2;;AK Braunschweig-Nord;O;AS Braunschweig-Hafen;W;601079,303;5797960,219
+3485;Schwülper;3;NI;A;2;;AS Braunschweig-Hafen;O;AS Braunschweig-Watenbüttel;W;599523,930;5798534,014
+3486;Meerdorf;3;NI;A;2;;AS Braunschweig-Watenbüttel;O;AS Peine-Ost;W;590198,156;5799486,771
+3487;Peine-Ost;3;NI;A;2;;AS Peine-Ost;O;AS Peine;W;584999,719;5799200,961
+3489;Immensen;3;NI;A;2;;AS Hämelerwald;O;AS Lehrte-Ost;W;571538,634;5803139,592
+3490;Gümmer;3;NI;A;2;;AS Garbsen;O;AS Wunstorf-Luthe;W;535603,479;5807498,906
+3491;Dedensen;3;NI;A;2;;AS Wunstorf-Luthe;O;AS Wunstorf-Kohlenfeld;W;533850,153;5805906,566
+3492;Groß-Munzel;3;NI;A;2;;AS Wunstorf-Kohlenfeld;O;AS Bad Nenndorf;W;529952,642;5801688,301
+3494;Hattendorf;3;NI;A;2;;AS Lauenau;O;AS Rehren;W;519469,116;5788161,335
+3495;Rehren;3;NI;A;2;;AS Rehren;O;AS Bad Eilsen;W;510330,709;5785429,559
+3496;Rinteln;3;NI;A;2;;AS Bad Eilsen;O;AS Veltheim;W;502621,274;5785543,134
+3497;Emstunnel;3;NI;A;31;;AS Leer-West;N;AS Jemgum;S;393137,000;5899104,000
+3498;Schüttorf;3;NI;A;31;;AK Kreuz Schüttorf (A30);N;AS Schüttorf-Ost;S;381249,053;5798782,811
+3499;Salzbergen;3;NI;A;30;;AS Salzbergen;O;AK Kreuz Schüttorf (A31);W;385926,724;5800052,339
+4602;Düderode;3;NI;A;7;;AS Seesen (Harz);N;AS Echte;S;575731,295;5740558,356
+2401;HB-Weserbrücke;4;HB;A;1;;AS Bremen-Hemelingen;N;AS Bremen-Arsten;S;491483,500;5876179,500
+2402;HB-Panrepel;4;HB;A;27;;AS Bremen-Sebaldsbrück;N;AK Bremer Kreuz (A1);S;498168,984;5877791,522
+2403;HB-Schwarzer Weg;4;HB;A;27;;AS Bremen-Industriehäfen;N;AS Bremen-Überseestadt;S;483965,164;5886871,609
+2410;HB-Silbersee;4;HB;A;1;;AS Bremen-Arsten;N;AS Bremen/Brinkum;S;487076,000;5874910,000
+2411;HB-Mahndorfer See;4;HB;A;1;;AS Uphusen/Bremen-Mahndorf;N;AS Bremen-Hemelingen;S;496527,804;5875341,721
+5001;Hünxe;5;NW;A;3;;AS Hünxe;N;AS Dinslaken-Nord;S;344774,678;5721689,025
+5002;Breitscheid;5;NW;A;3;;AS Duisburg-Wedau;N;AK Kreuz Breitscheid (A52);S;348254,487;5695276,713
+5003;AK Leverkusen (N);5;NW;A;3;;AS Opladen;N;AK Kreuz Leverkusen (A1);S;359972,714;5657022,767
+5004;Leverkusen;5;NW;A;3;;AS Leverkusen;N;AS Köln-Mülheim;S;360674,500;5652141,987
+5005;Siegburg;5;NW;A;3;;AS Lohmar;N;AK Kreuz Bonn-Siegburg (A560);S;374101,652;5630773,803
+5006;Bad Honnef/Linz;5;NW;A;3;;AS Siebengebirge;N;AS Bad Honnef/Linz;S;379621,227;5615021,573
+5007;Langenfeld;5;NW;A;59;;AS Rheindorf;N;AK Kreuz Leverkusen-West (A1);S;355513,406;5657454,221
+5008;Würselen;5;NW;A;4;;AK Kreuz Aachen (A544);O;AS Aachen-Zentrum;W;297677,058;5631823,316
+5010;Hürth;5;NW;A;1;;AS Hürth;N;AD Dreieck Erfttal (A61);S;344934,925;5634210,862
+5011;Schloss Burg;5;NW;A;1;;AS Wermelskirchen;N;AS Burscheid;S;372170,334;5665204,627
+5013;Meckenheim-Merl;5;NW;A;565;;AS Meckenheim-Nord;N;AS Meckenheim-Merl;S;362500,533;5611363,031
+5014;Neuss-Erfttal-West;5;NW;A;57;;AS Neuss-Hafen;N;AS Neuss-Norf;S;340307,491;5671684,427
+5015;Bensbg.Frankenforst;5;NW;A;4;;AS Berg. Gladbach-Bensberg;O;AS Berg. Gladbach-Frankenforst;W;369671,148;5645929,675
+5016;Neuss-Holzheim;5;NW;A;46;;AS Neuss-Holzheim (B230);O;AS Kapellen;W;334355,938;5669340,671
+5017;Jülich-Mersch;5;NW;A;44;;AS Titz;O;AS Jülich-Ost;W;315073,500;5649507,500
+5018;Wankum;5;NW;A;40;;AS Wachtendonk;O;AS Wankum;W;312799,425;5696558,919
+5019;Rheinberg;5;NW;A;57;;AS Alpen;N;AS Rheinberg;S;331132,737;5713108,842
+5020;AK Aachen (S);5;NW;A;44;;AK Kreuz Aachen (A4);O;AS Aachen-Brand;W;300533,001;5631174,771
+5021;AD Heumar (W);5;NW;A;4;;AD Dreieck Heumar (A3, A59);O;AK Kreuz Gremberg (A559);W;362370,854;5642677,870
+5022;AK Moers (O);5;NW;A;40;;AS Moers (L475);O;AK Kreuz Moers (A57);W;333615,398;5701050,081
+5023;AK Hilden (O);5;NW;A;46;;AS Hilden (L403);O;AK Kreuz Hilden (A3);W;356306,179;5673575,217
+5024;AK OB-West (O);5;NW;A;42;;AS Oberhausen-Buschhausen;O;AK Kreuz Oberhausen-West (A3);W;348769,887;5706161,807
+5026;Oberhausen-Sterkrade;5;NW;A;2;;AS Oberhausen-Königshardt;O;AK Kreuz Oberhausen (A3/A516);W;351907,776;5711923,028
+5027;Lintorf;5;NW;A;52;;AD Dreieck Breitscheid (A524);O;AS Tiefenbroich;W;350071,045;5689699,505
+5028;Essen-Bredeney;5;NW;A;52;;AS Essen-Rüttenscheid;O;AS Essen-Haarzopf;W;359118,149;5697954,495
+5029;Bliesheim;5;NW;A;553;;AS Brühl-Süd;N;AK Kreuz Bliesheim (A1/A61);S;347355,121;5627582,865
+5030;Neuss-Augustinusviertel;5;NW;A;57;;AS Übergang B1;N;AS Neuss-Hafen;S;340024,907;5672622,500
+5032;Köln-Lövenich;5;NW;A;1;;AS Köln-Bocklemünd;N;AS Köln-Lövenich;S;349037,474;5647212,113
+5033;Opladen II;5;NW;A;3;;AK Kreuz Langenfeld (A542);N;AS Opladen;S;359015,841;5658971,552
+5034;Eckenhagen;5;NW;A;4;;AS Eckenhagen;O;AS Reichshof/Bergneustadt;W;405973,204;5646892,018
+5035;AK Leverkusen (W);5;NW;A;1;;AK Kreuz Leverkusen (A3);N;AK Kreuz Leverkusen-West (A59);S;358801,279;5655933,361
+5036;Godorf;5;NW;A;555;;AS Godorf;N;AS Wesseling;S;356814,201;5633837,110
+5037;Essen-Kray;5;NW;A;40;;AS Gelsenkirchen-Süd;O;AS Essen-Kray;W;367671,203;5703759,470
+5039;Ratingen;5;NW;A;524;;AD Dreieck Breitscheid (A52);O;AS Lintorf;W;349042,809;5690911,235
+5040;Düsseldorf-Flehe;5;NW;A;46;;AS Düsseldorf-Bilk;O;AS Neuss-Uedesheim;W;344474,138;5671211,880
+5041;Hochneukirch;5;NW;A;46;;AD Dreieck Holz (A44);O;AK Kreuz Mönchengladbach-Wanlo (A61);W;322082,702;5663220,515
+5042;MG-Wickrath;5;NW;A;61;;AS Mönchengladbach-Wickrath;N;AS Mönchengladbach-Güdderath;S;319818,388;5667973,408
+5043;AD Essen Ost (S);5;NW;A;52;;AD Dreieck Essen-Ost (A40);O;AS Essen-Bergerhausen;W;363654,541;5701451,466
+5044;W-Oberbarmen;5;NW;A;46;;AS Wuppertal-Oberbarmen;O;AS Wuppertal-Wichlinghausen;W;377157,648;5685509,277
+5045;W-Sonnborn;5;NW;A;46;;AS Wuppertal-Varresbeck;O;AD Dreieck Sonnborner Kreuz (A535);W;367363,500;5679121,000
+5046;Schwalmtal;5;NW;A;52;;AS Hostert;O;AS Schwalmtal;W;309125,564;5675813,810
+5047;Nettersheim;5;NW;A;1;;AS Nettersheim;N;AS Blankenheim (B51);S;334787,483;5596022,825
+5048;Köln-Nord;5;NW;A;1;;AS Köln-Niehl;N;AK Kreuz Köln-Nord (A57);S;353494,558;5652816,707
+5049;Rheinbr. Rodenkirchen;5;NW;A;4;;AS Köln-Poll;O;AK Kreuz Köln-Süd (A555);W;358240,500;5639990,500
+5050;Hommersum;5;NW;A;57;;AS GÜG Goch-Autobahn;N;AS Kleve;S;296364,118;5728883,400
+5051;Hennef;5;NW;A;560;;AS Hennef (Sieg)-Ost;O;AS Hennef (Sieg)-West;W;379842,386;5626505,825
+5052;Neuss-Büttgen;5;NW;A;57;;AS Neuss-Büttgen;N;AK Kreuz Neuss-West (A46);S;336547,119;5673418,902
+5053;Köln-Klettenberg;5;NW;A;4;;AS Köln-Klettenberg (B265);O;AK Kreuz Köln-West (A1);W;349601,100;5643183,753
+5054;Neuss-Morgensternsheide;5;NW;A;57;;AS Neuss-Holzbüttgen;N;AK Neuss-Büttgen;S;335956,500;5674886,000
+5055;AK Bonn Ost (W);5;NW;A;562;;AK Kreuz Bonn-Ost (A59/B42);O;AS Bonn-Ramersdorf;W;369870,623;5620639,744
+5056;AD Bonn-Beuel (N);5;NW;A;59;;AD Dreieck Sankt Augustin-West (A560);N;AD Dreieck Beuel (A565);S;369012,500;5625811,000
+5057;AD St. Augustin (N);5;NW;A;59;;AS Troisdorf;N;AD Dreieck Sankt Augustin-West (A560);S;369068,878;5629181,521
+5058;AK BN-Siegburg (N);5;NW;A;3;;AS Lohmar;N;AK Kreuz Bonn-Siegburg (A560);S;376097,500;5626922,000
+5059;AK Kerpen (N);5;NW;A;61;;AS Bergheim-Süd;N;AK Kreuz Kerpen (A4);S;337734,500;5641103,000
+5060;Euskirchen/Bliesheim;5;NW;A;1;;AK Kreuz Bliesheim (A61/A553);N;AS Euskirchen (L264);S;346068,704;5625357,918
+5061;AK Neuss-Süd (S);5;NW;A;57;;AK Kreuz Neuss-Süd (A46);N;AS Dormagen;S;345461,530;5666606,353
+5062;Duisburg Süd;5;NW;A;59;;AS Duisburg-Großenbaum;N;AK Kreuz Duisburg-Süd (A524/B288);S;344262,640;5692040,691
+5063;DU Beeckerwerth;5;NW;A;42;;AS Duisburg-Beeckerwerth;O;AS Duisburg-Baerl;W;339673,447;5705814,603
+5064;AK Kamp-Lintfort (N);5;NW;A;57;;AS Kamp-Lintfort (L287);N;AK Kreuz Kamp-Lintfort (A42);S;331708,836;5707367,726
+5065;AK Breitscheid (S);5;NW;A;3;;AK Kreuz Breitscheid (A52);N;AK Kreuz Ratingen-Ost (A44);S;351180,906;5690555,038
+5066;Langenberg;5;NW;A;44;;AS Langenberg;O;AD Dreieck Velbert-Nord (A535);W;364221,140;5691399,795
+5067;Birth (Tunnel Velbert);5;NW;A;44;;AS Velbert-Nord (B224);O;AS Hetterscheidt;W;361617,764;5688567,818
+5068;Engelskirchen;5;NW;A;4;;AS Engelskirchen;O;AS Overath;W;385607,594;5647871,492
+5069;Walsum;5;NW;A;59;;AS Dinslaken-West (B8);N;AS Dinslaken-Hiesfeld;S;343230,048;5712786,559
+5070;Oberhausen-Holten;5;NW;A;3;;AK Kreuz Oberhausen (A2/A516);N;AS Oberhausen-Holten;S;348417,722;5710349,331
+5071;Elten;5;NW;A;3;;AS GÜG Elten;N;AS Elten;S;305895,641;5752019,336
+5072;AC-Vetschau;5;NW;A;4;;AS Aachen-Laurensberg;O;AS GÜG Vetschau;W;290737,091;5633380,802
+5073;Straelen (Niederdorf);5;NW;A;40;;AS Straelen;O;AS Niederdorf;W;309274,556;5696128,262
+5074;AC-Lichtenbusch;5;NW;A;44;;AS Aachen-Lichtenbusch;O;AS GÜG Lichtenbusch;W;296951,413;5622598,515
+5075;Dremmen;5;NW;A;46;;AS Hückelhoven-West;O;AS Dremmen;W;301805,163;5658992,931
+5076;Schwanenhaus;5;NW;A;61;; GüG NL;N;AS Nettetal-West;S;303549,596;5690551,050
+5077;Aachen-Brand;5;NW;A;44;;AS Aachen-Brand;O;AS Aachen-Lichtenbusch;W;297389,447;5622998,001
+5078;Neersen;5;NW;A;44;;AS Münchheide;O;AS Neersen (B7/L361);W;325704,842;5681960,626
+5079;Ilverich;5;NW;A;44;;AS Düsseldorf-Messe/Stadion;O;AS Lank-Latum;W;337647,115;5684466,026
+5080;Miel;5;NW;A;61;;AS Rheinbach;N;AS Miel;S;353489,113;5613463,919
+5081;AK Neersen (N);5;NW;A;44;;AS Neersen;O;AK Kreuz Neersen (A52);W;324906,193;5680703,044
+5082;Buir / Merzenich;5;NW;A;4;;AS Elsdorf;O;AS Merzenich;W;327560,655;5636425,908
+5083;Frauenthal;5;NW;A;1;;AS Erftstadt;N;AK Kreuz Bliesheim (A61/A553);S;345713,500;5627771,000
+5084;Holweide;5;NW;A;3;;AS Köln-Dellbrück;N;AK Kreuz Köln-Ost (A4);S;361902,500;5647308,000
+5085;Willich-Schiefbahn;5;NW;A;52;;AS Schiefbahn;O;AK Kreuz Neersen (A44);W;326913,642;5678976,842
+5086;Gremberghoven;5;NW;A;559;;AK Kreuz Köln-Gremberg (A4);N;AS Köln-Gremberghoven;S;362457,500;5641496,000
+5087;Köln-Longerich;5;NW;A;57;;AS Köln-Longerich;N;AS Köln-Bickendorf;S;352790,000;5650591,000
+5088;Meerbusch-Bovert;5;NW;A;57;;AK Kreuz Meerbusch (A44);N;AS Bovert;S;335313,171;5683674,624
+5089;Flughafen Köln/Bonn;5;NW;A;59;;AD Köln Porz (A559);N;AS Flughafen Köln/Bonn;S;365704,000;5639684,000
+5090;Düsseldorf-Urdenbach;5;NW;A;59;;AS Düsseldorf-Garath;N;AS Richrath (L353);S;353689,978;5666725,618
+5097;Ratingen-Schwarzbach;5;NW;A;44;;AS Reichswaldallee (L455);O;AK Kreuz Düsseldorf-Nord (A52);W;346983,000;5683690,500
+5100;Holzen;5;NW;A;1;;AS Schwerte;N;AK Westhofener Kreuz (A45);S;398244,500;5700050,500
+5101;Hengsen;5;NW;A;1;;AK Kreuz Dortmund/Unna (A44);N;AS Schwerte;S;404598,978;5704894,927
+5102;Oelde;5;NW;A;2;;AS Herzebrock-Clarholz;O;AS Oelde;W;442507,059;5741079,813
+5103;Kirchlengern;5;NW;A;30;;AS Kirchlengern;O;AS Hiddenhausen;W;474731,001;5781873,627
+5104;Dortmund Süd;5;NW;A;45;;AS Dortmund-Süd;N;AK Westhofener Kreuz (A1);S;396496,410;5699892,822
+5105;Lüdenscheid Nord;5;NW;A;45;;AS Hagen-Süd;N;AS Lüdenscheid-Nord;S;400962,148;5682616,693
+5106;Freudenberg;5;NW;A;45;;AS Freudenberg;N;AS Siegen;S;424065,393;5639116,372
+5107;Herne;5;NW;A;43;;AS Herne-Eickel;N;AS Bochum-Riemke;S;375811,190;5709346,803
+5108;Sprockhövel;5;NW;A;43;;AS Witten-Herbede;N;AS Bochum-Sprockhövel;S;379085,647;5693478,440
+5109;Albachten;5;NW;A;43;;AK Kreuz Münster-Süd (A1);N;AS Senden;S;397680,534;5751634,066
+5110;Soest;5;NW;A;44;;AS Soest;O;AK Kreuz Werl (A445);W;433993,426;5710960,668
+5111;Paderborn;5;NW;A;33;;AS Stukenbrock-Senne;N;AS Paderborn-Sennelager;S;479316,817;5740350,016
+5112;Ibbenbüren;5;NW;A;30;;AS Lotte;O;AS Laggenbeck;W;419226,233;5790008,745
+5113;Bochum;5;NW;A;40;;AS Bochum-Stahlhausen;O;AS Dückerweg;W;372280,279;5704510,682
+5115;GE-Hessler;5;NW;A;42;;AS Gelsenkirchen-Heßler;O;AS Essen-Altenessen;W;363173,255;5708725,615
+5116;Wanne-Eickel;5;NW;A;42;;AS Herne-Crange;O;AS Herne-Wanne;W;372063,507;5711724,627
+5117;Gescher;5;NW;A;31;;AS Gescher/Coesfeld;N;AS Borken;S;364830,343;5754422,289
+5118;Ladbergen;5;NW;A;1;;AS Lengerich;N;AS Ladbergen;S;414079,872;5779392,163
+5119;Meschede;5;NW;A;46;;AS Meschede;O;AS Enste;W;449107,060;5690297,957
+5120;Bielefeld;5;NW;A;2;;AS Bielefeld-Sennestadt;O;AK Kreuz Bielefeld (A33);W;469638,743;5755477,648
+5121;Ascheberg;5;NW;A;1;;AS Münster-Hiltrup;N;AS Ascheberg;S;403167,626;5743439,610
+5122;Gelsenkirchen;5;NW;A;2;;AK Kreuz Recklinghausen (A43);O;AS Herten;W;372581,033;5715510,775
+5123;Bad Oeynhausen;5;NW;A;2;;AS Porta Westfalica;O;AK Kreuz Bad Oeynhausen (A30);W;490382,123;5784467,750
+5124;Hagen-Vorhalle;5;NW;A;1;;AS Hagen-Nord;N;AS Hagen-West;S;393055,971;5695539,843
+5125;Waltrop-Brambauer;5;NW;A;2;;AS Dortmund-Nordost;O;AS Dortmund-Mengede (L609);W;394492,156;5714876,783
+5126;Recklinghausen-Ost;5;NW;A;2;;AS Recklinghausen-Ost;O;AS Recklinghausen-Süd;W;378224,064;5717349,192
+5127;Bockhorst;5;NW;A;33;;AS Dissen-Süd;N;AS Borgholzhausen;S;447731,500;5770631,500
+5128;Wenden-Dahl;5;NW;A;4;;AS Krombach (B54);O;AS Wenden (L512);W;422075,517;5649882,764
+5129;Bielefeld-Senne;5;NW;A;33;;AS Bielefeld-Senne;N;AK Kreuz Bielefeld (A2);S;467841,503;5754816,839
+5130;Bielefeld-Windflöte;5;NW;A;33;;AS Bielefeld-Zentrum;N;AS Bielefeld-Senne;S;465915,514;5756248,423
+5131;Bergbossendorf;5;NW;A;43;;AS Haltern;N;AK Kreuz Marl-Nord (A52);S;372271,000;5731620,500
+5132;Recklinghausen-West;5;NW;A;43;;AS Recklinghausen/Herten (B225/L622);N;AK Kreuz Recklinghausen (A2);S;374416,663;5717304,988
+5133;Bochum-Laer;5;NW;A;43;;AK Kreuz Bochum (A40);N;AS Bochum-Laer;S;380435,000;5705302,000
+5134;Witten;5;NW;A;44;;AS Witten-Stockum;O;AS Witten-Zentrum;W;383947,000;5702001,000
+5135;Unna-Süd;5;NW;A;44;;AS Unna-Ost (L672);O;AK Kreuz Dortmund/Unna (A1);W;408449,541;5708494,202
+5136;Lichtenau-Blankenrode;5;NW;A;44;;AS Marsberg (B7);O;AS Lichtenau;W;492505,627;5709265,436
+5137;Werl-West;5;NW;A;445;;AS Werl-Nord (B63);N;AS Werl-Zentrum (B1);S;423023,000;5712596,000
+5138;Dortmund-Mengede-West;5;NW;A;45;;AK Kreuz Dortmund-Nordwest (A2);N;AK Kreuz Castrop-Rauxel-Ost (A42);S;386704,150;5715264,533
+5139;Dortmund-Marten;5;NW;A;45;;AS Dortmund-Hafen;N;AK Kreuz Dortmund-West (A40);S;388030,485;5707064,858
+5140;Schwerte-Wandhofen;5;NW;A;45;;AK Westhofener Kreuz (A1);N;AS Schwerte-Ergste;S;398998,844;5697977,235
+5141;Hagen-Hohenlimburg;5;NW;A;46;;AS Hagen-Hohenlimburg;O;AK Kreuz Hagen (A45);W;398326,530;5691900,469
+5142;Gelsenkirchen-Polsum;5;NW;A;52;;AS Dorsten-Ost;O;AS Gelsenkirchen-Hassel;W;364009,620;5720556,554
+5143;Lotte;5;NW;A;1;;AS Osnabrück-Hafen;N;AK Kreuz Lotte/Osnabrück (A30);S;427431,331;5792881,028
+5144;Unna;5;NW;A;1;;AS Kamen-Zentrum;N;AS Unna (B1);S;407358,448;5711974,454
+5145;Altenbögge;5;NW;A;2;;AS Bönen;O;AK Kamener Kreuz (A1);W;411506,500;5717746,500
+5146;Dortmund-Eichlinghofen;5;NW;A;45;;AS Dortmund-Eichlinghofen;N;AK Kreuz Dortmund/Witten (A44);S;389175,500;5703125,500
+5147;Gelsenkirchen-Erle;5;NW;A;2;;AS Herten;O;AS Gelsenkirchen-Buer;W;366559,326;5714327,413
+5148;Bönen;5;NW;A;2;;AS Hamm;O;AS Bönen;W;415297,000;5719036,500
+5149;Oeventrop;5;NW;A;46;;AS Freienohl;O;AS Arnsberg-Ost;W;438303,657;5693529,629
+5150;Freienohl;5;NW;A;46;;AS Wennemen;O;AS Freienohl;W;441723,589;5690474,518
+5151;Werste;5;NW;A;30;;AS Bad Oeynhausen-Nord;O;AS Gohfeld;W;484223,000;5786151,500
+5152;Bochum-Hamme;5;NW;A;448;;AS Bochum-Stahlhausen;O;AS Bochum-West (L633);W;374081,000;5704325,000
+5153;Bladenhorst;5;NW;A;42;;AS Castrop-Rauxel;O;AS Castrop-Rauxel-Bladenhorst;W;382232,000;5713447,500
+5154;Bochum-Ruhrpark;5;NW;A;40;;AS Bochum-Werne;O;AK Kreuz Bochum (A43);W;380728,500;5706485,500
+5155;Brönninghausen;5;NW;A;2;;AS Ostwestfalen/Lippe;O;AS Bielefeld-Ost;W;474300,000;5761837,500
+5156;Borstenbach;5;NW;A;2;;AK Bad Oeynhausen (A30);O;AS Vlotho-West;W;487313,000;5779793,500
+5157;Rheine-Kanalhafen;5;NW;A;30;;AS Rheine-Kanalhafen;O;AS Rheine;W;398531,500;5794998,500
+5158;Hörstel;5;NW;A;30;;AS Hörstel;O;AS Rheine-Kanalhafen;W;402838,000;5794031,000
+5159;Schierloh;5;NW;A;30;;AS Ibbenbühren;O;AS Ibbenbühren-West;W;410516,500;5791027,000
+5160;Ochtrup;5;NW;A;31;;AS Ochtrup-Nord;N;AS Gronau/Ochtrup;S;372596,500;5787183,500
+5161;Nienborg;5;NW;A;31;;AS Gronau/Ochtrup;N;AS Heek;S;369193,500;5777378,500
+5162;Lembeck;5;NW;A;31;;AS Lembeck;N;AS Schermbeck;S;359550,500;5735590,500
+5163;Hardtbergsee;5;NW;A;31;;AS Dorsten;N;AS Bottrop-Feldhausen;S;356896,500;5724067,500
+5164;Kirchhellen (N);5;NW;A;31;;AS Bottrop-Feldhausen;N;AS Kirchhellen;S;357016,000;5721558,500
+5165;Feldhausen;5;NW;A;31;;AS Kirchhellen;N;AS Gladbeck;S;357408,500;5718440,000
+5166;Horsthausen;5;NW;A;42;;AS Herne-Börnig;O;AS Herne-Horsthausen;W;378707,500;5713373,500
+5167;Wickede;5;NW;A;445;;AK Kreuz Werl (A44);N;AS Wickede (Ruhr);S;423364,500;5708954,000
+5168;Bochum (W);5;NW;A;448;;AS Bochum-Eppendorf;O;AS Bochum-Stahlhausen;W;374668,500;5703433,500
+5169;Kalve;5;NW;A;45;;AS Lüdenscheid;N;AS Lüdenscheid-Süd;S;407092,000;5674303,500
+5170;Flugh. Münster/Osnabrück;5;NW;A;1;;AS Ladbergen;N;AS Flughafen Münster/Osnabrück;S;411698,500;5775383,000
+5171;Gievenbeck;5;NW;A;1;;AK Kreuz Münster-Nord;N;AK Kreuz Münster-Süd (A43);S;400567,000;5759862,000
+5172;Hölken;5;NW;A;1;;AD Wuppertal-Nord (A43/A46);N;AS Wuppertal-Langerfeld;S;378826,000;5684367,000
+5173;Kamen;5;NW;A;2;;AK Kamener Kreuz (A1);O;AS Kamen/Bergkamen;W;406621,500;5717317,500
+5174;Rhynern;5;NW;A;2;;AS Hamm-Uentrop;O;AS Hamm;W;420816,500;5720018,000
+5175;Brunsberg;5;NW;A;2;;AS Beckum;O;AS Hamm-Uentrop;W;430504,500;5733293,000
+5176;Rheda-Wiedenbrück;5;NW;A;2;;AS Gütersloh;O;AS Rheda-Wiedenbrück;W;454947,000;5745701,000
+5177;Sürenheide;5;NW;A;2;;AK Kreuz Bielefeld (A33);O;AS Gütersloh;W;461757,500;5748874,500
+5248;W-Saurenhaus;5;NW;A;535;;AS Wülfrath;N;AS Wuppertal-Dornap;S;366336,490;5680729,639
+5249;Velbert Nord;5;NW;A;535;;AD Velbert-Nord (A44);N;AS Velbert;S;363989,068;5690229,152
+5260;Elmpt;5;NW;A;52;;AS Elmpt;O; Bundesgrenze (NL);W;299133,433;5677176,761
+5343;Dortmund;5;NW;A;40;;AS Dortmund-Barop;O;AS Dortmund-Dorstfeld;W;389774,500;5706202,500
+5601;AK Neuss-Süd (N);5;NW;A;57;;AS Neuss-Norf;N;AK Kreuz Neuss-Süd;S;342126,184;5670545,831
+5602;Neuss-West;5;NW;A;57;;AK Kreuz Neuss-West (A46);N;AS Neuss-Reuschenberg;S;337670,332;5672259,294
+5621;AK Kerpen (S);5;NW;A;61;;AK Kreuz Kerpen (A4);N;AS Türnich;S;338154,500;5640178,500
+5622;AK Kerpen (W);5;NW;A;4;;AK Kreuz Kerpen (A61);O;AS Kerpen;W;337662,059;5640444,248
+5624;AK Kerpen (O);5;NW;A;4;;AK Kreuz Köln-West (A1);O;AK Kreuz Kerpen (A61);W;338384,962;5640991,346
+5625;AK Bonn Ost (N);5;NW;A;59;;AS Pützchen (L83);N;AK Kreuz Bonn-Ost (A562);S;369933,402;5621256,471
+5626;AK Bonn-Ost (O);5;NW;A;562;; Anschluß (Oberkasseler Straße);O;AK Kreuz Bonn-Ost (A59/B42);W;370452,500;5620992,000
+5628;AD St.Augustin (S);5;NW;A;59;;AD Dreieck Sankt Augustin-West (A560);N;AD Dreieck Beuel (A565);S;369637,500;5627756,500
+5629;AD St.Augustin (O);5;NW;A;560;;AS Sankt Augustin;O;AD Dreieck Sankt Augustin-West (A59);W;369707,171;5628471,810
+5630;AK BN-Siegburg (O);5;NW;A;560;;AS Hennef (Sieg)-West;O;AK Kreuz Bonn/Siegburg (A3);W;376441,602;5626340,064
+5631;AK BN-Siegburg (S);5;NW;A;3;;AK Kreuz Bonn/Siegburg (A560);N;AS Siebengebirge;S;375685,308;5621152,771
+5632;AK BN-Siegburg (W);5;NW;A;560;;AK Kreuz Bonn/Siegburg (A3);O;AS Niederpleis;W;375393,058;5626466,676
+5633;AD Bonn-Beuel (S);5;NW;A;59;;AD Dreieck Bonn-Beuel (A565);N;AS Beuel-Ost (B56);S;368683,569;5624891,339
+5634;AD Bonn-Beuel (W);5;NW;A;565;;AD Dreieck Beuel (A59);N;AS Bonn-Beuel-Nord;S;367936,132;5625318,616
+5635;AK Kamp-Lintfort (O);5;NW;A;42;;AS Moers-Nord;O;AK Kreuz Kamp-Lintfort (A57);W;332193,119;5707209,717
+5636;AK Kamp-Lintfort (S);5;NW;A;57;;AK Kreuz Kamp-Lintfort (A42);N;AS Moers-Hülsdonk;S;331888,757;5706494,677
+5637;AK Breitscheid (W);5;NW;A;52;;AK Kreuz Breitscheid (A3);O;AD Dreieck Breitscheid (A524);W;350604,393;5690627,026
+5639;AK Breitscheid (O);5;NW;A;52;;AS Breitscheid (B1/B227);O;AK Kreuz Breitscheid (A3);W;351004,916;5691137,341
+5650;AK Aachen (N);5;NW;A;44;;AS Broichweiden;O;AK Kreuz Aachen (A4);W;300724,055;5632398,661
+5651;AK Aachen (O);5;NW;A;4;;AS Eschweiler;O;AK Kreuz Aachen (A44);W;303360,825;5632871,229
+5653;AK Aachen (SW);5;NW;A;544;;AK Kreuz Aachen (A4);O;AS Würselen;W;299420,815;5631610,470
+5654;AK Aachen (W);5;NW;A;4;;AK Kreuz Aachen (A544);O;AS Aachen-Zentrum;W;300201,254;5631931,008
+5655;AK Hilden (N);5;NW;A;3;;AS Mettmann;N;AK Kreuz Hilden (A46);S;354904,178;5676187,728
+5657;AK Hilden (S);5;NW;A;3;;AK Kreuz Hilden;N;AS Solingen;S;357801,306;5668588,005
+5658;AK Hilden (W);5;NW;A;46;;AS Erkrath;O;AK Kreuz Hilden (A3);W;355447,869;5673351,862
+5660;AK Moers (N);5;NW;A;57;;AS Moers-Hülsdonk;N;AK Kreuz Moers (A40);S;333400,727;5701512,431
+5662;AK Moers (S);5;NW;A;57;;AK Kreuz Moers (A40);N;AS Moers-Kapellen;S;333525,779;5699531,075
+5663;AK Moers (W);5;NW;A;40;;AK Kreuz Moers (A57);O;AS Neukirchen-Vluyn;W;332979,937;5700999,663
+5665;AK OB-West (N);5;NW;A;3;;AS Oberhausen-Holten;N;AK Kreuz Oberhausen-West (A42);S;348471,255;5706818,566
+5667;AK OB-West (S);5;NW;A;3;;AK Kreuz Oberhausen-West (A42);N;AS Oberhausen-Lirich;S;348154,515;5705691,087
+5668;AK OB-West (W);5;NW;A;42;;AK Kreuz Oberhausen-West (A3);O;AS Duisburg-Neumühl;W;347688,293;5706261,777
+5670;Neuss-Selikum;5;NW;A;57;;AS Neuss-Reuschenberg;N;AS Neuss-Hafen;S;339339,398;5671954,597
+5672;AD Heumar (N);5;NW;A;3;;AK Kreuz Köln-Ost (A4);N;AD Dreieck Heumar (A4/A59);S;362914,144;5644365,817
+5673;AD Heumar (S);5;NW;A;3;;AD Dreieck Heumar (A4/A59);N;AS Königsforst;S;365841,101;5642495,617
+5674;AK Heumar (Flughfn.);5;NW;A;59;;AD Dreieck Heumar (A3/A4);N;AS Rath;S;363990,715;5642081,048
+5675;AK Leverkusen (O);5;NW;A;1;;AS Burscheid;N;AK Kreuz Leverkusen (A3);S;364845,487;5658634,694
+5676;AK Leverkusen (S);5;NW;A;3;;AK Kreuz Leverkusen (A1);N;AS Leverkusen-Zentrum;S;360438,171;5655381,954
+5680;AD Essen-Ost (W);5;NW;A;40;;AD Dreieck Essen-Ost (A52);O;AS Essen-Huttrop;W;363827,288;5702171,243
+5681;AD Essen-Ost (O);5;NW;A;40;;AS Essen-Frillendorf;O;AD Dreieck Essen-Ost (A52);W;364255,201;5702410,706
+5686;AK Neuss Süd (O);5;NW;A;46;;AS Neuss-Uedesheim;O;AK Kreuz Neuss-Süd (A57);W;343562,261;5670063,356
+5701;Stukenbrock;5;NW;A;33;;AS Schloß-Holte-Stukenbrock;N;AS Stukenbrock-Senne;S;476254,000;5746620,500
+5703;Bliesheim;5;NW;A;1;;AS Erftstadt;N;AK Kreuz Bliesheim (A61/A553);S;345056,500;5629396,500
+5704;Straelen;5;NW;A;40;;AS Straelen;O;AS Niederdorf;W;309183,000;5696071,000
+5705;Reken;5;NW;A;31;;AS Borken;N;AS Reken;S;362173,868;5743862,551
+6008;Mannheim-Vogelstang;6;HE;A;659;;AK Viernheimer Kreuz (A6);N; Anschluss (B38);S;467776,000;5485525,000
+6210;Wommen (W);6;HE;A;4;;AS Wommen;O;AS Gerstungen;W;578401,500;5652283,000
+6311;AD Preungesheim (N);6;HE;A;661;;AS Frankfurt a. Main-Eckenheim;N;AS Preungesheimer Dreieck;S;478086,500;5556461,500
+6348;Kerzell (Eichenzell);6;HE;A;66;;AS Fulda-Süd;O;AS Neuhof-Nord;W;546121,500;5591050,000
+6410;Rebstock;6;HE;A;648;;AS Frankfurt-Katharinenkreisel;O;AS Frankfurt a. Main-Rebstock;W;472857,000;5551518,000
+6411;Marborn;6;HE;A;66;;AS Steinau an der Straße;O;AS Bad Soden-Salmünster;W;530576,500;5573667,500
+6506;Walburg;6;HE;A;44;;AS Hessisch Lichtenau-Ost;O;AS Hessisch Lichtenau-Mitte;W;554693,000;5671709,000
+6510;Bad Soden-Salmünster;6;HE;A;66;;AS Bad Soden-Salmünster;O;AS Bad Orb/Wächtersbach;W;526368,000;5568850,000
+6511;Frankfurt-Westhausen;6;HE;A;66;;AS Frankfurt a. Main-Ludwig-Landmann-Str;O;AK Nordwestkreuz Frankfurt a. Main (A5);W;471953,000;5553346,500
+6512;AD Preungesheim (S);6;HE;A;661;;AS Preungesheimer Dreieck;N;AS Frankfurt a. Main-Friedberger Landstr;S;479023,500;5555695,500
+6514;Frankfurt-Osthafen;6;HE;A;661;;AS Frankfurt a. Main-Ost;N;AS Offenbach-Kaiserlei;S;480932,500;5551414,000
+6583;Sorga;6;HE;A;4;;AS Friedewald;O;AS Bad Hersfeld;W;555332,000;5635690,000
+6603;Guxhagen;6;HE;A;7;;AD Dreieck Kassel-Süd (A44);N;AS Guxhagen;S;532860,000;5673165,500
+6610;Heiligenrode;6;HE;A;7;;AS Kassel-Nord;N;AD Dreieck Kassel-Ost;S;539137,000;5683744,500
+6611;Laubenheim;6;HE;A;60;;AS Ginsheim-Gustavsburg;O;AS Mainz-Laubenheim;W;451647,500;5536252,000
+6613;Frankfurt-Seckbach;6;HE;A;661;;AS Frankfurt a. Main-Friedberger Landstr;N;AS Frankfurt a. Main-Ost;S;479363,500;5554033,000
+6614;Rückers;6;HE;A;66;;AS Flieden;O;AS Schlüchtern-Nord;W;540605,500;5584862,500
+6615;Hochheim;6;HE;A;671;;AS Hochheim-Nord;N;AS Hochheim-Süd;S;452645,500;5540455,000
+6616;Neuhof;6;HE;A;66;;AS Neuhof-Nord;O;AS Neuhof-Süd;W;545301,500;5590487,500
+6645;Baunatal;6;HE;A;49;;AS Baunatal-Mitte;N;AS Baunatal-Süd;S;529831,376;5676402,550
+6650;Garbenheim;6;HE;A;45;;AS Wetzlar-Ost;N;AS Wetzlar-Süd;S;469074,500;5600735,500
+6680;Fulda-Süd (O);6;HE;A;66;;AS Eichenzell;O;AS Fulda-Süd;W;549272,000;5593162,000
+6700;Zeilsheim;6;HE;A;66;;AS Frankfurt a. Main-Zeilsheim;O;AD Krifteler Dreieck;W;463069,000;5548998,500
+6702;Ravolzhausen;6;HE;A;45;;AS Langenselbold-West;N;AD Langenselbolder Dreieck (A66/B40);S;501032,500;5558283,500
+6708;Wommen (O);6;HE;A;4;;AS Herleshausen;O;AS Wommen;W;578893,000;5652336,500
+6709;Untersuhl;6;HE;A;4;;AS Gerstungen;O;AS Wildeck-Obersuhl;W;572574,500;5645585,000
+6711;Lohfelden;6;HE;A;7;;AD Dreieck Kassel-Ost;N;AK Kreuz Kassel-Mitte (A49);S;537484,000;5681178,000
+6712;Steinau an der Straße;6;HE;A;66;;AS Schlüchtern-Süd;O;AS Steinau an der Straße;W;533408,000;5575120,500
+6713;Niederzell;6;HE;A;66;;AS Schlüchtern-Nord;O;AS Schlüchtern-Süd;W;534060,500;5575457,000
+6714;AD Reiskirchen-Süd;6;HE;A;5;;AD Reiskirchener Dreieck (A480);N;AS Reiskirchen;S;487309,000;5605915,000
+6715;Flieden;6;HE;A;66;;AS Neuhof-Süd;O;AS Flieden;W;541102,000;5585651,500
+6723;Frankfurt Westhafen;6;HE;A;5;;AK Westkreuz Frankfurt a. Main (A648);N;AS Frankfurt a. Main-Westhafen;S;472492,000;5549313,500
+6730;Mainz-Amöneburg;6;HE;A;671;;AS Wiesbaden-Amöneburg;N;AS Mainz-Kastel;S;447077,500;5543096,000
+6731;Arnsbach;6;HE;A;49;;AS Borken (Hessen);N;AS Neuental;S;516629,000;5656706,500
+6736;Mainflingen;6;HE;A;45;;AS Kleinostheim;N;AS Mainhausen;S;503129,500;5540679,500
+6737;Merkenbach;6;HE;A;45;;AS Herborn-West;N;AS Herborn-Süd;S;451004,500;5612602,500
+6740;Almendfeld;6;HE;A;67;;AS Pfungstadt;N;AS Gernsheim;S;467155,000;5512459,500
+6755;Eschborner Dreieck;6;HE;A;66;;AK Nordwestkreuz Frankfurt a. Main (A5);O;AD Eschborner Dreieck (A648);W;469940,500;5553315,000
+6756;Darmstadt-Griesheim;6;HE;A;672;;AK Darmstädter Nordkreuz (A5);O;AD Griesheimer Dreieck (A67);W;471040,000;5524373,500
+6780;Grossauheim;6;HE;A;45;;AK Hanauer Kreuz (A66/B43a);N;AS Alzenau-Nord;S;499441,500;5550858,000
+6782;Dennhausen;6;HE;A;44;;AD Dreieck Kassel-Süd (A7);O;AK Kreuz Kassel-West (A49);W;532255,500;5679035,500
+6790;Hessisch Lichtenau;6;HE;A;44;;AS Hessisch Lichtenau-Mitte;O;AS Hessisch Lichtenau-West;W;551801,000;5672512,000
+6791;Waldkappel;6;HE;A;44;;AS Waldkappel (B7/L3334);O;AS Hessisch Lichtenau-Ost;W;560340,500;5667475,000
+6793;Gustavsburg;6;HE;A;671;;AS Hochheim-Süd;N;AS Gustavsburg;S;453092,500;5538606,000
+6800;Kassel-Nord (N);6;HE;A;7;;AS Hann. Münden/Lutterberg;N;AS Kassel-Nord;S;539700,195;5685976,427
+6801;Biebertal;6;HE;A;480;;AS Wettenberg;O; Anschluss L3047;W;474818,500;5605971,500
+6804;Melgershausen;6;HE;A;7;;AS Guxhagen;N;AS Melsungen;S;533682,500;5667556,000
+6806;Bad Hersfeld-West;6;HE;A;7;;AS Homberg (Efze);N;AS Bad Hersfeld-West;S;540175,290;5640283,853
+6807;Hanau (S);6;HE;A;3;;AS Hanau;N;AS Seligenstadt;S;494993,910;5543657,902
+6808;AD Hattenbach (N);6;HE;A;7;;AS Kirchheim;N;AD Hattenbacher Dreieck (A5);S;538387,500;5629362,500
+6810;AD Hattenbach 2;6;HE;A;5;;AD Hattenbacher Dreieck (A7);N;AS Alsfeld-Ost;S;535427,138;5628212,632
+6811;Alsfeld;6;HE;A;5;;AS Alsfeld-Ost;N;AS Alsfeld-West;S;520280,936;5621280,552
+6812;Gemünden (Felda);6;HE;A;5;;AS Alsfeld-West;N;AS Homberg (Ohm);S;502512,000;5614652,500
+6813;Grünberg-Lumda;6;HE;A;5;;AS Homberg (Ohm);N;AS Grünberg;S;495950,000;5609594,000
+6814;Berndshausen;6;HE;A;7;;AS Malsfeld;N;AS Homberg (Efze);S;534677,000;5654771,000
+6815;Reiskirchen;6;HE;A;5;;AS Reiskirchen;N;AS Fernwald;S;486790,808;5604820,409
+6816;AK Gambach (N);6;HE;A;5;;AS Fernwald;N;AK Gambacher Kreuz (A45);S;481139,500;5592948,500
+6817;AK Gambach (S);6;HE;A;5;;AK Gambacher Kreuz (A45);N;AS Butzbach;S;479748,757;5589375,779
+6818;Nieder-Weisel;6;HE;A;5;;AS Butzbach;N;AS Bad Nauheim;S;478663,500;5584445,500
+6819;Obermörlen;6;HE;A;5;;AS Bad Nauheim;N;AS Ober-Mörlen;S;478952,000;5581765,500
+6820;Ober-Eschbach;6;HE;A;5;;AS Friedberg;N;AK Bad Homburger Kreuz (A661);S;475964,000;5566322,500
+6821;AK Frankfurt NW (N);6;HE;A;5;;AK Bad Homburger Kreuz (A661);N;AK Nordwestkreuz Frankfurt a. Main (A66);S;471898,500;5556864,000
+6822;Rödelheim;6;HE;A;5;;AK Nordwestkreuz Frankfurt a. Main (A66);N;AK Westkreuz Frankfurt a. Main (A648);S;470840,000;5552634,000
+6823;AD Viernheim Nord;6;HE;A;67;;AS Lorsch;N;AD Viernheimer Dreieck (A6);S;467947,460;5496593,445
+6824;Rosbach;6;HE;A;5;;AS Ober-Mörlen;N;AS Friedberg;S;478555,000;5578934,500
+6825;Mörfelden-Walldorf;6;HE;A;5;;AS Zeppelinheim;N;AS Langen/Mörfelden;S;470927,500;5540136,000
+6826;Griesheim;6;HE;A;5;;AS Weiterstadt;N;AD Dreieck Darmstadt (A672);S;471500,000;5525873,000
+6827;AK Darmstadt Süd;6;HE;A;67;;AK Darmstädter Kreuz (A5);N;AS Pfungstadt;S;470908,187;5521515,325
+6828;Gernsheim;6;HE;A;67;;AS Gernsheim;N;AS Lorsch;S;467272,447;5506530,472
+6829;AD Viernheim (W);6;HE;A;6;;AD Viernheimer Dreieck (A67);O;AS Mannheim-Sandhofen;W;466885,946;5489364,752
+6830;AK Viernheim (N);6;HE;A;6;;AK Viernheimer Kreuz (A659);O;AD Viernheimer Dreieck (A67);W;468117,000;5487226,500
+6831;Wiesbaden-Mühltal;6;HE;A;671;;AS Wiesbaden-Mainzer Straße (A66/B263);N;AS Wiesbaden-Amöneburg;S;446743,500;5544208,000
+6832;Delkenheim;6;HE;A;66;;AS Wallau;O;AS Wiesbaden-Nordenstadt;W;454724,000;5545017,000
+6833;Hofheim;6;HE;A;66;;AS Hattersheim;O;AS Hofheim a. Ts.;W;459749,500;5544945,000
+6834;Diedenbergen;6;HE;A;66;;AS Hofheim a. Ts.;O;AS Diedenbergen;W;458882,000;5544957,000
+6835;Würgendorf;6;HE;A;45;;AS Haiger/Burbach;N;AS Dillenburg;S;440478,258;5623598,061
+6836;Burg;6;HE;A;45;;AS Dillenburg;N;AS Herborn-West;S;449116,500;5619828,500
+6837;AK Viernheim (S);6;HE;A;6;;AK Kreuz Mannheim (A656);O;AK Viernheimer Kreuz (A659);W;468172,000;5484917,500
+6838;Katzenfurt;6;HE;A;45;;AS Herborn-Süd;N;AS Ehringshausen;S;454473,000;5608169,500
+6839;Aßlar;6;HE;A;45;;AS Ehringshausen;N;AK Wetzlarer Kreuz (A480);S;460599,500;5606306,000
+6843;AK Gambach (W);6;HE;A;45;;AK Gießener Südkreuz (A485);N;AK Gambacher Kreuz (A5);S;476209,807;5596206,447
+6844;AK Gambach (O);6;HE;A;45;;AK Gambacher Kreuz (A5);N;AS Münzenberg;S;481363,902;5591207,545
+6845;Münzenberg;6;HE;A;45;;AS Münzenberg;N;AS Wölfersheim;S;485202,500;5588765,500
+6846;Elzer Berg;6;HE;A;3;;AS Diez;N;AS Limburg-Nord;S;428661,241;5584717,434
+6847;Limburg;6;HE;A;3;;AS Limburg-Nord;N;AS Limburg-Süd;S;434739,500;5581968,500
+6848;Lindenholzhausen;6;HE;A;3;;AS Limburg-Süd;N;AS Bad Camberg;S;437154,000;5579954,000
+6849;Idstein;6;HE;A;3;;AS Bad Camberg;N;AS Idstein;S;446208,000;5565703,500
+6850;Niederseelbach;6;HE;A;3;;AS Idstein;N;AS Wiesbaden/Niedernhausen;S;447729,500;5559153,000
+6851;Medenbach;6;HE;A;3;;AS Wiesbaden/Niedernhausen;N;AK Wiesbadener Kreuz (A66);S;453457,000;5550201,000
+6852;Weilbach;6;HE;A;3;;AK Wiesbadener Kreuz (A66);N;AS Raunheim (B43);S;459432,000;5542878,000
+6853;AD Mönchhof (W);6;HE;A;3;;AS Raunheim (B43);N;AD Mönchhof-Dreieck (A67);S;462899,808;5541624,609
+6854;AD Mönchhof (O);6;HE;A;3;;AD Mönchhof-Dreieck (A67);N;AS Kelsterbach;S;465844,406;5543000,548
+6856;Frankfurter Kreuz (W);6;HE;A;3;;AS Frankfurt a. Main-Flughafen (K823);N;AK Frankfurter Kreuz (A5);S;471223,500;5544621,500
+6859;Hanau;6;HE;A;3;;AS Obertshausen;N;AS Hanau;S;489644,500;5545435,000
+6860;Darmstadt-West;6;HE;A;5;;AK Darmstädter Nordkreuz (A672);N;AK Darmstädter Kreuz (A67);S;471217,000;5523643,000
+6863;Niederrodenbach;6;HE;A;45;;AD Langenselbolder Dreieck (A66/B40);N;AK Hanauer Kreuz (A66/B43a);S;500818,000;5555746,000
+6866;Niederelsungen;6;HE;A;44;;AS Breuna;O;AS Warburg;W;512379,110;5694713,456
+6868;Oberzwehren;6;HE;A;44;;AK Kreuz Kassel-West (A49);O;AS Kassel-Bad Wihelmshöhe;W;530752,000;5679567,500
+6870;Gießen-Wieseck;6;HE;A;480;;AS Gießen-Marburger Straße (L3475);O;AD Gießener Nordkreuz (A480);W;479075,000;5607985,000
+6871;Hattersheim;6;HE;A;66;;AD Krifteler Dreieck;O;AS Hattersheim;W;462816,500;5547322,500
+6872;Frankfurter Kreuz (O);6;HE;A;3;;AK Frankfurter Kreuz (A5);N;AS Frankfurt a. Main-Süd;S;473170,500;5544537,500
+6874;AD Hattenbach 3;6;HE;A;7;;AD Hattenbacher Dreieck (A5);N;AS Niederaula;S;538186,000;5627532,500
+6875;Wetzlos;6;HE;A;7;;AS Niederaula;N;AS Hünfeld/Schlitz;S;543511,500;5622819,500
+6876;Dietershan;6;HE;A;7;;AS Hünfeld/Schlitz;N;AS Fulda-Nord;S;548146,500;5605949,000
+6877;Fulda-Nord;6;HE;A;7;;AS Fulda-Nord;N;AS Fulda-Mitte;S;550416,551;5603325,789
+6878;Welkers;6;HE;A;7;;AD Fuldaer Dreieck (A66);N;AS Bad Brückenau-Volkers;S;550501,891;5591773,188
+6879;Eichenzell;6;HE;A;66;;AD Fuldaer Dreieck (A7);O;AS Eichenzell;W;550367,000;5593255,500
+6880;Herleshausen;6;HE;A;4;;AS Eisenach-West;O;AS Herleshausen;W;584266,848;5651338,069
+6881;Bad Hersfeld;6;HE;A;4;;AS Bad Hersfeld;O;AD Kirchheimer Dreieck (A7);W;548975,000;5633607,500
+6883;Pilgerzell;6;HE;A;7;;AS Fulda-Mitte;N;AD Fuldaer Dreieck (A66);S;552502,500;5596522,500
+6884;Hönebach;6;HE;A;4;;AS Wildeck-Hönebach;O;AS Friedewald;W;565213,000;5643169,500
+6885;Obersuhl;6;HE;A;4;;AS Wildeck-Obersuhl;O;AS Wildeck-Hönebach;W;570842,000;5645796,000
+6886;Westkreuz Frankfurt (W);6;HE;A;648;;AK Westkreuz Frankfurt a. Main (A5);O;AS Frankfurt a. Main-Rödelheim;W;470428,000;5551856,500
+6887;Frankfurt-Höchst;6;HE;A;66;;AS Frankfurt a. Main-Höchst;O;AS Kelkheim;W;466279,500;5551364,000
+6889;Westkreuz Frankfurt (O);6;HE;A;648;;AS Frankfurt a. Main-Rebstock;O;AK Westkreuz Frankfurt a. Main (A5);W;472041,000;5551524,500
+6890;AD Eschborn (S);6;HE;A;648;;AS Frankfurt a. Main-Rödelheim;O;AD Eschborner Dreieck (A66);W;469877,434;5552638,733
+6891;Sossenheim;6;HE;A;66;;AS Eschborn;O;AS Frankfurt a. Main-Höchst;W;466912,000;5551718,000
+6892;Unterliederbach;6;HE;A;66;;AS Kelkheim;O;AS Frankfurt a. Main-Zeilsheim;W;465846,000;5551120,000
+6893;Wiesbadener Kreuz (O);6;HE;A;66;;AS Diedenbergen;O;AK Wiesbadener Kreuz (A3);W;456654,500;5544991,500
+6894;Wallau;6;HE;A;66;;AK Wiesbadener Kreuz (A3);O;AS Wallau;W;455566,500;5545006,500
+6895;Wiesbaden-Erbenheim-Ost;6;HE;A;66;;AS Wiesbaden-Erbenheim;O;AS Wiesbaden-Mainzer Straße;W;448776,000;5544502,000
+6896;Schiersteiner Kreuz (O);6;HE;A;66;;AS Wiesbaden-Biebrich;O;AK Schiersteiner Kreuz (A643);W;444188,500;5544724,500
+6897;Schiersteiner Kreuz (W);6;HE;A;66;;AK Schiersteiner Kreuz (A643);O;AS Wiesbaden-Frauenstein;W;442887,000;5544771,500
+6899;Ginsheim-Gustavsburg;6;HE;A;671;;AS Gustavsburg;N;AD Mainspitz-Dreieck (A60);S;452723,500;5537791,500
+6900;Reinhardshain;6;HE;A;5;;AS Grünberg;N;AD Reiskirchener Dreieck (A480);S;491773,000;5607405,000
+6901;Wiesbaden-Biebrich;6;HE;A;66;;AS Wiesbaden-Mainzer Straße;O;AS Wiesbaden-Biebrich;W;446213,500;5544698,500
+6902;Wiesbaden-Erbenheim;6;HE;A;66;;AS Wiesbaden-Nordenstadt;O;AS Wiesbaden-Erbenheim;W;451404,181;5545075,837
+6903;Bisses;6;HE;A;45;;AS Wölfersheim;N;AS Florstadt;S;495257,500;5582417,500
+6904;Rodenbach;6;HE;A;45;;AS Florstadt;N;AS Altenstadt;S;496914,000;5572925,000
+6905;Marköbel;6;HE;A;45;;AS Hammersbach;N;AS Langenselbold-West;S;500445,000;5563706,500
+6906;Langen-Bergheim;6;HE;A;45;;AS Altenstadt;N;AS Hammersbach;S;499877,500;5565908,000
+6907;Obergeis;6;HE;A;7;;AS Bad Hersfeld-West;N;AD Kirchheimer Dreieck (A4);S;541945,500;5635725,500
+6908;Seligenstadt;6;HE;A;3;;AS Seligenstadt;N;AD Seligenstädter Dreieck (A45);S;500660,500;5538135,000
+6909;Wirtheim 2;6;HE;A;66;;AS Bad Orb/Wächtersbach;O;AS Gelnhausen-Ost;W;518581,500;5563614,557
+6912;F - Miquelallee;6;HE;A;66;;AS Frankfurt a. Main-Miquelallee;O;AS Frankfurt a. Main-Ludwig-Landmann-Str;W;473060,712;5553728,877
+6913;Rengershausen;6;HE;A;49;;AK Kreuz Kassel-West (A44);N;AS Baunatal-Nord;S;531236,500;5678891,500
+6914;Baunatal (N);6;HE;A;49;;AS Baunatal-Nord;N;AS Baunatal-Mitte;S;530561,500;5677541,000
+6919;Hermannstein;6;HE;A;480;;AK Wetzlarer Kreuz (A45);O;AS Aßlar;W;463346,500;5604055,500
+6921;Schiersteiner Kreuz (N);6;HE;A;643;;AS Wiesbaden-Dotzheim;N;AK Schiersteiner Kreuz (A66);S;443703,000;5545547,000
+6922;Erzhausen;6;HE;A;5;;AS Langen/Mörfelden;N;AS Weiterstadt;S;471837,500;5534008,000
+6923;Frankfurt-Niederrad;6;HE;A;5;;AS Frankfurt a. Main-Niederrad;N;AS Frankfurt a. Main-Flughafen-(N) (B43);S;472430,000;5546942,500
+6924;Frankfurter Kreuz (S);6;HE;A;5;;AK Frankfurter Kreuz (A3);N;AS Zeppelinheim;S;471474,000;5544018,500
+6929;Kleinenglis;6;HE;A;49;;AS Wabern;N;AS Borken (Hessen);S;516742,500;5657913,000
+6930;Frankfurt-Griesheim;6;HE;A;5;;AS Frankfurt a. Main-Westhafen;N;AS Frankfurt a. Main-Niederrad;S;472632,500;5548735,000
+6931;AD Mönchhof (S);6;HE;A;67;;AD Mönchhof-Dreieck (A3);N;AS Rüsselsheim-Ost;S;463684,500;5539966,500
+6932;AD Rüsselsheim (N);6;HE;A;67;;AS Rüsselsheim-Ost;N;AD Rüsselsheimer Dreieck (A60);S;461718,630;5537139,343
+6933;AD Rüsselsheim (S);6;HE;A;67;;AD Rüsselsheimer Dreieck (A60);N;AS Groß-Gerau;S;462376,723;5533907,389
+6934;Klein-Gerau;6;HE;A;67;;AS Groß-Gerau;N;AS Büttelborn;S;464983,000;5528693,000
+6935;Büttelborn;6;HE;A;67;;AS Büttelborn;N;AD Griesheimer Dreieck (A672);S;467705,000;5526471,000
+6936;AK Darmstadt Nord;6;HE;A;67;;AD Griesheimer Dreieck (A672);N;AK Darmstädter Kreuz (A5);S;470690,500;5523706,500
+6937;Eberstadt;6;HE;A;5;;AK Darmstädter Kreuz (A67);N;AS Darmstadt-Eberstadt;S;473284,000;5518101,000
+6938;Bickenbach;6;HE;A;5;;AS Seeheim-Jugenheim;N;AS Zwingenberg;S;471029,500;5512186,000
+6939;Bensheim-Nord;6;HE;A;5;;AS Zwingenberg;N;AS Bensheim;S;471378,000;5504724,500
+6940;Heppenheim;6;HE;A;5;;AS Heppenheim;N;AS Hemsbach;S;473263,000;5494932,500
+6941;Bensheim;6;HE;A;5;;AS Bensheim;N;AS Heppenheim;S;471828,000;5500066,000
+6942;Pfungstadt;6;HE;A;5;;AS Darmstadt-Eberstadt;N;AS Seeheim-Jugenheim;S;473173,000;5517065,500
+6944;Darmstadt;6;HE;A;672;;AS Darmstadt-West (B26);O;AK Darmstädter Nordkreuz (A5);W;471718,000;5524124,500
+6949;Egelsbach;6;HE;A;661;;AS Langen;N;AS Egelsbach;S;477778,500;5537672,000
+6950;Dreieichenhain;6;HE;A;661;;AS Dreieich;N;AS Langen;S;477770,000;5538602,500
+6951;Neu-Isenburg Ost;6;HE;A;661;;AS Neu-Isenburg;N;AS Dreieich;S;479892,500;5543653,500
+6952;AK Offenbach (N);6;HE;A;661;;AS Offenbach-Taunusring;N;AK Offenbacher Kreuz (B459);S;481197,071;5548174,690
+6953;Frankfurt-Oberrad;6;HE;A;661;;AS Offenbach-Kaiserlei;N;AS Offenbach-Taunusring;S;481412,500;5549767,500
+6954;AK Offenbach (S);6;HE;A;661;;AK Offenbacher Kreuz (A3);N;AS Neu-Isenburg;S;480231,457;5544813,274
+6955;Kelsterbach;6;HE;A;3;;AS Kelsterbach;N;AS Frankfurt a. Main-Flughafen (K823);S;468745,000;5544412,500
+6956;Niederzwehren;6;HE;A;49;;AS Kassel-Niederzwehren;N;AK Kreuz Kassel-West (A44);S;531702,000;5679679,500
+6958;Neu-Isenburg Nord;6;HE;A;3;;AS Frankfurt a. Main-Süd;N;AK Offenbacher Kreuz (A661);S;478602,000;5545517,000
+6959;Heusenstamm;6;HE;A;3;;AK Offenbacher Kreuz (A661);N;AS Obertshausen;S;486067,000;5546183,500
+6960;AS Bergen-Enkheim;6;HE;A;66;;AS Maintal-Bischofsheim;O;AS Frankfurt a. Main-Bergen-Enkheim (B8);W;482711,841;5554239,916
+6961;Maintal-Bischofsheim;6;HE;A;66;;AS Maintal-Dörnigheim;O;AS Maintal-Bischofsheim;W;486618,000;5554827,000
+6962;Hanau-West;6;HE;A;66;;AS Hanau-Nord;O;AS Hanau-West;W;489993,316;5555018,145
+6963;Hochstadt;6;HE;A;66;;AS Hanau-West;O;AS Maintal-Dörnigheim;W;488888,000;5554973,500
+6964;Hanau-Nord;6;HE;A;66;;AS Erlensee;O;AS Hanau-Nord;W;494342,500;5555837,500
+6965;Langenselbold;6;HE;A;66;;AS Langenselbold;O;AD Langenselbolder Dreieck (A45/B40);W;502392,500;5557691,500
+6966;Gründau-Rothenbergen;6;HE;A;66;;AS Gründau-Rothenbergen;O;AS Langenselbold;W;507311,000;5560057,500
+6967;Gründau-Lieblos;6;HE;A;66;;AS Gründau-Lieblos;O;AS Gründau-Rothenbergen;W;509371,000;5560743,000
+6968;Hailer;6;HE;A;66;;AS Gelnhausen-West;O;AS Gründau-Lieblos;W;512407,000;5559852,000
+6969;Linsengericht;6;HE;A;66;;AS Gelnhausen-Ost;O;AS Gelnhausen-West;W;515304,500;5560521,000
+6976;Wettenberg;6;HE;A;480;;AK Gießener Nordkreuz (A485);O;AS Wettenberg;W;475873,500;5606437,000
+6980;Lollar (Reiskirchen);6;HE;A;480;;AD Reiskirchener Dreieck (A5);O;AD Gießener Nordkreuz (A485);W;486109,366;5607890,220
+6981;Frankfurt-Bonames;6;HE;A;661;;AS Frankfurt a. Main-Nieder-Eschbach;N;AS Frankfurt a. Main-Heddernheim;S;475082,000;5558807,000
+6982;Nieder-Eschbach;6;HE;A;661;;AK Bad Homburger Kreuz (A5);N;AS Frankfurt a. Main-Nieder-Eschbach;S;475075,000;5560515,500
+6983;Bad Homburger Kreuz (N);6;HE;A;661;;AS Bad Homburg;N;AK Bad Homburger Kreuz (A5);S;473624,500;5561388,000
+6984;Bad Homburg;6;HE;A;661;;AS Oberursel;N;AS Bad Homburg;S;473139,500;5561652,000
+6985;Oberursel-Bommersheim;6;HE;A;661;;AS Oberursel-Nord (B455/B456);N;AS Oberursel;S;471249,500;5562266,000
+6986;Frankfurt-Heddernheim;6;HE;A;661;;AS Frankfurt a. Main-Heddernheim;N;AS Frankfurt a. Main-Eckenheim;S;475702,000;5557487,000
+6987;Viernheim-Oststadt (S);6;HE;A;659;;AS Viernheim-Ost;N;AS Viernheim;S;470336,000;5487077,000
+6988;Bauschheim;6;HE;A;60;;AS Rüsselsheim-Mitte;O;AS Bischofsheim;W;455952,500;5535822,000
+6989;Ginsheimer Sand;6;HE;A;60;;AD Mainspitz-Dreieck (A671);O;AS Ginsheim-Gustavsburg;W;452343,000;5536765,000
+6991;AD Rüsselsheim (W);6;HE;A;60;;AD Rüsselsheimer Dreieck (A67);O;AS Rüsselsheim-Königstädten;W;459827,387;5536059,138
+6992;Bischofsheim;6;HE;A;60;;AS Bischofsheim;O;AD Mainspitz-Dreieck (A671);W;453850,000;5536194,500
+6993;AS Königstädten (W);6;HE;A;60;;AS Rüsselsheim-Königstädten;O;AS Rüsselsheim-Mitte;W;459544,790;5536014,942
+6994;Mainz-Kastel;6;HE;A;671;;AS Mainz-Kastel;N;AS Hochheim-Nord;S;451728,000;5541540,000
+6996;Viernheim-Ost;6;HE;A;659;;AS Viernheim;N;AK Viernheimer Kreuz (A6);S;468578,500;5485890,000
+6997;Viernheim-Oststadt (N);6;HE;A;659;;AK Weinheimer Kreuz (A5);N;AS Viernheim-Ost;S;471220,500;5487648,000
+7022;Sauertalbrücke;7;RP;A;64;;AS Trier;O;AS GÜG Sauertalbrücke;W;320817,589;5512112,458
+7045;Kandel;7;RP;A;65;;AS Kandel-Mitte;N;AS Kandel-Süd;S;442560,582;5436935,499
+7063;Rheinbrücke Weisenau;7;RP;A;60;;AS Ginsheim-Gustavsburg;O;AS Mainz-Laubenheim;W;451110,843;5535826,819
+7070;Rasthaus Sessenhausen;7;RP;A;3;;AS Dierdorf;N;AS Ransbach-Baumbach;S;406006,146;5597691,644
+7100;Albig;7;RP;A;63;;AS Biebelnheim;N;AK Kreuz Alzey (A61);S;436830,174;5514651,766
+7104;Oggersheim;7;RP;A;650;;AS Oggersheim-Süd;O;AS Oggersheimer Kreuz;W;453915,097;5481048,002
+7109;Heidesheim;7;RP;A;60;;AD Dreieck Mainz (A643);O;AS Heidesheim;W;439151,511;5539064,241
+7110;Feuerscheid;7;RP;A;60;;AS Waxweiler;O;AS Prüm;W;317136,634;5553353,906
+7112;Rheinbrücke Schierstein;7;RP;A;643;;AS Wiesbaden-Äppelallee;N;AS Mainz-Mombach;S;443517,500;5542483,000
+7118;Miesau;7;RP;A;6;;AS Bruchmühlbach-Miesau;O;AS Waldmohr;W;386579,518;5471784,214
+7119;Rheinbrücke Speyer-Nord;7;RP;A;61;;AS Speyer;N;AS Hockenheim;S;459973,811;5466863,017
+7120;Landstuhl;7;RP;A;6;;AS Kaiserslautern-Einsiedlerhof;O;AS Landstuhl-Ost;W;399281,398;5475524,329
+7121;Ammerich;7;RP;A;3;;AS Neustadt (Wied);N;AS Neuwied;S;390045,035;5605914,402
+7123;Maxdorf;7;RP;A;61;;AK Kreuz Frankenthal (A6);N;AK Kreuz Ludwigshafen (A650);S;450179,494;5481579,654
+7124;Kaiserslautern-West;7;RP;A;6;;AS Kaiserslautern-West;O;AS Kaiserslautern-Einsiedlerhof;W;404001,000;5477647,000
+7125;Kaiserslautern-Ost;7;RP;A;6;;AD Dreieck Kaiserslautern (A63);O;AS Kaiserslautern-West;W;407113,500;5478176,500
+7128;Rückweiler;7;RP;A;62;;AS Freisen;O;AS Birkenfeld;W;372326,998;5492976,372
+7129;Sprendlingen;7;RP;A;61;;AS Bad Kreuznach;N;AS Gau-Bickelheim;S;426539,660;5522651,727
+7130;Höhr-Grenzhausen;7;RP;A;48;;AS Höhr-Grenzhausen;O;AS Bendorf/Neuwied;W;404966,905;5588846,406
+7131;Rheinbrücke Bendorf;7;RP;A;48;;AS Bendorf/Neuwied;O;AS Koblenz-Nord;W;398369,049;5584829,628
+7132;AK Koblenz (Ost);7;RP;A;48;;AS Koblenz-Nord;O;AK Kreuz Koblenz (A61);W;392648,431;5580112,468
+7133;AK Koblenz (West);7;RP;A;48;;AK Kreuz Koblenz (A61);O;AS Ochtendung;W;391479,839;5578929,073
+7140;Moseltalbrücke;7;RP;A;61;;AS Koblenz-Metternich;N;AS Koblenz/Dieblich;S;392263,624;5574194,381
+7141;AK Koblenz (Süd);7;RP;A;61;;AK Kreuz Koblenz (A48);N;AS Koblenz-Metternich;S;392905,500;5578793,500
+7142;AK Koblenz (Nord);7;RP;A;61;;AS Plaidt;N;AK Kreuz Koblenz (A48);S;391645,602;5580088,714
+7144;Girod;7;RP;A;3;;AS Montabaur;N;AS Diez;S;422337,042;5589097,172
+7148;Ahrtalbrücke;7;RP;A;61;;AD Dreieck Bad Neuenahr-Ahrweiler (A573);N;AD Dreieck Sinzig (A571);S;368243,000;5603685,000
+7149;Ringen-Vettelhoven;7;RP;A;61;;AK Meckenheim (A565);N;AD Bad Neuenahr-Ahrweiler (A573);S;363420,000;5604675,000
+7150;Hörnchenbergtunnel;7;RP;A;62;;AS Bann;O;AS Landstuhl-Atzel;W;395446,002;5472320,510
+7155;Rheinbrücke Frankenthal;7;RP;A;6;;AS Mannheim-Sandhofen;O;AS Ludwigshafen-Nord;W;457534,791;5488463,895
+7164;Hetzerath;7;RP;A;1;;AS Salmtal;N;AS Föhren;S;344583,739;5527182,207
+7184;Ixheim;7;RP;A;8;;AS Contwig;O;AS Zweibrücken-Ixheim;W;381101,931;5453921,623
+7201;Saulheim;7;RP;A;63;;AS Saulheim;N;AS Wörrstadt;S;439948,540;5524690,607
+7224;Wies-Oppenheim;7;RP;A;61;;AS Worms;N;AK Kreuz Frankenthal (A6);S;448581,751;5494831,129
+7230;Nahebrücke Bingen;7;RP;A;61;;AS Dorsheim;N;AS Bingen-Mitte;S;421503,459;5531697,846
+7233;Daxweiler;7;RP;A;61;;AS Rheinböllen;N;AS Stromberg;S;410709,580;5535950,925
+7237;Genheim;7;RP;A;61;;AS Stromberg;N;AS Waldlaubersheim;S;414442,000;5532517,500
+7245;Rümmelsheim;7;RP;A;61;;AS Waldlaubersheim;N;AS Dorsheim;S;417221,500;5530825,500
+7250;Sponsheim;7;RP;A;61;;AS Bingen-Mitte;N;AD Nahetal (A60);S;422820,500;5531586,500
+7254;Dromersheim;7;RP;A;61;;AD Nahetal (A60);N;AS Bad Kreuznach;S;424517,500;5529923,000
+7318;AK Alzey VQ Nord;7;RP;A;61;;AS Bornheim;N;AS Alzey;S;435786,223;5514518,688
+7323;Ruwer;7;RP;A;602;;AS Trier-Ehrang;O;AS Trier-Verteilerkreis;W;334768,164;5517045,027
+7338;Daubenbornerhof;7;RP;A;6;;AS Enkenbach Alsenborn;O;AS Kaiserslautern Ost;W;417227,559;5479286,997
+7343;PRE-Park;7;RP;A;6;;AS Kaiserslautern Ost;O;AD Kaiserslautern;W;414040,062;5478713,680
+7345;AD Kaiserslautern VQ Nord;7;RP;A;63;;AS Sembach;N;AD Kaiserslautern (A6);S;414122,670;5479473,944
+7401;AD Mainz VQ Süd;7;RP;A;60;;AS Mainz-Finthen;O;AD Mainz (A643);W;441743,113;5538433,551
+7409;AS Heidesheim VQ West;7;RP;A;60;;AS Heidesheim;O;AS Ingelheim-Ost;W;437458,094;5539058,767
+7415;AS Klein-Winternh. VQ Süd;7;RP;A;63;;AS Klein-Winternheim;N;AS Nieder-Olm;S;443646,781;5532969,532
+7422;AS Mainz-Mombach VQ Süd;7;RP;A;643;;AS Wiesbaden-Äppelallee;N;AS Mainz-Gonsenheim;S;443469,368;5541671,545
+7424;AS MZ-Gonsenheim VQ Süd;7;RP;A;643;;AS Mainz-Mombach;N;AD Mainz;S;442573,807;5539999,929
+7431;AS Oggersheim-Süd VQ Ost;7;RP;A;650;;AS Ludwigshafen-Stadt (B37);O;AS Oggersheim-Süd;W;455266,887;5480773,625
+7432;AK Alzey VQ West;7;RP;A;63;;AK Kreuz Alzey (A61);N;AS Erbes-Büdesheim;S;435530,576;5513701,078
+7434;AS Mutterstadt VQ West;7;RP;A;65;;AS Mutterstadt;N;AK Kreuz Mutterstadt (A61);S;451954,277;5477464,676
+7435;AS Mutterstadt VQ Ost;7;RP;A;65;;AS Ludwigshafen-Oggersheim.Str. (K31);N;AS Mutterstadt;S;452658,744;5477878,344
+7436;AS Dannstadt VQ West;7;RP;A;65;;AS Dannstadt-Schauernheim;N;AS Haßloch;S;449332,000;5475496,500
+7437;AS Dannstadt VQ Ost;7;RP;A;65;;AK Kreuz Mutterstadt (A61);N;AS Dannstadt-Schauernheim;S;450013,773;5476221,026
+7438;AS Ruchheim VQ West;7;RP;A;650;;AS Ruchheim;O;AK Kreuz Ludwigshafen (A61);W;450840,348;5480993,138
+7439;AS Ruchheim VQ Ost;7;RP;A;650;;AS Oggersheimer Kreuz;O;AS Ruchheim;W;451834,748;5481228,855
+7440;AS Edenkoben VQ Nord;7;RP;A;65;;AS Neustadt/Weinstr.-Süd;N;AS Edenkoben;S;438368,964;5460095,830
+7441;AS Edenkoben VQ Süd;7;RP;A;65;;AS Edenkoben;N;AS Landau Nord (B272);S;438409,472;5459096,187
+7442;AS Boppard VQ Nord;7;RP;A;61;;AS Koblenz/Waldesch;N;AS Boppard;S;396382,432;5563612,362
+7443;AS Emmelshausen VQ Nord;7;RP;A;61;;AS Boppard;N;AS Emmelshausen;S;399612,550;5557659,389
+7444;AS Pfalzfeld VQ Nord;7;RP;A;61;;AS Emmelshausen;N;AS Pfalzfeld;S;399650,500;5556650,000
+7445;AS Laudert VQ Nord;7;RP;A;61;;AS Pfalzfeld;N;AS Laudert;S;401066,559;5548343,726
+7446;AS Laudert VQ Süd;7;RP;A;61;;AS Laudert;N;AS Rheinböllen;S;401742,784;5547627,253
+7447;AS Gundersheim VQ Nord;7;RP;A;61;;AS Alzey;N;AS Gundersheim;S;437436,500;5511189,000
+7448;AS Gundersheim VQ Süd;7;RP;A;61;;AS Gundersheim;N;AS Worms/Mörstadt;S;443361,224;5505495,009
+7449;AS Worms VQ Nord;7;RP;A;61;;AS Worms/Mörstadt;N;AS Worms;S;447757,500;5501467,000
+7450;AK Ludwigshafen VQ Süd;7;RP;A;61;;AK Kreuz Ludwigshafen (A650);N;AK Kreuz Mutterstadt (A65);S;450749,500;5477446,500
+7451;AS Schifferstadt VQ Nord;7;RP;A;61;;AK Kreuz Mutterstadt (A65);N;AS Schifferstadt;S;452166,267;5471807,849
+7452;AS Schifferstadt VQ Süd;7;RP;A;61;;AS Schifferstadt;N;AS Speyer;S;452151,244;5470805,545
+7453;AS Ludwigshafen VQ West;7;RP;A;6;;AS Ludwigshafen Nord;O;AS Frankenthal;W;453711,000;5489333,000
+7454;AS Frankenthal VQ West;7;RP;A;6;;AS Frankenthal;O;AK Kreuz Frankenthal (A61);W;452714,722;5489253,149
+7455;AS Wattenheim VQ Ost;7;RP;A;6;;AS Grünstadt;O;AS Wattenheim;W;432964,484;5486441,760
+7456;Enkenbach/Alsenborn;7;RP;A;6;;AS Wattenheim;O;AS Enkenbach Alsenborn;W;422298,796;5481364,310
+7458;AK Landstuhl VQ West;7;RP;A;6;;AK Kreuz Landstuhl-West (A62);O;AS Bruchmühlbach-Miesau;W;392715,551;5474633,144
+7459;AK Landstuhl VQ Ost;7;RP;A;6;;AS Landstuhl-Ost;O;AK Kreuz Landstuhl-West (A62);W;393806,335;5475052,611
+7460;AK Landstuhl VQ Nord;7;RP;A;62;;AK Kreuz Landstuhl-West (A6);O;AS Hütschenhausen;W;393025,798;5475341,888
+7461;AK Landstuhl VQ Süd;7;RP;A;62;;AS Landstuhl-West;O;AK Kreuz Landstuhl-West (A6);W;393459,712;5474441,544
+7560;Spangdahlem;7;RP;A;60;;AS Spangdahlem;O;AS Badem;W;334040,030;5542186,883
+7561;Weselberg;7;RP;A;62;;AS Weselberg;O;AS Bann;W;398304,344;5465945,714
+7603;Laufeld;7;RP;A;1;;AS Manderscheid;N;AS Hasborn;S;347754,103;5550050,301
+7604;Gerolsheim;7;RP;A;6;;AK Kreuz Frankenthal (A61);O;AS Grünstadt;W;446560,302;5489154,600
+7632;AS Alzey VQ Nord;7;RP;A;61;;AK Alzey (A63);N;AS Alzey;S;436767,094;5511953,541
+7633;AS Ingelheim-West VQ West;7;RP;A;60;;AS Ingelheim-West;O;AS Bingen-Gaulsheim;W;429592,134;5536786,277
+7650;AD Sinzig VQ Ost;7;RP;A;571;;AS Löhndorf;N;AD Sinzig (A61);S;371789,441;5599269,269
+7770;Kannenbäckerland;7;RP;A;48;;AD Dreieck Dernbach (A3);O;AS Höhr-Grenzhausen;W;409425,069;5589582,606
+7771;Löhndorf;7;RP;A;61;;AD Sinzig;N;AS Niederzissen;S;372107,300;5598016,161
+7773;Beller Hof;7;RP;A;61;;AS Wehr;N;AS Mendig;S;375598,876;5583733,125
+7774;Mendig (Brauerhof);7;RP;A;61;;AS Mendig;N;AS Kruft;S;379104,232;5583155,444
+7775;AS Plaidt VQ Nord;7;RP;A;61;;AS Kruft;N;AS Plaidt;S;385060,500;5582207,000
+7778;AD Dernbach VQ Süd;7;RP;A;3;;AD Dreieck Dernbach (A48);N;AS Montabaur;S;413204,000;5589787,500
+7779;AS Ransbach-Baumb. VQ Süd;7;RP;A;3;;AS Ransbach-Baumbach;N;AD Dreieck Dernbach (A48);S;411758,114;5592872,693
+7781;AS Dierdorf VQ Nord;7;RP;A;3;;AS Neuwied;N;AS Dierdorf;S;400386,456;5599331,459
+7783;Birken;7;RP;A;3;;AS Bad Honnef/Linz;N;AS Neustadt (Wied);S;384754,384;5610445,038
+7784;AS Nieder-Olm VQ Süd;7;RP;A;63;;AS Nieder-Olm;N;AS Saulheim;S;441999,231;5528841,423
+7786;Marienborn;7;RP;A;63;;AK Kreuz Mainz-Süd (A60);N;AS Klein-Winternheim;S;444853,570;5534207,869
+7787;AS Ingelheim-Ost VQ West;7;RP;A;60;;AS Ingelheim-Ost;O;AS Ingelheim-West;W;431163,500;5537169,500
+7809;AK Ludwigshafen VQ West;7;RP;A;650;;AK Kreuz Ludwigshafen (A61);O;AS Maxdorf;W;449821,237;5480570,130
+7903;Winnweiler;7;RP;A;63;;AS Göllheim;N;AS Winnweiler;S;418824,766;5489887,799
+7909;AS MZ-Finthen VQ Ost;7;RP;A;60;;AS Mainz-Lerchenberg;O;AS Mainz-Finthen;W;442766,072;5537250,089
+7911;AS MZ-Hechtsh.-W. VQ Ost;7;RP;A;60;;AS Mainz-Hechtsheim-Ost;O;AK Mainz;W;447065,621;5535525,824
+7912;AS MZ-Laubenheim VQ West;7;RP;A;60;;AS Ginsheim-Gustavsburg;O;AS Mainz-Weisenau;W;450178,738;5535549,588
+7928;AK Mainz VQ West;7;RP;A;60;;AS Mainz-Hechtsheim-West;O;AS Mainz-Lerchenberg;W;445116,174;5534970,141
+7949;AD Bad Neuenahr VQ Süd;7;RP;A;573;;AD Meckenheim;N;AD Sinzig;S;366809,771;5603820,643
+7950;Steinebrück;7;RP;A;60;;AS Winterspelt;O;AS GÜG Steinebrück;W;299097,063;5568551,475
+7955;RP Brohltal;7;RP;A;61;;AS Niederzissen;N;AS Wehr;S;374175,028;5589727,619
+7966;AS Waldesch VQ Nord;7;RP;A;61;;AS Koblenz-Dieblich;N;AS Boppard;S;394339,500;5567831,500
+8001;Oberreut;8;BW;A;5;;AS Ettlingen;N;AS Karlsruhe-Süd;S;456384,000;5423218,000
+8002;Mannheim-Schönau;8;BW;A;6;;AS Mannheim-Sandhofen;O;AS Ludwigshafen-Nord;W;457872,500;5488625,000
+8003;Lörrach;8;BW;A;98;;AS Lörrach-Ost;O;AS Lörrach-Mitte;W;400901,167;5275345,814
+8004;Heddesheim;8;BW;A;5;;AK Kreuz Weinheim (A659);N;AS Hirschberg;S;473164,500;5487783,000
+8005;Dossenheim;8;BW;A;5;;AS Ladenburg;N;AS Dossenheim;S;474245,000;5479253,500
+8009;Mannheim-Seckenheim;8;BW;A;656;;AS Mannheim-Seckenheim;O;AK Kreuz Mannheim (A6);W;467285,144;5478457,239
+8010;Eppelheim;8;BW;A;5;;AK Kreuz Heidelberg (A656);N;AS Heidelberg/Schwetzingen;S;473663,222;5472576,639
+8012;Brühl / Rohrbach;8;BW;A;6;;AS Schwetzingen/Hockenheim;O;AS Mannheim/Schwetzingen;W;466933,000;5469121,000
+8013;Ketsch;8;BW;A;6;;AD Dreieck Hockenheim (A61);O;AS Schwetzingen/Hockenheim;W;467493,000;5466370,500
+8016;Walldorf;8;BW;A;6;;AS Wiesloch/Rauenberg;O;AK Kreuz Walldorf (A5);W;473510,208;5458166,227
+8017;AD Hockenheim;8;BW;A;6;;AK Kreuz Walldorf (A5);O;AD Dreieck Hockenheim (A61);W;468305,000;5463844,000
+8018;St. Leon;8;BW;A;5;;AK Kreuz Walldorf (A6);N;AS Kronau;S;471890,548;5457628,639
+8019;Kronau;8;BW;A;5;;AS Kronau;N;AS Bruchsal;S;469266,500;5447417,500
+8020;Büchenau;8;BW;A;5;;AS Bruchsal;N;AS Karlsruhe-Nord;S;466757,000;5439444,000
+8021;Karlsruhe-Hagsfeld;8;BW;A;5;;AS Karlsruhe-Nord;N;AS Karlsruhe-Durlach;S;460595,000;5428789,500
+8023;Karlsruhe 1;8;BW;A;5;;AS Karlsruhe-Mitte;N;AD Dreieck Karlsruhe (A8);S;458779,194;5425829,918
+8027;Palmbach;8;BW;A;8;;AS Karlsbad;O;AD Dreieck Karlsruhe (A5);W;462653,000;5421850,500
+8028;Horb;8;BW;A;81;;AS Rottenburg;N;AS Horb a.N.;S;483005,119;5366573,658
+8031;Rheinstetten;8;BW;A;5;;AS Karlsruhe-Süd;N;AS Rastatt-Nord;S;453090,000;5420089,000
+8032;Zimmern ob Rottweil;8;BW;A;81;;AS Rottweil;N;AS Villingen-Schwenningen;S;468230,500;5334231,000
+8034;Bad Dürrheim;8;BW;A;864;;AD Dreieck Bad Dürrheim (A81);O;AS Donaueschingen (B27/B33);W;469420,659;5315712,495
+8035;Achern;8;BW;A;5;;AS Bühl;N;AS Achern;S;432053,500;5394943,500
+8036;Appenweier;8;BW;A;5;;AS Achern;N;AS Appenweier;S;424306,000;5381890,500
+8039;Offenburg-Griesheim;8;BW;A;5;;AS Appenweier;N;AS Offenburg;S;420973,000;5375807,000
+8040;Stockach;8;BW;A;98;;AS Stockach-West;O;AK Kreuz Hegau (A81/B33);W;496951,000;5297507,000
+8041;Leutkirch-West;8;BW;A;96;;AS Aichstetten;O;AS Leutkirch-West;W;576404,500;5302287,000
+8042;Weinsberg;8;BW;A;81;;AK Kreuz Weinsberg (A6);N;AS Weinsberg/Ellhofen;S;522298,000;5443396,500
+8043;Grafenwald;8;BW;A;81;;AS Weinsberg/Ellhofen;N;AS Heilbronn/Untergruppenbach;S;522052,000;5442213,500
+8044;T+R Wunnenstein;8;BW;A;81;;AS Ilsfeld;N;AS Mundelsheim;S;519580,500;5433366,500
+8045;Freiberg am Neckar;8;BW;A;81;;AS Pleidelsheim;N;AS Ludwigsburg-Nord;S;515861,500;5422824,500
+8047;Nimburg;8;BW;A;5;;AS Teningen;N;AS Freiburg-Nord;S;409895,223;5329261,503
+8049;T+R Breisgau;8;BW;A;5;;AS Freiburg-Süd;N;AS Bad Krozingen;S;404453,522;5313858,601
+8050;March;8;BW;A;5;;AS Freiburg-Nord;N;AS Freiburg-Mitte;S;410347,000;5320525,000
+8052;Neuenburg am Rhein;8;BW;A;5;;AD Dreieck Neuenburg (A5);N; GÜG Ottmarsheim;S;390015,500;5292422,500
+8053;Kleinkems;8;BW;A;5;;AS Efringen-Kirchen;N;AD Dreieck Weil am Rhein (A98);S;389180,500;5281126,000
+8054;Offenburg;8;BW;A;5;;AS Offenburg;N;AS Lahr;S;417918,000;5364714,500
+8055;Hartheim am Rhein;8;BW;A;5;;AS Bad Krozingen;N;AS Hartheim/Heitersheim;S;397078,000;5310496,500
+8059;Neckarsulm 1;8;BW;A;6;;AK Kreuz Weinsberg (A81);O;AS Heilbronn/Neckarsulm;W;517529,996;5447038,403
+8061;Langenau;8;BW;A;7;;AS Niederstotzingen;N;AS Langenau;S;580149,572;5372239,954
+8068;Merklingen;8;BW;A;8;;AS Ulm-West;O;AS Merklingen;W;558283,239;5374319,274
+8073;Stuttgart-Vaihingen;8;BW;A;8;;AK Kreuz Stuttgart (A8/A831);O;AS Leonberg-Ost;W;502963,727;5398142,469
+8075;Denkendorf;8;BW;A;8;;AS Wendlingen;O;AS Esslingen;W;523942,067;5392410,763
+8077;Pforzheim-Ost;8;BW;A;8;;AS Pforzheim-Ost;O;AS Pforzheim-Nord;W;482325,238;5418527,292
+8078;Aichelberg;8;BW;A;8;;AS Mühlhausen;O;AS Aichelberg;W;542333,375;5386310,553
+8079;Wurmberg;8;BW;A;8;;AS Pforzheim-Süd;O;AS Pforzheim-Ost;W;483826,500;5416583,000
+8081;Gültstein;8;BW;A;81;;AS Herrenberg;N;AS Rottenburg;S;491819,500;5377052,500
+8082;Mühlheim;8;BW;A;81;;AS Empfingen;N;AS Sulz am Neckar;S;478967,000;5358494,000
+8083;Ehningen;8;BW;A;81;;AS Ehningen;N;AS Hildrizhausen;S;496208,500;5388549,000
+8084;Neuenstadt;8;BW;A;81;;AS Neuenstadt (Kocher);N;AK Kreuz Weinsberg (A6);S;525291,606;5451553,946
+8085;Ilsfeld;8;BW;A;81;;AS Heilbronn/Untergruppenbach;N;AS Ilsfeld;S;519869,500;5434374,500
+8086;Pleidelsheim;8;BW;A;81;;AS Mundelsheim;N;AS Pleidelsheim;S;516325,660;5423603,919
+8087;Ludwigsburg;8;BW;A;81;;AS Ludwigsburg-Nord;N;AS Ludwigsburg-Süd;S;511234,161;5416319,712
+8088;Korntal;8;BW;A;81;;AS Stuttgart-Zuffenhausen;N;AS Stuttgart-Feuerbach;S;507220,406;5409376,568
+8090;Stammheim;8;BW;A;81;;AS Ludwigsburg-Süd;N;AS Stuttgart-Zuffenhausen;S;509942,000;5413171,500
+8091;Schwabbach;8;BW;A;6;;AS Bretzfeld;O;AK Kreuz Weinsberg (A81);W;529541,407;5447224,318
+8099;Weil am Rhein/GZA;8;BW;A;5;;AS Weil am Rhein/Hüningen;N; GÜG Weil am Rhein;S;394996,237;5271769,118
+8101;Böblingen;8;BW;A;81;;AK Kreuz Stuttgart (A8/A831);N;AS Sindelfingen-Ost;S;503970,799;5395753,962
+8116;Murg;8;BW;A;98;;AS Laufenburg;O;AS Murg, B34;W;428730,500;5268766,000
+8120;Wangen;8;BW;A;96;;AS Wangen-West;O;AS Weißensberg;W;559513,669;5282763,470
+8128;Mutschelbach;8;BW;A;8;;AS Pforzheim-West;O;AS Karlsbad;W;464389,000;5420838,000
+8129;Ispringen;8;BW;A;8;;AS Pforzheim-Nord;O;AS Pforzheim-West;W;477765,000;5417523,500
+8140;Warmbronn;8;BW;A;8;;AD Dreieck Leonberg (A81);O;AS Leonberg-West;W;499281,500;5403645,000
+8156;Balzfeld;8;BW;A;6;;AS Sinsheim;O;AS Wiesloch/Rauenberg;W;486873,500;5456218,000
+8157;Sinsheim;8;BW;A;6;;AS Sinsheim-Süd;O;AS Sinsheim;W;491282,000;5454495,000
+8158;Sinsheim-Steinsfurt;8;BW;A;6;;AS Sinsheim-Steinsfurt;O;AS Sinsheim-Süd;W;492498,000;5453838,000
+8160;Biberach;8;BW;A;6;;AS Heilbronn/Untereisesheim;O;AS Bad Rappenau;W;513699,000;5448401,000
+8161;Mannheim-Sandhofen;8;BW;A;6;;AD Viernheimer Dreieck (A67);O;AS Mannheim-Sandhofen;W;460754,000;5489147,500
+8168;Reussenberg;8;BW;A;6;;AS Crailsheim;O;AS Kirchberg;W;571721,000;5447372,000
+8174;Heimsheim;8;BW;A;8;;AS Rutesheim;O;AS Heimsheim;W;491761,000;5407877,000
+8175;Rutesheim;8;BW;A;8;;AS Leonberg-West;O;AS Rutesheim;W;495590,000;5405378,000
+8180;Lindorf;8;BW;A;8;;AS Kirchheim (Teck)-West;O;AS Wendlingen;W;526918,500;5390460,500
+8181;Kirchheim unter Teck;8;BW;A;8;;AS Aichelberg;O;AS Kirchheim (Teck)-Ost;W;538328,500;5386320,000
+8184;Hildrizhausen;8;BW;A;81;;AS Hildrizhausen;N;AS Gärtringen;S;495344,500;5387962,500
+8746;Geisingen;8;BW;A;81;;AS Geisingen;N;AS Engen;S;478585,463;5304386,823
+8961;Rheinfelden;8;BW;A;861;;AS Rheinfelden Süd (B34);N;AS Rheinfelden-West (CH);S;406519,000;5267236,500
+8998;Lauchringen;8;BW;A;98;;AS Lauchringen;O;AS Tiengen-Ost;W;447548,500;5276047,000
+9001;AD Bayreuth/Kulmbach (N);9;BY;A;9;;AS Bad Berneck/Himmelkron;N;AD Dreieck Bayreuth/Kulmbach (A70);S;686862,010;5545981,306
+9002;AD Bayreuth/Kulmbach (S);9;BY;A;9;;AD Dreieck Bayreuth/Kulmbach (A70);N;AS Bindlacher Berg;S;686569,672;5543939,247
+9003;Sulzemoos (O);9;BY;A;8;;AS Dachau/Fürstenfeldbruck;O;AS Sulzemoos;W;669392,500;5349311,500
+9004;Nürnberg-Hafen-Ost (S);9;BY;A;73;;AS Nürnberg-Hafen-Ost;N;AS Nürnberg-Königshof;S;650445,720;5474212,408
+9005;AD Nürnberg/Feucht (W);9;BY;A;73;;AS Feucht;N;AD Dreieck Nürnberg/Feucht;S;659759,000;5469834,000
+9006;Oberschleißheim (O);9;BY;A;92;;AS Lohhof;O;AS Oberschleißheim;W;688119,611;5348264,622
+9007;AK Neufahrn (O);9;BY;A;92;;AS Freising-Süd;O;AS Eching-Ost;W;696460,779;5356242,491
+9008;Waidhaus (O);9;BY;A;6;; GÜG Waidhaus/Rozvadov;O;AS Waidhaus;W;753159,837;5503594,757
+9009;Regensburg-Ost (W);9;BY;A;3;;AS Regensburg-Burgweinting;N;AS Regensburg-Ost;S;730052,014;5431920,581
+9010;Hösbach (O);9;BY;A;3;;AS Hösbach;N;AS Bessenbach/Waldaschaff;S;516420,862;5538900,390
+9011;AD Würzburg-West (O);9;BY;A;3;;AD Dreieck Würzburg-West (A81);N;AS Würzburg/Kist;S;560330,854;5511094,986
+9012;Burgau (W);9;BY;A;8;;AS Burgau;O;AS Günzburg;W;602176,500;5364676,500
+9013;Zusmarshausen (O);9;BY;A;8;;AS Adelsried;O;AS Zusmarshausen;W;619167,000;5363106,500
+9014;Odelzhausen (O);9;BY;A;8;;AS Sulzemoos;O;AS Odelzhausen;W;665421,500;5351525,500
+9015;AK Neufahrn (W);9;BY;A;92;;AK Kreuz Neufahrn;O;AS Lohhof;W;692573,975;5353444,559
+9016;Nesselwang (W);9;BY;A;7;;AS Oy-Mittelberg;N;AS Nesselwang;S;613533,241;5277445,624
+9017;Altdorf (O);9;BY;A;92;;AS Landshut-Nord;O;AS Altdorf;W;729699,500;5384334,500
+9018;Alfeld (O);9;BY;A;6;;AS Sulzbach-Rosenberg;O;AS Alfeld;W;687928,805;5476084,144
+9019;Landau a.d. Isar (W);9;BY;A;92;;AS Landau a. d. Isar;O;AS Pilsting-Großköllnbach;W;768487,550;5399257,521
+9020;Gramschatzer Wald (S);9;BY;A;7;;AS Gramschatzer Wald;N;AS Würzburg/Estenfeld;S;571726,377;5528926,718
+9021;Bamberg-Ost (N);9;BY;A;73;;AS Memmelsdorf;N;AS Bamberg-Ost;S;639287,197;5530622,446
+9023;Rosenheim (O);9;BY;A;8;;AS Rohrdorf;O;AS Rosenheim;W;734952,500;5299506,000
+9024;AK Bamberg (W);9;BY;A;70;;AK Kreuz Bamberg (A73/B505/B173);O;AS Bamberg;W;636895,966;5532017,446
+9025;AD Bayer. Vogtland (O);9;BY;A;72;;AS Hof-Nord;N;AD Dreieck Bayerisches Vogtland (A9);S;699376,500;5579005,000
+9026;Frasdorf (O);9;BY;A;8;;AS Bernau;O;AS Frasdorf;W;747165,000;5299740,000
+9027;Kitzingen/Schwarzach (O);9;BY;A;3;;AS Kitzingen/Schwarzach;N;AS Wiesentheid;S;590856,212;5515091,083
+9028;Felden (O);9;BY;A;8;;AS Übersee;O;AS Felden;W;753621,500;5303233,500
+9029;Pegnitz (N);9;BY;A;9;;AS Trockau;N;AS Pegnitz;S;681199,500;5512154,000
+9030;Siegenburg (S);9;BY;A;93;;AS Siegenburg;N;AS Elsendorf;S;710287,228;5403101,244
+9031;Neukirchen (O);9;BY;A;8;;AS Anger;O;AS Neukirchen;W;780118,000;5304264,500
+9032;Bad Reichenhall (O);9;BY;A;8;; GÜG Bad Reichenhall-Autobahn;O;AS Schwarzbach;W;795258,674;5298075,742
+9033;AD Seligenstadt (O);9;BY;A;3;;AD Seligenstädter Dreieck (A45);N;AS Stockstadt (B469);S;502144,606;5537327,041
+9034;AD Würzburg-West (W);9;BY;A;3;;AS Helmstadt;N;AD Dreieck Würzburg-West (A81);S;557220,228;5511239,126
+9035;AD Würzburg-West (S);9;BY;A;81;;AD Dreieck Würzburg-West (A3);N;AS Gerchsheim;S;559495,216;5509146,007
+9036;AK Biebelried (W);9;BY;A;3;;AS Rottendorf;N;AK Kreuz Biebelried (A7);S;577705,226;5514094,219
+9037;AK Biebelried (N);9;BY;A;7;;AS Würzburg/Estenfeld;N;AK Kreuz Biebelried (A3);S;577395,301;5515658,472
+9038;AK Biebelried (O);9;BY;A;3;;AK Kreuz Biebelried (A7);N;AS Kitzingen/Schwarzach;S;583447,121;5515533,890
+9039;AK Nürnberg (W);9;BY;A;3;;AS Nürnberg-Mögeldorf;N;AK Kreuz Nürnberg (A9);S;660699,018;5481653,189
+9040;AK Nürnberg (O);9;BY;A;3;;AK Kreuz Nürnberg (A9);N;AK Kreuz Altdorf (A6);S;663446,576;5480388,775
+9041;Geiselwind (W);9;BY;A;3;;AS Wiesentheid;N;AS Geiselwind;S;606064,500;5514115,000
+9042;AK Nürnberg (N);9;BY;A;9;;AS Lauf;N;AK Kreuz Nürnberg (A3);S;663674,883;5482532,941
+9043;München-Kreuzhof (W);9;BY;A;95;;AS München-Kreuzhof;N;AS München-Fürstenried;S;685983,000;5330508,500
+9044;Rgb.-Königswiesen (S);9;BY;A;93;;AS Regensburg-Königswiesen;N;AS Regensburg-Kumpfmühl;S;723820,500;5432758,500
+9045;AK Regensburg (N);9;BY;A;93;;AS Regensburg-Kumpfmühl;N;AK Kreuz Regensburg (A3);S;724065,500;5431855,500
+9046;AK Altdorf (S);9;BY;A;3;;AK Kreuz Altdorf (A6);N;AS Altdorf/Burgthann;S;667276,679;5474252,045
+9047;AK Nürnberg-Ost (W);9;BY;A;6;;AK Kreuz Nürnberg-Ost (A9);O;AS Nürnberg-Langwasser;W;658873,928;5473530,811
+9049;Rgb.-Pfaffenstein (N);9;BY;A;93;;AS Regensburg-Nord;N;AS Regensburg-Pfaffenstein;S;725668,561;5436128,813
+9050;AK Fürth/Erlangen (O);9;BY;A;3;;AK Kreuz Fürth/Erlangen (A73);N;AS Erlangen-Tennenlohe;S;646331,500;5489581,500
+9051;Neumarkt/Opf. (S);9;BY;A;3;;AS Neumarkt/OPf.;N;AS Velburg;S;680230,027;5465451,217
+9053;AD Bayreuth/Kulmbach (W);9;BY;A;70;;AD Dreieck Bayreuth/Kulmbach (A9);O;AS Kulmbach/Neudrossenfeld;W;685845,500;5544855,500
+9054;AK Altdorf (O);9;BY;A;6;;AS Altdorf/Leinburg;O;AK Kreuz Altdorf (A3);W;668653,635;5475428,538
+9055;Roth (W);9;BY;A;6;;AS Roth;O;AS Schwabach-Süd;W;649016,183;5465674,415
+9056;AD Holledau (N);9;BY;A;9;;AS Langenbruck;N;AD Dreieck Holledau (A93);S;690487,500;5384333,500
+9057;AK Nürnberg-Ost (N);9;BY;A;9;;AS Nürnberg-Fischbach;N;AK Kreuz Nürnberg-Ost (A6);S;659366,925;5474443,652
+9058;Allershausen (N);9;BY;A;9;;AS Pfaffenhofen;N;AS Allershausen;S;691135,152;5371867,752
+9059;AK Neufahrn (N);9;BY;A;9;;AS Allershausen;N;AK Kreuz Neufahrn (A92);S;691650,000;5364765,500
+9060;AK Nürnberg (S);9;BY;A;9;;AK Kreuz Nürnberg (A3);N;AS Nürnberg-Fischbach;S;659882,757;5476572,647
+9061;Greding (N);9;BY;A;9;;AS Hilpoltstein;N;AS Greding;S;670318,500;5435765,500
+9062;Garching-Nord (N);9;BY;A;9;;AS Eching;N;AS Garching-Nord;S;696057,470;5350339,049
+9063;Garching-Nord (S);9;BY;A;9;;AS Garching-Nord;N;AS Garching-Süd;S;696468,387;5348388,302
+9064;München-Schwabing (N);9;BY;A;9;;AS München-Frankfurter Ring;N;AS München-Schwabing;S;693875,167;5340190,469
+9065;AK Neufahrn (S);9;BY;A;9;;AK Kreuz Neufahrn (A92);N;AS Eching;S;694523,316;5354273,688
+9066;AK München-Nord (S);9;BY;A;9;;AK Kreuz München-Nord (A99);N;AS München-Fröttmaning-Süd;S;694839,000;5342719,000
+9067;Uffenheim/Langenst. (N);9;BY;A;7;;AS Gollhofen;N;AS Uffenheim-Langensteinach;S;586635,500;5485359,500
+9068;AK Bamberg (O);9;BY;A;70;;AS Scheßlitz;O;AK Kreuz Bamberg (A73/B505/B173);W;638314,616;5532803,696
+9069;Dorfen (W);9;BY;A;94;;AS Dorfen;O;AS Lengdorf;W;732328,500;5349430,000
+9070;Dorfen (O);9;BY;A;94;;AS Schwindegg;O;AS Dorfen;W;738037,000;5349345,500
+9071;Tunnel Füssen;9;BY;A;7;;AS Füssen (B310);N; Bundesgrenze (A);S;624792,000;5269611,500
+9072;Tunnel Reinertshof;9;BY;A;7;;AS Nesselwang;N;AS Füssen;S;624429,000;5273768,500
+9073;Windischeschenbach (S);9;BY;A;93;;AS Windischeschenbach;N;AS Neustadt a.d. Waldnaab;S;727726,000;5519176,500
+9074;AK Regensburg (W);9;BY;A;3;;AS Sinzing;N;AK Kreuz Regensburg (A93);S;721651,324;5431394,573
+9075;AK Deggendorf (O);9;BY;A;92;;AS Deggendorf-Mitte;O;AK Kreuz Deggendorf (A3);W;789504,500;5415370,500
+9076;Regensburg-Ost (O);9;BY;A;3;;AS Regensburg-Ost;N;AS Neutraubling;S;731936,456;5432370,024
+9077;Rosenhof (W);9;BY;A;3;;AS Neutraubling;N;AS Rosenhof;S;735916,979;5431647,086
+9078;Greifenberg (O);9;BY;A;96;;AS Inning a. Ammersee;O;AS Greifenberg;W;657008,500;5326877,500
+9079;Wörthsee (W);9;BY;A;96;;AS Wörthsee;O;AS Inning a. Ammersee;W;664934,000;5328292,000
+9080;AK Regensburg (O);9;BY;A;3;;AK Kreuz Regensburg (A93);N;AS Regensburg-Universität;S;724964,705;5431021,530
+9081;Nittendorf (W);9;BY;A;3;;AS Laaber;N;AS Nittendorf;S;714560,799;5435573,064
+9082;München-Perlach (S);9;BY;A;8;;AS Neubiberg;O;AS München-Perlach;W;694583,000;5330708,000
+9083;Tunnel Neubiberg;9;BY;A;8;;AS Unterhaching-Ost;O;AS Neubiberg;W;695609,000;5327749,000
+9084;AS Waltenhofen (O);9;BY;A;980;;AS Durach;O;AS Waltenhofen;W;598685,500;5281693,000
+9085;Pocking (O);9;BY;A;3;;AS Pocking;N;AS GÜG Suben;S;825903,953;5372116,186
+9087;AK Oberpfälzer Wald (S);9;BY;A;93;;AK Kreuz Oberpfälzer Wald (A6);N;AS Pfreimd;S;730268,307;5488506,079
+9088;AK Oberpfälzer Wald (O);9;BY;A;6;;AS Wernberg-Ost;O;AK Kreuz Oberpfälzer Wald (A93);W;730145,749;5490779,718
+9090;Lenting (S);9;BY;A;9;;AS Lenting;N;AS Ingolstadt-Nord;S;681050,000;5408744,500
+9091;Oberpfaffenhofen (O);9;BY;A;96;;AS Gilching;O;AS Oberpfaffenhofen;W;670603,500;5329188,500
+9092;Germering-Süd (W);9;BY;A;96;;AS Germering-Süd;O;AS Gilching;W;676507,500;5332016,500
+9093;AK Deggendorf (W);9;BY;A;3;;AS Metten;N;AK Kreuz Deggendorf (A92);S;788427,417;5415109,442
+9094;AD Hochfranken (W);9;BY;A;72;;AD Dreieck Hochfranken (A93);N;AS Hof/Töpen;S;709947,224;5585030,648
+9095;AD Hochfranken (O);9;BY;A;72;;AS Pirk;N;AD Dreieck Hochfranken (A93);S;711611,633;5586122,366
+9096;AD Hochfranken (S);9;BY;A;93;;AD Dreieck Hochfranken (A72);N;AS Hof-Ost;S;710730,729;5585001,226
+9097;AD Allgäu (S);9;BY;A;7;;AD Dreieck Allgäu (A980);N;AS Oy-Mittelberg;S;603052,123;5281596,289
+9099;Selb-West (S);9;BY;A;93;;AS Selb-West;N;AS Hochstädt;S;721396,725;5560315,809
+9101;AK Bamberg (N);9;BY;A;73;;AS Breitengrüßbach-Süd (B4);N;AK Kreuz Bamberg (A70);S;637133,776;5533175,018
+9106;München-Laim (W);9;BY;A;96;;AS München-Laim;O;AS München-Blumenau;W;685390,500;5333085,500
+9110;AD Holledau (S);9;BY;A;9;;AD Dreieck Holledau (A93);N;AS Pfaffenhofen;S;691344,102;5378534,606
+9111;Nürnberg/Fürth (N);9;BY;A;73;;AS Fürth-Poppenreuth;N;AS Nürnberg/Fürth;S;645990,225;5481930,885
+9115;AK München-Nord (N);9;BY;A;9;;AS Garching-Süd;N;AK Kreuz München-Nord (A99);S;695781,500;5345888,000
+9130;Leipheim (W);9;BY;A;8;;AS Leipheim;O;AK Kreuz Ulm/Elchingen (A7);W;589199,500;5366696,500
+9131;Augsburg-West (W);9;BY;A;8;;AS Augsburg-West;O;AS Neusäß;W;637324,000;5364164,000
+9132;Adelzhausen (W);9;BY;A;8;;AS Adelzhausen;O;AS Dasing;W;655404,500;5359858,000
+9136;Landsberg a. L.-Nord (O);9;BY;A;96;;AS Landsberg a. Lech-Ost;O;AS Landsberg a. Lech-Nord;W;639974,500;5324976,000
+9140;AK München-West (O);9;BY;A;8;;AS München-Obermenzing;O;AK Kreuz München-West (A99);W;681724,860;5338459,642
+9141;AK München-West (W);9;BY;A;8;;AK Kreuz München-West (A99);O;AS München-Langwied;W;680242,500;5339836,500
+9150;AD Starnberg (W);9;BY;A;952;;AD Dreieck Starnberg (A95);O;AS Percha;W;678689,603;5319647,263
+9151;AD Starnberg (N);9;BY;A;95;;AS München-Fürstenried;N;AD Dreieck Starnberg (A952);S;680550,000;5321774,500
+9152;AS Wasserlosen;9;BY;A;7;;AS Hammelburg;N;AS Wasserlosen;S;574514,803;5546760,622
+9155;Feldmoching;9;BY;A;99;;AS München-Ludwigsfeld;N;AD Dreieck München-Feldmoching (A92);S;687255,815;5344116,626
+9159;Würzburg-Kist;9;BY;A;3;;AS Würzburg/Kist;N;AS Würzburg-Heidingsfeld;S;564009,984;5511123,417
+9161;Seeshaupt (N);9;BY;A;95;;AS Wolfratshausen;N;AS Seeshaupt;S;678544,463;5302926,440
+9164;Murnau/Kochel (S);9;BY;A;95;;AS Kochel a. See;N;AS Ohlstadt;S;668189,500;5280950,000
+9165;Eisfeld (S);9;BY;A;73;;AS Eisfeld-Süd (B4);N;AS Coburg (B4);S;636215,471;5582619,447
+9166;Mellrichstadt (N);9;BY;A;71;;AS Rentwertshausen;N;AS Mellrichstadt;S;598827,500;5587232,000
+9167;Pfersdorf;9;BY;A;71;;AS Bad Kissingen (B286);N;AS Poppenhausen;S;582182,000;5553745,500
+9171;Holzkirchen (W);9;BY;A;8;;AS Holzkirchen;O;AS Hofoldinger Forst;W;701994,601;5312765,582
+9180;AD Inntal (W);9;BY;A;8;;AD Dreieck Inntal (A93);O;AS Bad Aibling;W;729936,652;5300154,469
+9182;AS Freising Mitte;9;BY;A;92;;AS Freising-Mitte (B301);O;AS Flughafen München;W;702122,318;5358967,288
+9183;AS Freising Ost;9;BY;A;92;;AS Freising-Ost (B11a);O;AS Freising-Mitte (B301);W;703657,000;5361678,000
+9184;AS Erding;9;BY;A;92;;AS Erding;O;AS Freising-Ost (B11a);W;706259,713;5363289,932
+9185;AS Flughafen München;9;BY;A;92;;AS Flughafen München;O;AS Freising-Süd (B11);W;700739,022;5357407,160
+9190;AD Inntal (S);9;BY;A;93;;AD Dreieck Inntal (A8);N;AS Reischenhart;S;731401,500;5298120,500
+9191;Kiefersfelden (S);9;BY;A;93;;AS Kiefersfelden;N;AS GÜG Kiefersfelden-Autobahn;S;740152,500;5277461,000
+9192;AS Grabenstätt;9;BY;A;8;;AS Bergen;O;AS Grabenstätt;W;767405,500;5303301,000
+9193;AS Schweinbach;9;BY;A;8;;AS Traunstein/Siegsdorf (B306);O;AS Schweinbach;W;772442,500;5303684,500
+9194;AS Traunstein;9;BY;A;8;;AS Neukirchen;O;AS Traunstein/Siegsdorf (B306);W;779331,089;5304224,876
+9195;AS Anger;9;BY;A;8;;AS Bad Reichenhall (B20);O;AS Anger;W;792323,500;5297826,500
+9203;AD Schweinf./Werneck (O);9;BY;A;70;;AS Werneck;O;AK Kreuz Schweinfurt/Werneck (A7/B26a);W;579408,590;5539264,643
+9207;AD M.-Feldmoching (O);9;BY;A;99;;AD Dreieck München-Feldmoching (A92);N;AS München-Neuherberg;S;690451,458;5344702,979
+9211;Aschheim/Ismaning (S);9;BY;A;99;;AS Aschheim/Ismaning;N;AS Kirchheim;S;702311,500;5340263,500
+9212;AK München-Ost (N);9;BY;A;99;;AS Kirchheim b. München;N;AK Kreuz München-Ost (A94);S;704456,228;5337458,064
+9213;AK München-Ost (S);9;BY;A;99;;AK Kreuz München-Ost;N;AS Haar;S;705277,071;5334846,739
+9215;AK München-Nord (W);9;BY;A;99;;AS München-Neuherberg;N;AS München-Fröttmaning-Nord;S;693562,783;5344917,430
+9217;AD M.-Feldmoching (N);9;BY;A;92;;AS Oberschleißheim;O;AD Dreieck München-Feldmoching (A99);W;688097,803;5346629,962
+9218;Aschheim-West;9;BY;A;99;;AK Kreuz München-Nord (A9);N;AS Aschheim/Ismaning;S;697058,000;5342675,000
+9219;AS Germering-Nord (N);9;BY;A;99;;AS Germering-Nord;N;AS München-Lochhausen;S;678438,645;5336380,849
+9220;AK München-West (N);9;BY;A;99;;AK Kreuz München-West (A8);N;AD Dreieck München-Allach (A99);S;681159,500;5340420,000
+9221;München-Giesing (S);9;BY;A;995;;AS München-Giesing (B13);N;AS Unterhaching-Nord;S;692910,976;5329622,172
+9222;Gräfelfing (W);9;BY;A;96;;AS Gräfelfing;O;AD Dreieck München-Südwest;W;681395,378;5333336,811
+9223;AD München-Eschenried;9;BY;A;8;;AS München-Langwied;O;AD Dreieck München-Eschenried (A99);W;678705,500;5341263,000
+9224;AK München Süd;9;BY;A;8;;AS Hofoldinger Forst;O;AK Kreuz München-Süd (A99/A995);W;700055,500;5318532,000
+9225;AS Holzkirchen;9;BY;A;8;;AS Weyarn;O;AS Holzkichen (B318);W;708703,000;5305304,500
+9226;AS Weyarn;9;BY;A;8;;AS Irschenberg (B472);O;AS Weyarn;W;715756,000;5301758,500
+9227;AS Irschenberg;9;BY;A;8;;AS Bad Aibling;O;AS Irschenberg (B472);W;717837,000;5301528,500
+9228;Hohenbrunn;9;BY;A;99;;AS Hohenbrunn (B471);N;AS Ottobrunn;S;701015,500;5326204,500
+9229;Ottobrunn;9;BY;A;99;;AS Ottobrunn;N;AK München-Süd (A8/A995);S;699449,622;5323780,496
+9230;AD Hittistetten (S);9;BY;A;7;;AS Dreieck Hittistetten;N;AS Vöhringen;S;580968,776;5351996,212
+9231;AK Memmingen (S);9;BY;A;7;;AK Kreuz Memmingen (A96);N;AS Memmingen-Süd;S;585840,000;5316024,000
+9232;AD Werntal (N);9;BY;A;71;;AS Schweinfurt-West;N;AD Dreieck Werntal (A70);S;582941,500;5541697,500
+9233;AD Werntal (W);9;BY;A;70;;AD Dreieck Werntal (A71);O;AS Werneck;W;582948,500;5540730,500
+9234;AD Werntal (O);9;BY;A;70;;AS Schweinfurt/Bergrheinfeld;O;AD Dreieck Werntal (A71);W;583698,426;5541643,553
+9235;Untersiemau (N);9;BY;A;73;;AS Ebersdorf b.Coburg;N;AK Untersiemau;S;643366,897;5559113,123
+9236;Untersiemau (S);9;BY;A;73;;AS Untersiemau;N;AS Lichtenfels-Nord;S;644065,994;5558162,986
+9238;AK Oberpfälzer Wald (W);9;BY;A;6;;AK Kreuz Oberpfälzer Wald (A93);O;AS Nabburg-West;W;727965,000;5487565,500
+9239;Amberg-Ost (W);9;BY;A;6;;AS Amberg-Ost;O;AS Amberg-Süd;W;715803,500;5476081,000
+9242;München-Fröttmaning-Süd;9;BY;A;9;;AS München-Fröttmaning-Süd;N;AS München-Freimann;S;694586,000;5341866,000
+9244;Neu-Keferloh;9;BY;A;99;;AS Haar;N;AS Hohenbrunn;S;703704,036;5328776,704
+9250;Lindau (S);9;BY;A;96;;AS Lindau;O; GÜG Lindau-Autobahn;W;555334,500;5266305,500
+9251;Pommersfelden (W);9;BY;A;3;;AS Höchstadt-Nord;N;AS Pommersfelden;S;630162,437;5510805,740
+9252;Pommersfelden (O);9;BY;A;3;;AS Pommersfelden;N;AS Höchstadt-Ost;S;631715,882;5509420,229
+9256;Knezgau (W);9;BY;A;70;;AS Knetzgau;O;AS Haßfurt;W;610586,857;5537885,459
+9306;Ebensfeld;9;BY;A;73;;AS Bad Staffelstein;N;AS Ebensfeld;S;641181,675;5547557,708
+9333;Röthenbach b.St.W. (O);9;BY;A;73;;AS Röthenbach b. St. W.;N;AS Feucht;S;658168,500;5470596,000
+9452;AK Biebelried (S);9;BY;A;7;;AK Kreuz Biebelried (A3);N;AS Kitzingen;S;579130,930;5513715,327
+9505;AS Aschaffenburg (W);9;BY;A;3;;AS Stockstadt (B469);N;AS Aschaffenburg-West (B8);S;504320,525;5537530,403
+9506;AS-Aschaffenburg;9;BY;A;3;;AS Aschaffenburg-West (B8);N;AS Aschaffenburg-Ost (B26);S;511469,959;5537680,533
+9507;AS Goldbach;9;BY;A;3;;AS Goldbach (B26);N;AS Hösbach (B26);S;515689,531;5538979,277
+9508;AS Bessenbach-Waldaschaff;9;BY;A;3;;AS Bessenbach/Waldaschaff;N;AS Weibersbrunn;S;518738,500;5536881,000
+9509;Weibersbrunn;9;BY;A;3;;AS Weibersbrunn;N;AS Rohrbrunn;S;525126,000;5531237,500
+9510;AS Marktheidenfeld;9;BY;A;3;;AS Marktheidenfeld (B8);N;AS Wertheim/Lengfurt;S;541892,600;5517416,492
+9511;AS Wertheim/Lengfurt;9;BY;A;3;;AS Wertheim/Lengfurt;N;AS Helmstadt (B468);S;551469,801;5513721,584
+9512;AS-Würzburg-Randersacker;9;BY;A;3;;AS Würzburg/Randersacker (B13);N;AS Rottendorf (B8);S;576233,673;5512738,357
+9513;AS Würzburg-Heidingsfeld;9;BY;A;3;;AS Würzburg-Heidingsfeld (B19);N;AS Würzburg/Randersacker (B13);S;569887,369;5510354,577
+9515;AS Geiselwind;9;BY;A;3;;AS Geiselwind;N;AS Schlüsselfeld;S;612121,332;5513235,337
+9516;AS Schlüsselfeld;9;BY;A;3;;AS Schlüsselfeld;N;AS Höchstadt-Nord;S;624396,561;5510197,515
+9517;AS Höchstadt-Ost;9;BY;A;3;;AS Höchstadt-Ost (B470);N;AS Erlangen-West;S;635846,919;5503322,551
+9518;AS Erlangen-West;9;BY;A;3;;AS Erlangen-West;N;AS Erlangen-Frauenaurach;S;639614,073;5493366,704
+9519;AS Erlangen-Tennenlohe;9;BY;A;3;;AS Erlangen-Tennenlohe (B4);N;AS Nürnberg-Nord (B2);S;649440,361;5488130,168
+9520;AS Nürnberg-Nord;9;BY;A;3;;AS Nürnberg-Nord (B2);N;AS Nürnberg/Behringersdorf (B14);S;655594,207;5484514,203
+9521;AS Nürnberg/Behringersd.;9;BY;A;3;;AS Nürnberg/Behringersdorf (B14);N;AS Nürnberg-Mögeldorf;S;657854,389;5482571,572
+9522;AS Feuchtwangen-Nord;9;BY;A;6;;AS Aurach (B14);O;AS Feuchtwangen-Nord (B25);W;602906,421;5456681,496
+9523;AS Aurach;9;BY;A;6;;AS Herrieden;O;AS Aurach (B14);W;606884,937;5456209,673
+9524;AS Ansbach;9;BY;A;6;;AS Lichtenau;O;AS Ansbach (B13);W;619188,337;5456606,699
+9525;AS Neuendettelsau (W);9;BY;A;6;;AS Neuendettelsau;O;AS Lichtenau;W;627208,478;5462224,526
+9526;AS Neuendettelsau;9;BY;A;6;;AS Schwabach-West (B466);O;AS Neuendettelsau;W;634791,814;5464204,391
+9527;AS Nürnbg.-Langwasser (W);9;BY;A;6;;AS Nürnberg-Langwasser;O;AK Kreuz Nürnberg Süd (A73);W;655828,823;5472410,704
+9528;AS Amberg-Ost;9;BY;A;6;;AS Schmidgaden;O;AS Amberg-Ost (B85);W;717563,941;5478727,414
+9529;AS Wasserlosen;9;BY;A;7;;AS Wasserlosen (B303);N;AK Kreuz Schweinfurt/Werneck (A70/B26a);S;576433,766;5543565,114
+9530;Kreuz Schweinfurt/Werneck;9;BY;A;7;;AK Kreuz Schweinfurt/Werneck (A70/B26a);N;AS Gramschatzer Wald;S;576324,666;5538003,670
+9531;AS Kitzingen;9;BY;A;7;;AS Kitzingen (B8);N;AS Marktbreit;S;579464,141;5507963,532
+9532;AS Marktbreit;9;BY;A;7;;AS Marktbreit;N;AS Gollhofen (B13);S;583346,716;5500060,402
+9533;AS Uffenh.-Langensteinach;9;BY;A;7;;AS Uffenheim-Langensteinach;N;AS Bad Windsheim (B470);S;586706,846;5483921,709
+9534;AS Bad Windsheim;9;BY;A;7;;AS Bad Windsheim (B470);N;AS Rothenburg o.d.T.;S;590892,835;5477528,715
+9535;AS Rothenburg o.d.T.;9;BY;A;7;;AS Rothenburg o.d.T.;N;AS Wörnitz;S;589938,759;5458137,042
+9536;AS Pegnitz;9;BY;A;9;;AS Pegnitz (B85/B470);N;AS Weidensees;S;680822,500;5511421,500
+9538;AD Nürnberg-Feucht (S);9;BY;A;9;;AD Dreieck Nürnberg/Feucht (A73);N;AS Allersberg;S;660447,231;5464573,027
+9539;AS Allersberg (S);9;BY;A;9;;AS Allersberg;N;AS Hilpoltstein;S;661402,000;5456945,500
+9540;AS Alzenau-Nord;9;BY;A;45;;AS Alzenau-Nord;N;AS Alzenau-Mitte;S;502349,500;5549054,500
+9541;AS Schweinf./Bergrheinf.;9;BY;A;70;;AS Schweinfurt-Hafen;O;AS Schweinfurt/Bergrheinfeld (B26);W;585897,500;5541722,000
+9542;AS Schweinfurt-Hafen;9;BY;A;70;;AS Schweinfurt-Zentrum (B286);O;AS Schweinfurt-Hafen;W;587976,868;5541883,687
+9543;AS Schweinfurt-Zentrum;9;BY;A;70;;AS Gochsheim;O;AS Schweinfurt-Zentrum (B286);W;589430,341;5542369,110
+9544;AS Gochsheim;9;BY;A;70;;AS Schonungen (B303);O;AS Gochsheim;W;594001,081;5542361,217
+9545;AS Schonungen;9;BY;A;70;;AS Haßfurt;O;AS Schonungen (B303);W;601402,000;5539901,500
+9546;AS Knetzgau;9;BY;A;70;;AS Eltmann (B26);O;AS Knetzgau;W;616845,500;5537465,000
+9547;AS Eltmann;9;BY;A;70;;AS Viereth-Trunstadt;O;AS Eltmann (B26);W;623374,233;5536300,921
+9548;AS Viereth-Trunstadt;9;BY;A;70;;AS Bamberg-Hafen (B26);O;AS Viereth-Trunstadt;W;630152,020;5531922,054
+9549;AS Bamberg-Hafen;9;BY;A;70;;AS Hallstadt (B4);O;AS Bamberg-Hafen (B26);W;634267,500;5531400,500
+9550;Stetten (W);9;BY;A;96;;AS Stetten;O;AS Erkheim;W;602634,113;5321394,394
+9552;Ingolstadt-Nord (S);9;BY;A;9;;AS Ingolstadt-Nord;N;AS Ingolstadt-Süd;S;680734,480;5404211,931
+9554;Manching (N);9;BY;A;9;;AS Ingolstadt-Süd;N;AS Manching;S;681975,974;5400144,093
+9566;AK Feuchtw./Crailsh. (W);9;BY;A;6;;AK Kreuz Feuchtwangen/Crailsheim (A7);O;AS Schnelldorf;W;588856,456;5450937,166
+9567;AK Feuchtw./Crailsh. (O);9;BY;A;6;;AS Feuchtwangen-Nord;O;AK Kreuz Feuchtwangen/Crailsheim (A7);W;590963,070;5451434,029
+9568;AK Feuchtw./Crailsh. (S);9;BY;A;7;;AK Feuchtwangen/Crailsheim (A6);N;AS Feuchtwangen-West;S;590132,423;5449331,814
+9569;AK Feuchtw./Crailsh. (N);9;BY;A;7;;AS Wörnitz;N;AK Kreuz Feuchtwangen/Crailsheim (A6);S;589278,279;5451999,413
+9580;AS Hallstadt;9;BY;A;70;;AS Bamberg;O;AS Hallstadt (B4);W;635526,177;5531696,583
+9581;AK Kreuz Bamberg;9;BY;A;73;;AK Kreuz Bamberg (A70);N;AS Memmelsdorf;S;637938,500;5532089,000
+9582;AS Bamberg-Ost;9;BY;A;73;;AS Bamberg-Ost;N;AS Bamberg-Süd (B22);S;640026,103;5527763,662
+9583;AS Bamberg-Süd;9;BY;A;73;;AS Bamberg-Süd (B22);N;AS Hirschaid;S;641844,338;5524762,447
+9584;AS Hirschaid;9;BY;A;73;;AS Hirschaid;N;AS Buttenheim;S;645320,397;5518429,242
+9585;AS Buttenheim;9;BY;A;73;;AS Buttenheim;N;AS Forchheim-Nord;S;647704,959;5514537,636
+9586;AS Forchheim-Nord;9;BY;A;73;;AS Forchheim-Nord;N;AS Forchheim-Süd (B470);S;647987,369;5510093,843
+9587;AS Baiersdorf-Nord (N);9;BY;A;73;;AS Forchheim-Süd (B470);N;AS Baiersdorf-Nord;S;648050,500;5505050,500
+9588;AS Baiersdorf-Nord;9;BY;A;73;;AS Baiersdorf-Nord;N;AS Möhrendorf;S;646548,637;5501857,468
+9589;AS Möhrendorf;9;BY;A;73;;AS Möhrendorf;N;AS Erlangen-Nord;S;644982,996;5498974,638
+9593;AS Nürnberg-Zollhaus (S);9;BY;A;73;;AS Nürnberg-Zollhaus (B8);N;AK Kreuz Nürnberg Süd (A6);S;654260,500;5472425,500
+9594;AS Wendelstein-Nord;9;BY;A;73;;AK Kreuz Nürnberg-Süd (A6);N;AS Wendelstein-Nord;S;656000,500;5471238,000
+9620;AS Hof-West;9;BY;A;9;;AS Hof-West (B15);N;AS Münchberg-Nord;S;698300,500;5565698,000
+9621;AS Münchberg-Nord;9;BY;A;9;;AS Münchberg-Nord;N;AS Münchberg-Süd;S;696612,442;5562134,380
+9622;AS Bindlacher Berg;9;BY;A;9;;AS Bindlacher Berg;N;AS Bayreuth-Nord (B2);S;686920,093;5539821,197
+9623;AS Bayreuth-Nord;9;BY;A;9;;AS Bayreuth-Nord (B2);N;AS Bayreuth-Süd (B85);S;687066,363;5536513,776
+9624;AS Oberölsbach;9;BY;A;3;;AS Oberölsbach;N;AS Neumarkt/OPf.;S;676916,156;5469726,370
+9625;Bottenweiler;9;BY;A;7;;AS Wörnitz;N;AK Kreuz Feuchtwangen/Crailsheim (A6);S;589293,083;5451977,316
+9627;Schlüsselfeld;9;BY;A;3;;AS Geiselwind;N;AS Schlüsselfeld;S;614170,391;5513132,508
+9628;Aicha vorm Wald;9;BY;A;3;;AS Garham/Vilshofen;N;AS Aicha vorm Wald;S;812937,743;5399842,184
+9629;Fischbach am Inn;9;BY;A;93;;AS Brannenburg;N;AS Oberaudorf;S;736316,000;5289041,500
+9650;AS Erlangen-Eltersdorf;9;BY;A;73;;AS Erlangen-Eltersdorf;N;AS Fürth-Steinach;S;644175,500;5489058,500
+9651;Schwabach-West;9;BY;A;6;;AS Schwabach-Süd (B2);O;AS Schwabach-West (B466);W;645657,766;5463849,226
+9660;AS Erlangen-Nord;9;BY;A;73;;AS Erlangen-Nord;N;AS Erlangen-Zentrum;S;644392,125;5496101,918
+9661;AS Erlangen-Zentrum;9;BY;A;73;;AS Erlangen-Zentrum;N;AS Erlangen-Bruck (B4);S;643890,816;5494685,230
+9662;AS Nürnberg-Königshof;9;BY;A;73;;AS Nürnberg-Königshof;N;AS Nürnberg-Zollhaus (B8);S;652737,395;5473507,666
+9727;Goldbach (W);9;BY;A;3;;AS Aschaffenburg-Ost (B26);N;AS Goldbach (B26);S;513271,000;5537973,500
+9728;Lauf (N);9;BY;A;9;;AS Lauf/Hersbruck;N;AS Lauf;S;665877,000;5486033,500
+9751;Herrieden (O);9;BY;A;6;;AS Ansbach;O;AS Herrieden;W;609890,782;5457769,732
+9753;AK Nürnberg-Ost (O);9;BY;A;6;;AK Kreuz Altdorf (A3);O;AK Kreuz Nürnberg-Ost (A9);W;660507,590;5474059,489
+9754;AK Nürnberg-Ost (S);9;BY;A;9;;AK Kreuz Nürnberg-Ost (A6);N;AD Dreieck Nürnberg/Feucht (A73);S;659806,566;5472929,206
+9772;Dachau/FFB (O);9;BY;A;8;;AD Dreieck München-Eschenried (A99);O;AS Dachau/Fürstenfeldbruck;W;676006,000;5343566,500
+9773;Dachau/FFB (W);9;BY;A;8;;AS Dachau/Fürstenfeldbruck;O;AS Sulzemoos;W;673648,695;5345477,420
+9774;AD München-Eschenried (O);9;BY;A;99;;AD Dreieck München-Eschenried (A8);N;AD Dreieck München-Allach (A99);S;678647,681;5341985,053
+9775;AD München-Allach (O);9;BY;A;99;;AD Dreieck München-Allach (A99);N;AS München-Ludwigsfeld;S;683405,704;5342558,461
+9840;AK München-Ost (O);9;BY;A;94;;AS Parsdorf;O;AK Kreuz München-Ost (A99);W;705425,667;5335838,092
+9901;Wernberg-Köblitz (S);9;BY;A;93;;AS Wernberg-Köblitz;N;AK Kreuz Oberpfälzer Wald (A6);S;728101,508;5490720,957
+9902;Schwandorf-Mitte (N);9;BY;A;93;;AS Schwandorf-Nord;N;AS Schwandorf-Mitte;S;729239,519;5467727,715
+9903;AD Bayer. Vogtland (N);9;BY;A;9;;AS Naila/Selbitz;N;AD Dreieck Bayerisches Vogtland (A72);S;698388,000;5579621,500
+9944;AK Nürnberg-Süd (W);9;BY;A;6;;AK Kreuz Nürnberg-Süd (A73);O;AS Roth;W;653553,000;5469773,000
+9950;Alzenau (S);9;BY;A;45;;AS Alzenau;N;AS Karlstein;S;502558,120;5547909,771
+9951;AK Fürth/Erlangen (W);9;BY;A;3;;AS Erlangen-Frauenaurach;N;AK Kreuz Fürth/Erlangen (A73);S;643407,559;5491613,342
+9952;AK Fürth/Erlangen (N);9;BY;A;73;;AS Erlangen-Bruck;N;AK Kreuz Fürth/Erlangen (A3);S;643964,127;5492494,391
+9953;AK Fürth/Erlangen (S);9;BY;A;73;;AK Kreuz Fürth/Erlangen (A3);N;AS Erlangen-Eltersdorf;S;644146,553;5490692,154
+9960;Adelzhausen (O);9;BY;A;8;;AS Odelzhausen;O;AS Adelzhausen;W;659453,000;5356559,500
+9961;Derching;9;BY;A;8;;AS Dasing;O;AS Friedberg;W;646408,548;5362829,802
+9962;Augsburg-Ost;9;BY;A;8;;AS Friedberg;O;AS Augsburg-Ost;W;643444,512;5363334,771
+9963;Augsburg-West;9;BY;A;8;;AS Augsburg-Ost;O;AS Augsburg-West;W;639239,000;5364069,500
+9964;Neusäß (W);9;BY;A;8;;AS Neusäß;O;AS Adelsried;W;633846,500;5364530,000
+9965;Zusmarshausen (W);9;BY;A;8;;AS Zusmarshausen;O;AS Burgau;W;617225,500;5362978,000
+9966;Leipheim (O);9;BY;A;8;;AS Günzburg;O;AS Leipheim;W;590622,433;5364872,545
+9984;Wimpasing;9;BY;A;94;;AS Waldkraiburg/Ampfing;O;AS Heldenstein (B12);W;752815,021;5349455,673
+9985;München-Riem (W);9;BY;A;94;;AS München- Riem;O;AS München-Am Moosfeld;W;699342,138;5335034,155
+9986;München-Riem (O);9;BY;A;94;;AS Feldkirchen-West;O;AS München-Riem;W;701149,308;5335644,175
+9987;Feldkirchen-Ost (W);9;BY;A;94;;AS Feldkirchen-Ost;O;AS Feldkirchen-West;W;703148,487;5335767,854
+9991;Rohrbrunn (O);9;BY;A;3;;AS Rohrbrunn;N;AS Marktheidenfeld (B8);S;528124,893;5527434,475
+9994;AD Bayer. Vogtland (S);9;BY;A;9;;AD Dreieck Bayerisches Vogtland (A72);N;AS Hof-West;S;699488,074;5576876,448
+0101;Bischmisheim;10;SL;A;6;;AS St. Ingbert-West;O;AS Saarbrücken-Fechingen;W;360273,540;5454881,618
+0102;Kahlenberg;10;SL;A;6;;AS Rohrbach;O;AS St. Ingbert-Mitte;W;365296,000;5459410,000
+0103;AK Neunkirchen;10;SL;A;6;;AK Kreuz Neunkirchen (A8);O;AS Rohrbach;W;371254,192;5462076,097
+0104;Homburg;10;SL;A;6;;AS Waldmohr;O;AS Homburg;W;378152,179;5468028,674
+0105;Bexbach;10;SL;A;6;;AS Homburg;O;AK Kreuz Neunkirchen (A8);W;375016,986;5465608,762
+0107;SB-Goldene Bremm;10;SL;A;6;;AD Dreieck Saarbrücken (A620);O;AS Saarbrücken-Goldene Bremm;W;353601,500;5452625,500
+0109;Sengscheid;10;SL;A;6;;AS St. Ingbert-Mitte;O;AS St. Ingbert-West;W;362294,515;5458257,621
+0121;Fenne;10;SL;A;620;;AS Saarbrücken-Klarenthal;O;AS Völklingen-Ost;W;346843,500;5457076,500
+0122;Völklingen;10;SL;A;620;;AS Völklingen;O;AS Völklingen-Geislautern;W;344105,500;5456543,000
+0123;Wehrden;10;SL;A;620;;AS Völklingen-Geislautern;O;AS Völklingen-Wehrden;W;342385,158;5457034,986
+0124;Hostenbach;10;SL;A;620;;AS Völklingen-Wehrden;O;AS Wadgassen;W;341147,621;5459442,928
+0125;AS Ensdorf;10;SL;A;620;;AS Wadgassen;O;AS Ensdorf;W;337929,000;5460850,000
+0126;Saarlouis Mitte;10;SL;A;620;;AS Saarlouis-Lisdorf;O;AS Saarlouis-Mitte;W;336662,500;5462682,500
+0127;Saarlouis;10;SL;A;620;;AS Saarlouis-Mitte;O;AS Wallerfangen;W;335120,763;5464306,472
+0128;Wallerfangen;10;SL;A;620;;AS Wallerfangen;O;AD Dreieck Saarlouis (A8);W;335238,770;5466226,792
+0130;AS Lisdorf;10;SL;A;620;;AS Ensdorf;O;AS Saarlouis-Lisdorf;W;337272,500;5461658,500
+0132;Einöd;10;SL;A;8;;AS Einöd;O;AS Limbach;W;375081,085;5462376,388
+0133;Nohfelden;10;SL;A;62;;AS Birkenfeld;O;AS Nohfelden-Türkismühle;W;363343,785;5494155,354
+0134;Limbach;10;SL;A;8;;AS Limbach;O;AK Kreuz Neunkirchen (A6);W;373581,500;5463113,000
+0135;Bayrisch Kohlhof;10;SL;A;8;;AK Kreuz Neunkirchen (A6);O;AS Neunkirchen-Kohlhof;W;372650,500;5463583,000
+0136;Kohlhof;10;SL;A;8;;AS Neunkirchen-Kohlhof;O;AS Neunkirchen-Wellesweiler;W;371910,000;5464549,500
+0137;Wellesweiler;10;SL;A;8;;AS Neunkirchen-Wellesweiler;O;AS Neunkirchen-Oberstadt;W;370551,776;5465401,200
+0138;Spiesen 2;10;SL;A;8;;AS Neunkirchen-Oberstadt;O;AD Dreieck Neunkirchen/Spiesen (B41);W;367292,054;5465289,053
+0139;Spiesen;10;SL;A;8;;AS Neunkirchen/Spiesen (L285);O;AS Neunkirchen-Heinitz;W;364744,000;5464923,000
+0140;Heinitz;10;SL;A;8;;AS Neunkirchen-Heinitz;O;AS Elversberg;W;363810,559;5465107,188
+0141;Elversberg;10;SL;A;8;;AS Elversberg;O;AD Dreieck Friedrichsthal (A623);W;361509,000;5464107,500
+0142;Friedrichsthal;10;SL;A;8;;AD Dreieck Friedrichsthal (A623);O;AS Friedrichsthal-Bildstock;W;360201,310;5465266,448
+0143;Quierschied;10;SL;A;8;;AS Friedrichsthal-Bildstock;O;AS Merchweiler;W;359325,141;5466651,529
+0144;Merchweiler;10;SL;A;8;;AS Merchweiler;O;AK Kreuz Saarbrücken (A1);W;358012,199;5467790,345
+0145;Heusweiler;10;SL;A;8;;AK Kreuz Saarbrücken (A1);O;AS Heusweiler;W;352688,679;5468539,743
+0146;Niedersalbach;10;SL;A;8;;AS Heusweiler;O;AS Schwalbach/Schwarzenholz;W;347035,160;5466661,968
+0147;Schwarzenholz;10;SL;A;8;;AS Schwalbach/Schwarzenholz;O;AS Schwalbach;W;344717,419;5465135,846
+0148;Hülzweiler;10;SL;A;8;;AS Schwalbach;O;AS Saarwellingen;W;340453,331;5467209,388
+0151;Steinrausch;10;SL;A;8;;AS Saarlouis-Steinrausch;O;AS Dillingen-Süd;W;336350,869;5467936,737
+0153;Schwemlingen;10;SL;A;8;;AS Merzig;O;AS Merzig-Schwemlingen;W;327075,000;5480515,000
+0154;Mechern;10;SL;A;8;;AS Rehlingen;O;AS Merzig;W;328396,107;5477013,788
+0172;Nonnweiler;10;SL;A;1;;AS Hermeskeil;N;AS Nonnweiler-Bierfeld;S;352402,480;5497646,010
+0173;Bierfeld;10;SL;A;1;;AS Nonnweiler-Bierfeld;N;AD Dreieck Nonnweiler (A62);S;352989,665;5496257,903
+0174;Otzenhausen;10;SL;A;1;;AS Nonnweiler-Otzenhausen;N;AS Nonnweiler-Braunshausen;S;354683,577;5494972,789
+0175;Kastel;10;SL;A;1;;AS Nonnweiler-Braunshausen;N;AS Nonnweiler-Primstal;S;353504,950;5492861,883
+0177;Hasborn;10;SL;A;1;;AS Tholey-Hasborn;N;AS Tholey;S;353552,945;5482381,503
+0180;Illingen;10;SL;A;1;;AS Illingen;N;AK Kreuz Saarbrücken (A8);S;354997,475;5470264,896
+0181;Göttelborn;10;SL;A;1;;AK Kreuz Saarbrücken (A8);N;AS Quierschied;S;355802,317;5467952,477
+0182;Holz;10;SL;A;1;;AS Quierschied;N;AS Holz;S;354591,527;5465831,007
+0183;Riegelsberg;10;SL;A;1;;AS Holz;N;AS Riegelsberg;S;352456,250;5464376,711
+0185;Kirschheck;10;SL;A;1;;AS Saarbrücken-Neuhaus;N;AS Saarbrücken-Von der Heydt;S;351808,475;5460565,609
+0191;Freisen;10;SL;A;62;;AS Reichweiler;O;AS Freisen;W;373960,814;5489530,429
+0194;Sötern;10;SL;A;62;;AS Nohfelden-Türkismühle;O;AS Nonnweiler-Otzenhausen;W;359428,500;5495185,500
+0200;AD Saarlouis;10;SL;A;8;;AS Dillingen-Süd;O;AD Dreieck Saarlouis (A620);W;335075,500;5467227,000
+0214;Nalbach;10;SL;A;8;;AS Saarwellingen;O;AS Nalbach;W;339028,000;5468273,000
+0245;Jägersfreude;10;SL;A;623;;AS Saarbrücken-Herrensohr;N;AS Saarbrücken-Ludwigsberg (B41);S;354625,723;5459555,105
+0246;Camphausen;10;SL;A;623;;AS Sulzbach;N;AS Saarbrücken-Dudweiler;S;356936,517;5462232,818
+0248;Altenwald;10;SL;A;623;;AD Dreieck Friedrichsthal (A8);N;AS Sulzbach-Altenwald;S;360248,000;5464545,000
+0304;Von der Heydt;10;SL;A;1;;AS Saarbrücken-Von der Heydt;N;AS Saarbrücken-Burbach (B268);S;351707,181;5459597,142
+0324;Saarlouis-Röderberg;10;SL;A;8;;AS Nalbach;O;AS Saarlouis-Steinrausch;W;337779,725;5467942,234
+0353;AS Eppelborn;10;SL;A;1;;AS Tholey;N;AS Eppelborn;S;353633,000;5475577,000
+0400;Tunnel Pellinger Berg;10;SL;A;8;;AS Merzig-Wellingen;O;AS Perl-Borg;W;318710,853;5480577,309
+0402;Perl;10;SL;A;8;;AS Perl;O; Bundesgrenze (L);W;309602,162;5484271,860
+0407;Dillingen-Mitte;10;SL;A;8;;AS Dillingen-Mitte;O;AS Rehlingen;W;332752,932;5469849,890
+0521;Herrensohr;10;SL;A;623;;AS Saarbrücken-Dudweiler;N;AS Saarbrücken-Herrensohr;S;356051,073;5461306,503
+0544;Hühnerfeld;10;SL;A;623;;AS Sulzbach-Altenwald;N;AS Sulzbach;S;359165,292;5463593,759
+0823;Saarbrücken-Neuhaus;10;SL;A;1;;AS Riegelsberg;N;AS Saarbrücken-Neuhaus;S;351465,256;5461883,635
+1012;Fechingen;10;SL;A;6;;AS Saarbrücken-Fechingen;O;AD Dreieck Saarbrücken (A620);W;357494,396;5452030,382
+2002;Eichkamp;11;BE;A;115;;AD Dreieck Funkturm (A100);N;AS Hüttenweg;S;789544,902;5824453,859
+2003;Halensee;11;BE;A;100;;AS Kurfürstendamm;O;AS Messedamm-Süd;W;790691,223;5824973,139
+2004;Friedenau (O);11;BE;A;103;;AK Kreuz Schöneberg (A100/B1);N;AS Saarstraße;S;794573,874;5821795,594
+2005;Westend (O);11;BE;A;100;;AS Spandauer Damm;O;AS Siemensdamm;W;790516,000;5827474,000
+2006;Friedenau (N);11;BE;A;100;;AS Wexstraße;O;AS Detmolder Straße;W;793609,000;5822986,500
+2008;Reinickendorf (S);11;BE;A;111;;AS Kurt-Schumacher-Damm;N;AS Saatwinkler Damm;S;791601,014;5830817,882
+2010;Heiligensee 2;11;BE;A;111;;AS Stolpe;N;AS Schulzendorfer Straße;S;787525,500;5838778,500
+2011;Buchholz;11;BE;A;114;;AS Schönerlinder Straße;N;AS Bucher Straße;S;800371,434;5839128,724
+2012;Neukölln;11;BE;A;113;;AD Dreieck Neukölln (A100);N;AS Späthstraße;S;802841,000;5821397,500
+2013;Schönefeld;11;BE;A;113;;AS Adlershof;N;AS Schönefeld Nord;S;807478,608;5815390,176
+2014;Britz;11;BE;A;100;;AS Britzer Damm;O;AS Gradestraße;W;799738,794;5821463,830
+3601;Lehnin;12;BB;A;2;;AS Lehnin;O;AS Netzen;W;755449,500;5805552,500
+3602;Erkner;12;BB;A;10;;AS Erkner;O;AS Rüdersdorf;W;825407,200;5819148,974
+3603;Ludwigsfelde;12;BB;A;10;;AS Genshagen;O;AS Ludwigsfelde-Ost;W;793239,747;5803937,446
+3604;Michendorf;12;BB;A;10;;AS Michendorf;O;AS Ferch;W;774290,143;5802108,463
+3605;Kemnitz;12;BB;A;10;;AS Phöben;O;AS Groß Kreutz;W;763715,263;5813281,180
+3606;Oranienburg;12;BB;A;10;;AD Dreieck Kreuz Oranienburg (A111);O;AS Oberkrämer;W;781112,000;5847660,500
+3607;Finowfurt;12;BB;A;11;;AS Werbellin;N;AS Finowfurt;S;814438,986;5866522,220
+3608;Fürstenwalde;12;BB;A;12;;AS Fürstenwalde-West;O;AS Storkow;W;845473,674;5810378,663
+3610;Gollmitz;12;BB;A;13;;AS Calau;N;AS Bronkow;S;838713,917;5737401,305
+3611;Maulbeerwalde;12;BB;A;24;;AS Pritzwalk;O;AS Meyenburg;W;723722,406;5896474,394
+3612;Havelland;12;BB;A;24;;AD Dreieck Havelland (A10);O;AS Kremmen;W;769431,000;5848162,500
+3613;Netzeband;12;BB;A;24;;AS Neuruppin;O;AS Herzsprung;W;742727,595;5876882,910
+3615;Drewitz;12;BB;A;115;;AS Zehlendorf;N;AS Kleinmachnow;S;784789,889;5814002,217
+3630;Güldendorf;12;BB;A;12;;AS GÜG Frankfurt (Oder)/Swiecko;O;AS Frankfurt (Oder)-Süd;W;876663,914;5810705,835
+3667;Lindenberg;12;BB;A;10;;AD Dreieck Barnim (A11);O;AD Dreieck Pankow (A114);W;806254,060;5839207,515
+3684;Forst;12;BB;A;15;;AS Bademeusel;N;AS GÜG Forst/Olszyna;S;897596,952;5739651,217
+1601;Upahl;13;MV;A;20;;AS Grevesmühlen;O;AS Schönberg;W;642091,626;5965952,993
+1602;Goldenstädt;13;MV;A;14;;AS Schwerin-Ost;N;AK Kreuz Schwerin (A24);S;666454,500;5923719,500
+1603;Hohewisch;13;MV;A;24;;AS Neustadt-Glewe;O;AK Kreuz Schwerin (A14);W;670643,673;5920706,847
+1604;Kavelstorf;13;MV;A;19;;AS Kavelstorf;N;AS Laage;S;709783,000;5987984,000
+1605;Vietgest;13;MV;A;19;;AS Güstrow;N;AS Krakow am See;S;719178,344;5962286,519
+1606;Petersdorf;13;MV;A;19;;AS Malchow;N;AS Waren (Müritz);S;724578,000;5928860,000
+1607;Nadrensee;13;MV;A;11;;AS GÜG Pomellen;N;AS Penkun;S;851853,000;5920606,500
+1608;Satow;13;MV;A;20;;AS Bad Doberan;O;AS Kröpelin;W;691382,423;5985257,446
+1609;Tessin;13;MV;A;20;;AS Bad Sülze;O;AS Tessin;W;732468,500;5990718,295
+1610;Strasburg;13;MV;A;20;;AS Pasewalk-Nord;O;AS Strasburg (Uckermark);W;814401,495;5941904,523
+1611;Jarmen;13;MV;A;20;;AS Anklam;O;AS Jarmen;W;785714,000;5981739,000
+1612;Hagenow;13;MV;A;24;;AS Ludwigslust;O;AS Hagenow;W;655467,500;5926363,000
+1613;Rostock-Ost;13;MV;A;19;;AS Rostock-Ost;N;AS Rostock-Süd;S;708947,500;5999738,000
+1614;Warnowtal;13;MV;A;20;;AK Kreuz Rostock (A19);O;AS Rostock-Südstadt;W;705856,506;5990286,679
+1615;Rostock-Nord;13;MV;A;19;;AS Rostock-Nord;N;AS Rostock-Ost;S;707022,000;6001260,500
+1616;Ludwigslust;13;MV;A;14;;AS Ludwigslust;N;AS Grabow;S;668394,000;5910244,500
+1617;Rostock-Überseehafen;13;MV;A;19;;AS Rostock-Überseehafen;N;AS Rostock-Nord;S;706494,000;6001773,000
+4101;Radefeld;14;SN;A;14;;AS Schkeuditz;N;AS Leipzig Nord;S;727944,672;5701274,483
+4102;Ammelshain;14;SN;A;14;;AS Klinga;N;AS Grimma;S;757630,211;5685754,335
+4103;Choren;14;SN;A;14;;AS Döbeln-Ost;N;AS Nossen-Nord;S;795885,640;5668586,528
+4105;Rothschönberg;14;SN;A;4;;AS Wilsdruff;O;AD Dreieck Nossen (A14);W;813972,651;5665978,615
+4106;Gersdorf;14;SN;A;4;;AS Hainichen;O;AS Frankenberg;W;785693,600;5652397,309
+4107;Hohenstein;14;SN;A;4;;AS Wüstenbrand;O;AS Hohenstein-Ernstthal;W;758031,500;5635715,500
+4108;Leukersdorf;14;SN;A;72;;AS Chemnitz-Süd;N;AS Stollberg Nord;S;769070,968;5631427,739
+4109;Heinersgrün;14;SN;A;72;;AS Pirk;N;AD Dreieck Hochfranken (A93);S;713458,707;5587071,893
+4111;Schönfeld;14;SN;A;13;;AS Schönborn;N;AS Thiendorf;S;828934,000;5695999,000
+4112;Ludwigsdorf (GÜG);14;SN;A;4;;AS GÜG Görlitz;O;AS Görlitz;W;919544,500;5687245,500
+4113;Hirschfeld;14;SN;A;72;;AS Zwickau-West;N;AS Reichenbach;S;742389,481;5614538,399
+4114;Gospersgrün;14;SN;A;72;;AS Treuen;N;AS Plauen-Ost;S;730828,688;5603731,147
+4116;Burkau;14;SN;A;4;;AS Uhyst a.T.;O;AS Burkau;W;861029,285;5682893,575
+4117;Wachau;14;SN;A;4;;AS Pulsnitz;O;AS Ottendorf-Okrilla;W;843043,000;5680242,000
+4118;Gompitz;14;SN;A;17;;AD Dreieck Dresden-West (A4);N;AD Dresden-Gorbitz (B173);S;822933,581;5665082,874
+4119;AD Dresden-Nord (N);14;SN;A;13;;AS Marsdorf;N;AD Dreieck Dresden-Nord (A4);S;831974,500;5676574,000
+4120;AD Dresden-Nord (W);14;SN;A;4;;AD Dreieck Dresden-Nord (A13);O;AS Dresden-Flughafen;W;832166,000;5674469,000
+4121;AD Dresden-Nord (O);14;SN;A;4;;AS Hermsdorf;O;AD Dreieck Dresden-Nord (A13);W;832888,000;5676356,500
+4122;GÜG Breitenau-Schönwald;14;SN;A;17;;AS Bad Gottleuba;N; GÜG Breitenau;S;843847,000;5639481,500
+4123;Nieder Seifersdorf;14;SN;A;4;;AS Kodersdorf;O;AS Nieder Seifersdorf;W;904237,500;5688869,500
+4124;Niederrödern;14;SN;A;13;;AS Thiendorf;N;AS Radeburg;S;829814,000;5687922,000
+4125;Sobrigau;14;SN;A;17;;AS Dresden-Prohlis;N;AS Heidenau in Sachsen;S;836058,504;5658771,276
+4126;Niederfrohna;14;SN;A;72;;AS Niederfrohna;N;AS Hartmannsdorf;S;763363,500;5644608,500
+4127;Meerane-West;14;SN;A;4;;AS Meerane;O;AS Schmölln;W;737306,000;5637007,500
+4150;Leipzig-Südwest;14;SN;A;38;;AS Leipzig-Südwest;O;AS Lützen;W;726977,000;5683813,000
+4151;Knautnaundorf;14;SN;A;38;;AS Leipzig-Neue Harth;O;AS Leipzig-Südwest;W;728953,500;5684075,500
+4152;Gaschwitz;14;SN;A;38;;AS Leipzig-Süd;O;AS Leipzig-Neue Harth;W;735481,000;5682757,000
+4153;Kleinstädteln;14;SN;A;38;;AS Leipzig-Südost;O;AS Leipzig-Süd;W;738080,500;5682897,500
+4154;Liebertwolkwitz;14;SN;A;38;;AD Dreieck Parthemaue;O;AS Leipzig-Südost;W;742571,000;5684889,000
+4156;Beucha;14;SN;A;14;;AD Dreieck Parthenaue (A38);N;AS Naunhof;S;748218,887;5690345,082
+4157;Wolfshain;14;SN;A;14;;AS Kleinpösna;N;AD Dreieck Parthenaue (A38);S;746263,500;5690696,000
+4158;Engelsdorf;14;SN;A;14;;AS Leipzig-Ost;N;AS Kleinpösna;S;743992,500;5694497,500
+4161;Seehausen;14;SN;A;14;;AS Leipzig-Mitte;N;AS Leipzig-Messegelände;S;736840,040;5700018,194
+4162;Breitenfeld;14;SN;A;14;;AS Leipzig-Nord;N;AS Leipzig-Mitte;S;734553,500;5700694,000
+3804;Vockerode;15;ST;A;9;;AS Coswig;N;AS Vockerode;S;731002,324;5750907,521
+3809;Leipzig West;15;ST;A;9;;AS Großkugel;N;AS Leipzig-West;S;721984,891;5694272,793
+3810;Theeßen;15;ST;A;2;;AS Ziesar;O;AS Theeßen;W;714698,956;5792825,760
+3832;Plötzkau;15;ST;A;14;;AS Plötzkau;N;AS Könnern;S;684911,843;5734073,653
+3833;Gröbers;15;ST;A;14;;AS Gröbers;N;AK Schkeuditzer Kreuz (A9);S;720463,349;5702678,295
+3834;Rippachtal West;15;ST;A;38;;AK Kreuz Rippachtal (A9);O;AS Leuna (B91);W;711617,379;5680918,226
+3835;Hohenwarthe;15;ST;A;2;;AS Lostau;O;AS Magdeburg-Rothensee;W;685116,500;5789149,000
+3836;Bornstedt/Irxleben;15;ST;A;2;;AS Irxleben;O;AS Bornstedt;W;669045,911;5783779,175
+3837;Alleringersleben;15;ST;A;2;;AS Eilsleben;O;AS Alleringersleben;W;647978,693;5786348,292
+3838;AK Magdeburg Süd;15;ST;A;14;;AK Kreuz Magdeburg (A2);N;AS Magdeburg-Stadtfeld;S;674029,249;5781339,961
+3839;AK Magdeburg Nord;15;ST;A;14;;AS Dahlenwarsleben;N;AK Kreuz Magdeburg (A2);S;674194,000;5784284,000
+3840;Halle-Pappelgrund;15;ST;A;143;;AS Halle-Neustadt;N;AS Teutschenthal;S;698433,000;5705612,500
+3859;Benzingerode;15;ST;A;36;;AS Heimburg;O;AS Wernigerode-Zentrum;W;629749,450;5744909,261
+3860;Aschersleben;15;ST;A;36;;AS Aschersleben-Ost;O;AS Aschersleben-Mitte;W;671172,789;5739608,257
+3901;Wiedemar;15;ST;A;9;;AS Wiedemar;N;AK Schkeuditzer Kreuz (A14);S;722805,019;5703798,930
+3902;Schkeuditzer Kreuz Süd;15;ST;A;9;;AK Schkeuditzer Kreuz (A14);N;AS Großkugel;S;721793,788;5700555,128
+3903;Weißenfels Süd;15;ST;A;9;;AS Weißenfels;N;AS Naumburg;S;706893,000;5667166,500
+3904;Günthersdorf;15;ST;A;9;;AS Leipzig-West;N;AS Bad Dürrenberg;S;721399,068;5691796,386
+3905;Bad Dürrenberg Süd;15;ST;A;9;;AS Bad Dürrenberg;N;AK Kreuz Rippachtal (A38);S;717851,130;5685804,440
+3906;Rippachtal Süd;15;ST;A;9;;AK Kreuz Rippachtal (A38);N;AS Weißenfels;S;712682,801;5679112,382
+3907;Schkeuditzer Kreuz Ost;15;ST;A;14;;AK Schkeuditzer Kreuz (A9);N;AS Schkeuditz;S;723837,731;5701965,395
+3908;Halle-Trotha/Teufelsgrund;15;ST;A;14;;AS Halle-Trotha;N;AS Halle-Tornau;S;705156,500;5717300,000
+3909;Osterweddingen;15;ST;A;14;;AS Magdeburg-Sudenburg;N;AS Magdeburg-Reform;S;678052,500;5770618,500
+3910;Lützen;15;ST;A;38;;AS Lützen;O;AK Kreuz Rippachtal (A9);W;717922,000;5680673,500
+3911;Merseburg/Geiseltal;15;ST;A;38;;AS Merseburg-Süd;O;AS Merseburg-Nord;W;703660,848;5692113,433
+3912;Helmetal;15;ST;A;38;;AS Sangerhausen-West;O;AS Roßla;W;655207,552;5702400,695
+3913;Rohnetal;15;ST;A;38;;AS Eisleben (B180);O;AS Allstedt;W;669204,422;5701091,398
+3914;Schönebeck;15;ST;A;14;;AS Schönebeck;N;AS Calbe;S;682889,112;5763806,857
+3915;Reform;15;ST;A;14;;AS Magdeburg-Reform;N;AS Schönebeck;S;681343,274;5767300,974
+3916;Sudenburg;15;ST;A;14;;AS Wanzleben;N;AS Magdeburg-Sudenburg;S;674500,500;5772732,500
+3917;Wanzleben;15;ST;A;14;;AS Magdeburg-Stadtfeld;N;AS Wanzleben;S;673388,000;5774705,000
+3918;Naumburg Süd;15;ST;A;9;;AS Naumburg;N;AS Droyßig;S;706356,500;5659692,000
+3919;Droyßig;15;ST;A;9;;AS Droyßig;N;AS Eisenberg;S;706067,500;5657651,000
+3926;Allstedt;15;ST;A;38;;AS Allstedt;O;AD Südharz (A71);W;663443,500;5701030,500
+3927;Eisleben;15;ST;A;38;;AS Querfurt;O;AS Eisleben;W;677045,500;5702290,000
+3928;Querfurt;15;ST;A;38;;AS Schafstädt;O;AS Querfurt;W;687409,500;5698395,000
+3929;Steuden;15;ST;A;38;;AD Dreieck Halle-Süd (A143);O;AS Schafstädt;W;693807,500;5698271,500
+3930;Halle Süd;15;ST;A;38;;AS Bad Lauchstädt;O;AD Dreieck Halle-Süd (A143);W;700553,000;5698452,500
+3931;Merseburg Nord;15;ST;A;38;;AS Merseburg-Nord;O;AS Bad Lauchstädt;W;701986,000;5697503,000
+3932;Merseburg Süd;15;ST;A;38;;AS Leuna;O;AS Merseburg-Süd;W;707458,000;5684629,000
+3937;Magdeburg Kannenstieg;15;ST;A;2;;AS Magdeburg-Zentrum;O;AS Magdeburg-Kannenstieg;W;677327,500;5784225,500
+3940;Burg Zentrum;15;ST;A;2;;AS Burg-Ost;O;AS Burg-Zentrum;W;696885,000;5790709,000
+3957;Thurland Nord;15;ST;A;9;;AS Dessau-Süd;N;AS Thurland;S;722406,500;5737475,000
+3958;Thurland Süd;15;ST;A;9;;AS Thurland;N;AS Bitterfeld-Wolfen;S;721846,000;5732266,500
+4300;Talbrücke Reichenbach;16;TH;A;71;;AS Ilmenau-West;N;AS Gräfenroda;S;632623,000;5619747,000
+4301;Gotha;16;TH;A;4;;AS Gotha;O;AS Gotha-Boxberg;W;621344,500;5640288,000
+4302;Weimar;16;TH;A;4;;AS Apolda;O;AS Weimar;W;661850,819;5646041,069
+4303;Ronneburg;16;TH;A;4;;AS Ronneburg;O;AS Gera-Leumnitz;W;726539,500;5640522,500
+4304;HK/West;16;TH;A;4;;AK Hermsdorfer Kreuz (A9);O;AS Stadtroda;W;699738,500;5640263,500
+4305;HK/Ost;16;TH;A;4;;AS Hermsdorf-Ost;O;AK Hermsdorfer Kreuz (A9);W;700974,269;5640547,894
+4306;Werrabrücke;16;TH;A;4;;AS Eisenach-West;O;AS Herleshausen;W;585967,500;5651730,500
+4307;Laucha;16;TH;A;4;;AS Waltershausen;O;AS Sättelstädt;W;608283,000;5642087,500
+4308;Rasthof Hörselgau;16;TH;A;4;;AS Gotha-Boxberg;O;AS Waltershausen;W;611145,500;5641588,000
+4309;Wandersleben;16;TH;A;4;;AS Neudietendorf;O;AS Wandersleben;W;628980,000;5637728,000
+4311;Werratalbrücke Meiningen;16;TH;A;71;;AS Meiningen-Nord;N;AS Meiningen-Süd;S;604618,500;5598968,000
+4320;Bad Klosterlausnitz;16;TH;A;9;;AS Eisenberg;N;AS Bad Klosterlausnitz;S;699539,247;5645269,601
+4321;HK/Süd;16;TH;A;9;;AK Hermsdorfer Kreuz (A4);N;AS Hermsdorf-Süd;S;700327,697;5639866,953
+4322;HK/Nord;16;TH;A;9;;AS Bad Klosterlausnitz;N;AK Hermsdorfer Kreuz (A4);S;700105,564;5641371,335
+4323;Schleiz;16;TH;A;9;;AS Dittersdorf;N;AS Schleiz;S;697899,744;5603473,128
+4324;Eisenberg;16;TH;A;9;;AS Droyßig;N;AS Eisenberg;S;704124,500;5652617,000
+4325;Tautendorf;16;TH;A;9;;AS Hermsdorf-Süd;N;AS Lederhose;S;702828,500;5634667,500
+4326;Moßbach;16;TH;A;9;;AS Triptis;N;AS Dittersdorf;S;699274,000;5616556,000
+4327;Lobenstein;16;TH;A;9;;AS Bad Lobenstein;N;AS Rudolphstein;S;699053,500;5591337,000
+4330;Rennsteig;16;TH;A;71;;AS Gräfenroda;N;AS Oberhof;S;619361,242;5614390,574
+4331;Hochwald;16;TH;A;71;;AS Oberhof;N;AS Suhl/Zella-Mehlis;S;619516,500;5612355,000
+4332;Tunnel Behringen;16;TH;A;71;;AS Arnstadt-Süd;N;AS Stadtilm;S;641308,000;5626727,000
+4333;Berg Bock;16;TH;A;71;;AS Suhl/Zella-Mehlis;N;AD Dreieck Suhl (A73);S;618734,290;5610827,226
+4334;Eichelberg;16;TH;A;71;;AS Meiningen-Süd (B89);N;AS Rentwertshausen;S;602764,426;5596546,973
+4335;Schloßvippach;16;TH;A;71;;AS Sömmerda-Ost;N;AS Sömmerda-Süd;S;651313,500;5666084,500
+4337;Mittelhausen;16;TH;A;71;;AS Erfurt-Stotternheim;N;AS Erfurt-Mittelhausen;S;640488,000;5655393,000
+4340;Tunnel Schmücke;16;TH;A;71;;AS Heldrungen;N;AS Kölleda;S;654428,000;5682269,500
+4341;AK Erfurt/Nord;16;TH;A;71;;AS Erfurt-Bindersleben (B7);N;AK Kreuz Erfurt (A4);S;636809,899;5640678,603
+4342;AK Erfurt/Süd;16;TH;A;71;;AK Kreuz Erfurt (A4);N;AS Arnstadt-Nord;S;638550,687;5639701,925
+4343;PWC Dornheim;16;TH;A;71;;AS Arnstadt-Nord;N;AS Arnstadt-Süd;S;641554,000;5633602,000
+4344;Ilmenau-West;16;TH;A;71;;AS Ilmenau-Ost;N;AS Ilmenau-West;S;634749,500;5619648,500
+4345;AD Suhl/Ost;16;TH;A;71;;AS Suhl/Zella-Mehlis;N;AD Dreieck Suhl (A73);S;617235,243;5608417,095
+4346;AD Suhl/West;16;TH;A;71;;AD Dreieck Suhl (A73);N;AS Meiningen-Nord;S;615879,501;5607644,249
+4347;Artern;16;TH;A;71;;AD Dreieck Südharz (A38);N;AS Artern;S;658648,500;5695322,000
+4349;Hohe Schrecke;16;TH;A;71;;AS Artern;N;AS Heldrungen;S;657375,500;5690349,000
+4351;AK Erfurt/West;16;TH;A;4;;AK Kreuz Erfurt (A71);O;AS Neudietendorf;W;636739,211;5639670,098
+4352;AK Erfurt/Ost;16;TH;A;4;;AS Erfurt-West;O;AK Kreuz Erfurt (A71);W;638496,065;5640292,624
+4353;PWC Willroder Forst;16;TH;A;4;;AS Erfurt-Ost;O;AS Erfurt-West;W;645679,500;5641929,500
+4354;Erfurt-Ost;16;TH;A;4;;AS Erfurt-Vieselbach;O;AS Erfurt-Ost;W;650495,000;5643963,000
+4355;Rasthof Eichelborn;16;TH;A;4;;AS Nohra;O;AS Erfurt-Vieselbach;W;654229,000;5646437,000
+4357;PWC Podelsatz;16;TH;A;4;;AS Stadtroda;O;AS Jena-Zentrum;W;690744,000;5639405,500
+4358;Hermsdorf-Ost;16;TH;A;4;;AS Rüdersdorf;O;AS Hermsdorf-Ost;W;702729,000;5641853,500
+4361;Gera-Leumnitz;16;TH;A;4;;AS Gera-Leumnitz;O;AS Gera;W;721331,000;5642204,500
+4363;AS Eisenach-West;16;TH;A;4;;AS Eisenach-Ost;O;AS Eisenach-West;W;589321,500;5651256,500
+4364;AS Eisenach-Ost;16;TH;A;4;;AS Sättelstädt;O;AS Eisenach-Ost;W;603978,500;5648760,000
+4366;Tunnel Jagdberg;16;TH;A;4;;AS Jena-Göschwitz (B88);O;AS Bucha (L2309);W;680044,000;5639059,500
+4367;Tunnel Lobdeburg;16;TH;A;4;;AS Jena-Zentrum;O;AS Jena-Göschwitz;W;683519,500;5639688,000
+4372;Röstebachtalbrücke;16;TH;A;38;;AS Breitenworbis;O;AS Leinefelde (B247);W;596337,552;5695066,566
+4373;Rodebachtalbrücke;16;TH;A;38;;AS Dreieck Großwechsungen;O;AS Bleicherode;W;617177,000;5702488,500
+4375;Heringen;16;TH;A;38;;AS Berga;O;AS Heringen;W;630492,000;5704426,000
+4376;AS Nordhausen-West;16;TH;A;38;;AS Nordhausen-West;O;AS Dreieck Großwechsungen;W;621015,500;5705653,500
+4377;Tunnel Höllberg;16;TH;A;38;;AS Bleicherode;O;AS Breitenworbis;W;602205,000;5696670,500
+4382;AD Suhl/Süd;16;TH;A;73;;AD Dreieck Suhl (A71);N;AS Suhl-Zentrum;S;616354,779;5606946,842
+4383;AS Schleusingen;16;TH;A;73;;AS Schleusingen;N;AS Eisfeld-Nord;S;625685,500;5597300,500
+4384;Talbrücke Werratal;16;TH;A;73;;AS Eisfeld-Nord;N;AS Eisfeld-Süd;S;634393,500;5586911,500

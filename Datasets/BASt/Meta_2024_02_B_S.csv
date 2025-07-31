@@ -1,0 +1,883 @@
+Dauerzaehlstellennummer;Dauerzaehlstellenname;Landesnummer;Landeskuerzel;Straßenklasse;Straßennummer;Straßennumernzusatz;Nahziel_Richtung_1;Himmelsrichtung_Richtung_1;Nahziel_Richtung_2;Himmelsrichtung_Richtung_2;Koordinaten_UTM32_E;Koordinaten_UTM32_N
+1111;Kiel-Holtenau I;1;SH;B;503;; Kiel-Holtenau, K22;N; Kiel-Wik, K15;S;572866,000;6025081,500
+1112;Kiel-Holtenau 2;1;SH;B;503;; Kiel-Wik, K15;N; Kiel-Projensdorf, K10;S;572892,000;6024287,000
+1113;Flensburg Süd 1;1;SH;B;200;; AS Krusau;N; Flensburg;S;527436,500;6068674,000
+1116;Gettorf ( Wulfshagen );1;SH;B;76;; Kiel;O; Gettorf;W;566276,000;6027658,500
+1117;Friedrichsgabekoog;1;SH;B;203;; Heide;O; Büsum;W;496146,817;6000787,271
+1118;Norderstedt;1;SH;B;432;; Kayhude;O; Ochsenzoll;W;570521,548;5951634,590
+1120;Brunsbüttel Hochbr.;1;SH;B;5;; Büttel / IZ;O; Brunsbüttel;W;511691,106;5974983,655
+1125;Süderholm;1;SH;B;203;; Rendsburg;O; Heide;W;509435,386;6005533,102
+1127;Gottrupel;1;SH;B;199;; Handewitt;O; Schafflund;W;520589,520;6070112,577
+1131;Fehmarnsundbrücke;1;SH;B;207;; Burg a. F.;N; Großenbrode;S;638146,911;6032703,698
+1132;Husum-Süd;1;SH;B;5;; Tönning;O; Husum;W;502865,606;6032249,686
+1133;Böglum;1;SH;B;5;; Süderlügum;O; Tondern;W;494139,354;6082376,332
+1134;Wassersleben;1;SH;B;200;; Krusau;N; AS Flensburg;S;526618,173;6075615,722
+1135;Raisdorf 1;1;SH;B;76;; Preetz;O; Elmschenhagen;W;580868,500;6015643,000
+1136;Raisdorf II;1;SH;B;202;; Lütjenburg;O; Kiel;W;581298,537;6015374,886
+1138;Neubörnsen;1;SH;B;207;; Schwarzenbek;N; Wentorf;S;586146,783;5927254,306
+1141;Flensburg Süd 3/Osttang.;1;SH;B;199;; Dänemark;O; Husum;W;528202,000;6067871,000
+1144;Elsensee;1;SH;B;4;; Quickborn;N; Hasloh;S;559656,071;5952769,422
+1145;Schmabek;1;SH;B;206;; Kellinghusen;O; Itzehoe;W;536435,061;5976888,739
+1146;Blauer Lappen;1;SH;B;77;; Jahrsdorf;N; Itzehoe;S;536310,675;5978297,602
+1148;Hohenwestedt I;1;SH;B;77;; Rendsburg;N; Itzehoe;S;542596,625;5992458,632
+1149;Röbel;1;SH;B;76;; Süsel;O; Eutin;W;608755,227;5996651,639
+1150;Flensburg-Ost / Engelsby;1;SH;B;199;; Langballig;O; Flensburg;W;531626,588;6073026,587
+1151;Untersteenrade;1;SH;B;432;; Pönitz;O; Ahrensbök;W;608398,726;5989480,792
+1152;Bredstedt;1;SH;B;5;; Bredtstedt;O; Mönkebüll;W;497120,702;6053630,270
+1157;Flensburg Süd 4;1;SH;B;200;; Richtung  A7;N; Jarplund-Weding;S;527592,500;6067336,500
+1158;Kiel/Schönkirchen;1;SH;B;502;; Mönkeberg;O; Kiel;W;578341,801;6021275,735
+1160;Mustin;1;SH;B;208;; Roggendorf;O; Ziethen;W;624461,179;5951052,348
+1161;Lauenburg;1;SH;B;5;; Boizenburg;O; Lauenburg;W;605883,585;5915191,442
+1164;Segeberg Ost;1;SH;B;206;; Lübeck;O; AS Segeberg;W;587075,931;5975972,457
+1165;Segeberg West 1;1;SH;B;206;; Bad Segeberg;O; Wittenborn / AS Bad Segeberg Nord;W;584091,945;5977056,364
+1174;Döhnsdorf;1;SH;B;202;; Oldenburg;O; Lütjenburg;W;612587,564;6017970,031
+1175;Kotzenbüll;1;SH;B;202;; Tönning;O; Garding;W;493302,225;6021345,098
+1176;Eckernförde / Goosefeld;1;SH;B;203;; Eckernförde;O; Rendsburg;W;553012,559;6032559,468
+1178;Hemmingstedt;1;SH;B;5;; Meldorf;O; Heide;W;504762,621;6000028,949
+1179;Eckernf. (Kochendorf);1;SH;B;76;; Eckernförde;O; Schleswig;W;552452,682;6037813,575
+1180;Hohn;1;SH;B;202;; Fockbeck;O; Erfde;W;532962,841;6017076,744
+1181;Rastorfer Passau;1;SH;B;202;; Lütjenburg;O; Kiel;W;587733,599;6015634,215
+1182;Eckernförde (Barkelsby);1;SH;B;203;; Kappeln;O; Eckernförde;W;553314,257;6038232,765
+1183;Lexfähre;1;SH;B;203;; Rendsburg;O; Heide;W;529016,947;6008412,318
+1184;Elmenhorst;1;SH;B;207;; Mölln;N; Schwarzenbek;S;601842,361;5933942,609
+1185;Grande;1;SH;B;404;; Bargteheide;N; Schwarzenbek;S;592021,828;5939045,332
+1186;Husberg;1;SH;B;430;; Bornhöved;O; Neumünster;W;568521,500;5991795,500
+1187;Hohenwestedt II;1;SH;B;430;; Neumünster;O; Schenefeld;W;542678,799;5992517,987
+1188;Tönning / Klappbrücke;1;SH;B;5;; Heide;O; Husum;W;497122,092;6019047,155
+1190;Neritz;1;SH;B;75;; Neritz;O; Elmenhorst;W;583940,260;5959425,280
+1191;Krummenort;1;SH;B;77;; Sorgwohld;N; Ahrenstedt;S;537399,036;6022501,397
+1192;Neustadt i.H.-Ost;1;SH;B;501;; Merkendorf;N; AS Neustadt i.H.-Nord;S;621795,796;5998472,761
+1195;Itzehoe-West 3;1;SH;B;5;; AS Itzehoe-West (A23);O; Bekdorf;W;531248,876;5976346,636
+1196;Itzehoe-West 4;1;SH;B;5;; AS Itzehoe-West (A23);O; AS Itzehoe-West (A23);W;531628,723;5976221,177
+1197;Itzehoe-West 5;1;SH;B;206;; Itzehoe;O; AS Itzehoe-West (A23);W;531915,500;5976166,500
+1264;Osterrönfeld;1;SH;B;202;; Osterrönfeld (L255);O; Zubringer Grüner Kamp (K27);W;544386,000;6015257,000
+1265;Rastorfer Kreuz (West);1;SH;B;202;; Rastorfer Passau;O; Raisdorf;W;584422,996;6015132,636
+1266;Rastorfer Kreuz (Ost);1;SH;B;202;; Rastorfer Passau;O; Raisdorf;W;585326,500;6015302,500
+1267;Borgstedt;1;SH;B;203;;AS Rendsburg/Büdelsdorf (A7);O; Büdelsdorf (L42);W;545268,500;6020932,500
+4701;Bargteheide / Mollhagen;1;SH;B;404;; Bargteheide;N; Trittau;S;589625,500;5951791,000
+2201;Kollaustraße;2;HH;B;447;; Hamburg-Niendorf;N; Hamburg-Lokstedt;S;563020,063;5940913,041
+2205;HH-Neue Elbbrücke;2;HH;B;4;; Hamburg-Zentrum;N; AS Hamburg-Veddel;S;567914,000;5931748,000
+2207;HH-Buxtehuder Str.;2;HH;B;73;; Hamburg-Harburg-Mitte;O; Hamburg-Heimfeld;W;564912,563;5924429,704
+2210;HH-Fruchtallee;2;HH;B;5;; Hamburg-Centrum;O; Hamburg-Stellingen;W;563160,500;5936219,500
+2216;Europabrücke;2;HH;B;75;; AS Hamburg-Wilhelmsburg-Süd;O; AS Hamburg-Neuland;W;566016,645;5925107,758
+2231;Umgehung Fuhlsbüttel;2;HH;B;433;; AS Hamburg-Schnelsen-Nord;N; Hamburg-Fuhlsbüttel;S;566748,122;5943517,931
+2232;Krohnstieg;2;HH;B;433;; AS Hamburg-Schnelsen-Nord;N; HH-Langenhorn + Norderstedt;S;564503,030;5944567,064
+2234;Swebenweg;2;HH;B;433;; AS Hamburg-Schnelsen-Nord;N; HH-Langenhorn + Norderstedt;S;564367,000;5944514,500
+3311;Aurich;3;NI;B;72;; Aurich;N; Bagband;S;400382,500;5923945,000
+3312;Friedeburg (W);3;NI;B;436;; Friedeburg;O; Wiesmoor;W;423372,500;5922766,000
+3313;Friedeburg (S);3;NI;B;437;; Neuenburg;O; Friedeburg;W;423510,500;5922701,000
+3316;Edewechterdamm;3;NI;B;401;; AS Oldenburg-Eversten (A28);O; Edewechterdamm;W;430731,009;5882311,495
+3318;Stade;3;NI;B;73;; Horneburg;O; Stade;W;533859,000;5936402,500
+3319;Glinde;3;NI;B;71;; Glinde, Abzweig B495;O; Basdahl;W;504985,000;5927250,500
+3320;Trelder Berg (S);3;NI;B;3;; Trelder Berg (B75);N; Sprötze;S;554001,422;5908633,205
+3322;Grünhagen;3;NI;B;4;; Abzweig B209;N; Bienenbüttel;S;596966,500;5890766,500
+3323;Lüneburg;3;NI;B;216;; Dahlenburg;O; Lüneburg;W;597808,459;5899982,541
+3325;Langendamm;3;NI;B;6;; Neustadt a. Rbge., Abzweig B442;O; Nienburg, Abzweig B214;W;517475,000;5828457,000
+3326;Papenburg;3;NI;B;70;; Ihrhove;N; Papenburg;S;394921,000;5887690,000
+3327;Lingen/Ems;3;NI;B;213;; Lingen, Abzweig B70;O; AS Lingen (A31);W;380802,000;5817232,500
+3329;Ostercappeln;3;NI;B;51;; Ostercappeln;N; AS Osnabrück-Schinkel;S;445611,000;5798623,000
+3330;Ronnenberg;3;NI;B;217;; Ronnenberg;N; Weetzen;S;544668,829;5795683,866
+3331;Hess. Oldendorf;3;NI;B;83;; Steinbergen, Abzweig B238;N; Hess. Oldendorf;S;512193,500;5782829,000
+3332;Seelze;3;NI;B;441;; Seelze;O; AS Wunstorf-Luthe (A2);W;537511,000;5805381,500
+3333;Banteln;3;NI;B;3;; Abzweig B240;N; Alfeld;S;551452,000;5768200,000
+3337;Buntenbock;3;NI;B;241;; Clausthal-Zellerfeld;O; Osterode;W;591211,000;5736633,000
+3338;Königskrug;3;NI;B;4;; Abzweig B242;N; Braunlage;S;608622,000;5734048,500
+3340;Posthof;3;NI;B;6;; Goslar, Abzweig B82;O; Salzgitter-Bad, Abzweig B248;W;594356,000;5762788,500
+3341;Weyhausen (W);3;NI;B;188;; Weyhausen, Abzweig B248;O; Gifhorn;W;617859,778;5813821,823
+3344;Northeim;3;NI;B;241;; Katlenburg;O; Northeim;W;571165,000;5728891,500
+3345;Sonnenberg;3;NI;B;242;; Abzweig B4;O; Sonnenberg;W;604626,865;5735559,042
+3346;Georgsheil (N);3;NI;B;72;; Norden;N; Georgsheil, Abzweig B210;S;388739,083;5926526,009
+3347;Trelder Berg (W);3;NI;B;75;; Trelder Berg, Abzweig B3;O; Tostedt;W;553944,647;5908768,916
+3348;Georgsheil (W);3;NI;B;210;; Georgsheil, Abzweig B72;O; AS Emden Mitte (A31);W;387913,860;5925779,697
+3353;Altenbruch;3;NI;B;73;; Otterndorf;O; AS Cuxhaven (Kreisel);W;484181,397;5964340,577
+3355;Goslar;3;NI;B;6;; Goslar, Abzweig B241;O; Goslar, Abzweig B82;W;599748,500;5752876,000
+3359;Hebelermeer;3;NI;B;402;; AS Meppen (A31);O; GÜG Hebelermeer;W;369415,500;5843108,000
+3360;Nordhorn;3;NI;B;213;; Nordhorn;O; GÜG Frensdorfer Haar;W;366498,898;5807936,024
+3361;Diepholz;3;NI;B;51;; Diepholz, Abzweig B214;N; Lemförde;S;457015,500;5824318,500
+3362;Cloppenburg;3;NI;B;69;; AS Cloppenburg (A1);N; Vechta;S;448010,500;5851474,500
+3363;Sottrum;3;NI;B;75;; Luhne, Abzweig B71;O; Sottrum;W;518322,000;5885516,000
+3364;Hameln;3;NI;B;1;; Coppenbrügge;O; Hameln;W;531529,108;5773066,652
+3365;Nörten-Hardenberg;3;NI;B;446;; AS Nörten-Hardenberg;O; Hardegsen, Abzweig B241;W;561448,500;5720993,000
+3366;Wolfenbüttel;3;NI;B;79;; Wolfenbüttel;N; Groß Denkte;S;608446,594;5779585,441
+3367;Lüchow;3;NI;B;248;; Lüchow;N; Lübbow;S;645913,000;5868802,000
+3370;Herzlake;3;NI;B;213;; Löningen;O; Herzlake;W;407874,552;5840906,249
+3371;Stapelfeld;3;NI;B;213;; Cloppenburg, Abzweig B72;O; Cloppenburg, Abzweig B68;W;432812,430;5853547,147
+3372;Lünne;3;NI;B;70;; Abzweig Listruper Straße;N; Abzweig Spelle-Venhaus;S;392715,000;5802777,000
+3373;Badbergen;3;NI;B;68;; Badbergen;N; Bersenbrück;S;429118,984;5827115,225
+3374;Twistringen;3;NI;B;51;; Twistringen;N; Barnstorf;S;474298,125;5848050,481
+3375;Sulingen;3;NI;B;61;; Bassum;N; Sulingen;S;485053,000;5838102,000
+3376;Barsinghausen;3;NI;B;65;; Hannover-Tönnisberg-Kreisel;O; AS Bad Nenndorf;W;530078,483;5797906,153
+3377;Sarstedt;3;NI;B;6;; Hildesheim;O; Sarstedt;W;560792,662;5786307,451
+3378;Bockenem;3;NI;B;243;; Hildesheim;N; Bockenem;S;576046,957;5763120,529
+3379;Allersheim 2;3;NI;B;64;; Eschershausen;O; Holzminden;W;533177,346;5743342,225
+3380;Altendorf;3;NI;B;211;; Brake (B212);O; AK Oldenburg-Nord (A29);W;456860,166;5902499,784
+3381;Wesertunnel;3;NI;B;437;; AS Stotel (A27);O; Rodenkirchen (B212);W;467359,500;5921050,000
+3382;Uetze;3;NI;B;188;; Kreuzung B214;O; Uetze;W;583200,681;5814636,348
+3383;Sehnde;3;NI;B;443;; Lehrte;N; Sehnde (B65);S;566001,000;5798098,500
+3384;Haimar;3;NI;B;65;; Abzweig B494;O; Sehnde (B443);W;570348,500;5796119,500
+3385;Küsten;3;NI;B;493;; Abzweig (B248);O; Küsten;W;641420,000;5872123,000
+3386;Bookholzberg;3;NI;B;212;; Krögerdorf;N; Bookholzberg;S;468611,235;5884671,204
+3387;Freistatt;3;NI;B;214;; Sulingen (B61);O; Rehden (B239);W;474810,500;5829272,000
+3388;Wagenfeld;3;NI;B;239;; Wagenfeld;N; Rahden;S;472879,584;5820137,322
+3389;Bad Gandersheim;3;NI;B;64;; Abzweig südwestl. Seesen (B248/B243);O; Bad Gandersheim (B445);W;574123,000;5746479,000
+3391;Hannoversch Münden;3;NI;B;496;; Lutterberg;N; AS Hann.Münden/Lutterberg (A7);S;543820,305;5691570,663
+3392;Hedemünden;3;NI;B;80;; Hedemünden;O; Hann. Münden (B3);W;552396,500;5694164,500
+3393;Heerstedt;3;NI;B;71;; Beverstedt;O; AS Bremerhaven-Wulsdorf (A27);W;480749,493;5925298,385
+3394;Riefensbeek;3;NI;B;498;; Dammhaus (B242);N; Riefensb.-Kamschlacken;S;595474,000;5734506,500
+3395;Glandorf;3;NI;B;51;; Bad Iburg;N; Glandorf (B475);S;432865,500;5774326,500
+3396;Groß Lafferde;3;NI;B;1;; Groß Lafferde;O; Hoheneggelsen;W;583854,954;5786599,840
+3397;Edemissen;3;NI;B;214;; Kreuzung L320;O; Kreuzung B444, B188;W;588797,418;5812393,157
+3398;Didderse;3;NI;B;214;; AS BS-Watenbüttel (A2);O; Kreuzung L320;W;594163,144;5803631,064
+3399;Stederdorf;3;NI;B;444;; Edemissen;N; AS Peine (A2);S;585036,500;5801962,000
+3400;Detern;3;NI;B;72;; Stickhausen;N; Strücklingen (B438);S;409111,059;5895697,670
+3401;Lemke;3;NI;B;6;; Lemke (B214);O; Asendorf;W;506984,272;5836788,690
+3402;Rütenbrock;3;NI;B;408;; AS Haren (Ems) (A31);O; GüG Rütenbrock;W;371599,410;5856913,642
+3403;Emlichheim;3;NI;B;403;; GüG Eschebrügge;N; Emlichheim;S;351551,000;5831676,500
+3404;Heede;3;NI;B;401;; Dörpen (B70);O; AS Dörpen (A31);W;384229,000;5871887,500
+3405;Bückeburg;3;NI;B;65;; Bückeburg (B83);O; Minden (B482);W;500146,824;5789913,935
+3406;Brockel;3;NI;B;71;; Hemslingen;O; Rotenburg (Wü.) (B440);W;536258,500;5882594,500
+3407;Hoiersdorf;3;NI;B;244;; Schöningen (B82);N; Jerxheim;S;632915,848;5776698,004
+3408;Jerxheim;3;NI;B;244;; Söllingen (L624);N; Dardesheim (B79);S;630777,143;5772238,351
+3409;Seesen;3;NI;B;243;; Abzweig B248;N; Münchehof (B242);S;580379,788;5745359,990
+3410;Amelinghausen;3;NI;B;209;; Amelinghausen;N; Stübeckshorn (B71);S;576771,500;5883769,500
+3411;Wintermoor (Heber);3;NI;B;3;; Welle;N; Soltau (B71);S;556255,500;5891185,500
+3412;Soltau;3;NI;B;71;; Soltau (B3);O; Neuenkirchen;W;555105,500;5872170,500
+3413;Bad Münder;3;NI;B;442;; Bad Münder;N; Hachmühlen (B217);S;532255,429;5780777,079
+3414;Suhlendorf;3;NI;B;71;; Bergen (Dumme);O; Suhlendorf;W;620791,500;5865922,500
+3415;Wagenhoff;3;NI;B;4;; Gr. Oesingen;N; Gifhorn (B188);S;602292,235;5824438,168
+3416;Lechtingen;3;NI;B;68;; AS Osnabrück-Nord (A1);N; Osnabrück;S;434263,617;5797203,501
+3417;Polle;3;NI;B;83;; Polle;N; Stahle (B64);S;528290,500;5748987,500
+3418;Grasdorf;3;NI;B;6;; Abzweig B444;O; AS Derneburg/Salzgitter (A7);W;578932,500;5773434,000
+3419;Bergmühle;3;NI;B;6;; AS Baddeckenstedt (A39);O; Abzweig B444;W;580840,000;5773637,500
+4702;Sprakensehl;3;NI;B;4;; Sprakensehl;N; Abzweig B244;S;600677,500;5846115,500
+2405;HB-Landesgrenze Huchting;4;HB;B;75;; Bremen-Huchting;O; Delmenhorst;W;480554,455;5877584,858
+2406;HB-Neuenlander Str.;4;HB;B;6;; Kattenturmer Heerstr.;O; Neuenlander Ring;W;486933,000;5878138,000
+5031;Düsseldorf-Heerdt;5;NW;B;7;; AS Düsseldorf-Heerdt;O; AS Büderich;W;340478,592;5678238,996
+5203;Solingen;5;NW;B;229;; Solingen-Auf der Höhe;O; A3;W;360252,662;5666701,765
+5208;Friesenrath (W);5;NW;B;258;; B258;O; AS AC-Lichtenbusch (A44);W;300450,500;5618856,500
+5211;Kesternich (S);5;NW;B;266;; Einruhr;O; Kesternich;W;311794,365;5608988,712
+5213;Alsdorf-Ofden;5;NW;B;57;; Alsdorf;N; Würselen;S;299349,412;5638669,540
+5214;Pulheim;5;NW;B;59;; Stommeln;O; Pulheim;W;342883,053;5652694,584
+5220;Siegburg-Stallberg;5;NW;B;56;; Siegburg/Stallberg;O; B484;W;374083,999;5630740,006
+5222;Waldbröl;5;NW;B;478;; Waldbröl;O; Ruppichteroth;W;400565,567;5635567,787
+5223;Derschlag;5;NW;B;55;; Niedersessmar;O; Volkenrath;W;404692,389;5649910,678
+5224;Marienheide;5;NW;B;256;; B237;N; Gummersbach;S;395201,754;5662044,093
+5225;Ohl;5;NW;B;237;; Rönsahl;O; Wipperfürth;W;394512,299;5663349,373
+5229;Menzeler Heide (N);5;NW;B;57;; Menzelen;N; Rheinberg;S;329258,522;5718864,488
+5230;Menzeler Heide (W);5;NW;B;58;; Büderich;O; Alpen;W;329234,804;5718626,896
+5231;Uerdingen;5;NW;B;288;; B222;O; A57;W;336670,315;5691068,388
+5232;Wollersheim (O);5;NW;B;265;; Zülpich;N; B265;S;327284,902;5616047,032
+5235;Dahlem;5;NW;B;51;; Dahlem;N; Stadtkyll;S;322944,960;5582476,797
+5236;Tondorf (S);5;NW;B;51;; Tondorf;N; Blankenheim;S;336349,075;5592534,052
+5238;Holzheim;5;NW;B;230;; Holzheim;O; Giesenkirchen;W;332831,918;5671496,228
+5239;Blankenheimer Wald;5;NW;B;258;; Blankenheim;O; Mayen;W;329618,024;5590618,579
+5240;Goch (S);5;NW;B;9;; Bedburg-Hau;N; Goch;S;301639,687;5730096,104
+5243;Ahrhütte (O);5;NW;B;258;; Ahrdorf;O; Blankenheim;W;339441,081;5584033,228
+5246;Langerwehe;5;NW;B;264;; Obergeich;O; Geich;W;316063,380;5632305,561
+5247;Elsdorf;5;NW;B;55;; Abzweig B477;O; Abzweig K43, Elsdorf;W;331076,000;5646534,500
+5250;Friesenrath (S);5;NW;B;258;; Monschau;O; Aachen;W;300745,067;5618753,641
+5251;Geldern (O);5;NW;B;9;; Goch;N; Kerken;S;312940,919;5709475,082
+5252;Geldern (N);5;NW;B;58;; Geldern;O; Abzweig B9;W;312989,400;5709462,237
+5253;AC-Vaalserquartier;5;NW;B;1;; Aachen;O; Grenze NL;W;290539,481;5628444,368
+5254;Elten (B);5;NW;B;8;; Elten;O; Bundesgrenze (NL);W;303848,947;5752510,734
+5255;Kranenburg;5;NW;B;9;; Bundesgrenze (NL);N; Kranenburg;S;290711,372;5744534,539
+5257;Straelen 2 (Bundesstr.);5;NW;B;58;; Straelen;O; Bundesgrenze (NL);W;306922,660;5699124,175
+5258;Emmerich;5;NW;B;220;; Bundesgrenze (NL);N; AS Emmerich;S;310301,480;5749627,877
+5259;Heinsberg;5;NW;B;221;; Heinsberg;N; Geilenkirchen;S;297174,020;5657352,421
+5261;Aachen-Bildchen;5;NW;B;264;; Aachen;O; Bundesgrenze (B);W;291481,986;5624520,867
+5262;Gohr;5;NW;B;477;; Gohr;N; Nettersheim/Bützheim;S;338833,791;5666488,962
+5263;Aachen-Köpfchen;5;NW;B;57;; Aachen;N; Bundesgrenze (B);S;294720,566;5624815,145
+5264;Bergneustadt;5;NW;B;55;; Drolshagen;O; Bergneustadt;W;407634,131;5653302,538
+5265;Düren/Kerpen;5;NW;B;264;; Golzheim;O; Merzenich;W;329134,876;5634207,382
+5267;Dormagen;5;NW;B;9;; Stüttgen;N; Dormagen;S;347020,164;5665357,815
+5268;Rommerskirchen;5;NW;B;477;; Rommerskirchen;N; Hückelhoven;S;338006,457;5655231,756
+5269;Lechenich 2;5;NW;B;265;; AS Erftstadt;N; Erp;S;343940,627;5630001,679
+5270;Kürten-Weiden;5;NW;B;506;; Abzweig L161, Wipperfeld;O; Weiden;W;378020,522;5659145,964
+5271;Radevormwald-Rochollsberg;5;NW;B;483;; Abzw. L130;N; Abzw. Rochollsberg;S;385836,000;5677260,000
+5272;Gedern;5;NW;B;226;; Wetter;O; Witten (L525);W;385473,676;5696718,817
+5273;Mönchengladb.-Rheindahlen;5;NW;B;57;;AS Mönchengladbach-Holt (A61);N; Abzweig L370;S;314716,833;5670352,680
+5274;Swisttal-Buschhoven;5;NW;B;56;; L113, Hardtberg;O; Buschhoven;W;360069,251;5618613,400
+5275;Krefeld-Hüls;5;NW;B;9;; Abzweig L478;N; Krefeld-Hüls (B509);S;325903,347;5697085,542
+5276;Arsbeck;5;NW;B;221;; Arsbeck;N; L19, Wassenberg;S;303603,766;5668396,634
+5277;Imgenbroich;5;NW;B;258;; Grünentalstraße (K21);O; L246, Konzen;W;306245,451;5605979,090
+5278;Winterscheid;5;NW;B;507;; Ingersau (B478);O; Kaule;W;383806,361;5631708,495
+5301;Bad Berleburg;5;NW;B;480;; B236;N; Bad Berleburg;S;458493,006;5657654,675
+5302;Drensteinfurt;5;NW;B;63;; Drensteinfurt;N; Walstedde;S;414427,376;5738570,421
+5304;Meinerzhagen;5;NW;B;54;; Meinerzhagen;N; L869;S;406703,000;5662157,500
+5309;Plettenberg-Ohle;5;NW;B;236;; Werdohl;N; Ohle;S;417616,914;5677815,106
+5310;Gleidorf (O);5;NW;B;236;; B511, OD Gleidorf;N; Oberkirchen;S;452027,157;5668263,980
+5311;Gleidorf (N);5;NW;B;511;; Fredeburg;N; Gleidorf;S;452042,886;5668432,673
+5313;Gronau-Amtsvenn;5;NW;B;54;; Bundesgrenze (NL);N; AS Gronau-West (B70/L572);S;361147,000;5784325,000
+5315;Bad Salzuflen;5;NW;B;239;; Herford;N; Lage;S;480261,371;5770548,858
+5316;Dorsten (O);5;NW;B;58;; B224;O; Schermbeck;W;356867,136;5729883,689
+5318;Dortmund-Brechten;5;NW;B;54;; Lünen;N; B236n;S;395012,860;5717284,221
+5321;Lüdenscheid-Brügge;5;NW;B;229;; Lüdenscheid;O; B54;W;401286,592;5673515,650
+5322;Brilon (N);5;NW;B;480;; Wünnenberg;N; B516;S;470220,000;5698895,500
+5323;Brilon (W);5;NW;B;516;; Brilon;O; Rüthen;W;470027,011;5698860,414
+5325;Winterberg;5;NW;B;480;; Olsberg;N; Winterberg;S;467878,160;5674083,968
+5329;Ostbevern;5;NW;B;51;; Ostbevern;N; Telgte;S;418032,400;5761132,779
+5330;Telgte;5;NW;B;51;; Telgte;N; Münster;S;413069,711;5759677,009
+5331;Warburg West;5;NW;B;7;; Warburg;O; Ossendorf;W;508607,995;5704882,019
+5334;Delecke 2;5;NW;B;229;; Abzweig B516, Wippringsen;O; Abzweig K8, Möhnesee;W;436850,586;5704635,852
+5335;Babbenhausen;5;NW;B;514;; Vlotho;O; AK Bad Oeynhausen;W;490022,322;5782089,431
+5336;Petershagen 2;5;NW;B;61;; Uchte;N; Petershagen;S;497021,009;5804120,881
+5337;BI-Hillegossen;5;NW;B;66;; Örlinghausen;O; Bethel;W;473273,794;5760788,326
+5338;Altenberge 2;5;NW;B;54;; Steinfurt;N; Nienberge;S;396731,213;5764374,083
+5339;Horn 2;5;NW;B;1;; Bamtrup;O; Bad - Lippspringe;W;495087,966;5745428,936
+5340;Brakel;5;NW;B;252;; Brakel;N; Peckelsheim;S;511762,303;5727582,727
+5342;Grevenbrück;5;NW;B;55;; Grevenbrück;O; Bilstein;W;431485,066;5663828,930
+5344;Bottrop;5;NW;B;224;; AS Essen/Gladbeck (A2);N; AS Essen-Nord (A42);S;360210,468;5711703,147
+5345;Datteln;5;NW;B;235;; Olfen;N; Datteln;S;387135,000;5728662,500
+5346;Ense-Möhnesee;5;NW;B;516;; B229, Möhnesee;O; Bremen;W;433970,422;5706383,337
+5347;Kalletal;5;NW;B;514;; Abzweig B238, Langenholzhausen;O; Kalldorf, L781;W;495828,898;5778639,106
+5348;Drensteinfurt (N);5;NW;B;54;; Hiltrup;N; Rinkerode;S;408655,805;5744308,107
+5350;Greven (N);5;NW;B;219;; Saerbeck;N; Greven;S;405486,449;5776248,948
+5351;Lichtenau;5;NW;B;68;; Dörenhagen;N; Lichtenau;S;491382,339;5720600,324
+5352;Dortmund-Berghofen;5;NW;B;236;; Dortmund-Berghofen (L556);N; AS Schwerte (A1);S;399063,607;5703550,515
+5353;Coesfeld-Ost;5;NW;B;525;; Harle;O; Coesfeld;W;375778,500;5754768,500
+5354;Netphen-Afholderbach;5;NW;B;62;; Afholderbach;O; Eschenbach;W;438537,512;5642717,869
+5355;Delbrück-West;5;NW;B;64;; Delbrück (L586);O; Rietberg (L782);W;467364,830;5736128,068
+5356;Espelkamp-Gestringen;5;NW;B;239;; Espelkamp;N; Lübbecke;S;473272,000;5800846,500
+5357;Detmold-Heidenoldendorf;5;NW;B;239;; Sülterheide;N; Abzweig L945;S;488164,847;5757868,682
+5358;Höxter-Fürstenau;5;NW;B;239;; Fürstenau;N; Brenkhausen;S;522886,398;5740174,545
+5359;Lippetal-Lippborg;5;NW;B;475;; Lippborg;N; Heintrop;S;433121,000;5723533,500
+5360;Lüdinghausen-West;5;NW;B;58;; Lüdinghausen;O; Seppenrade;W;390291,500;5736050,000
+5361;Hamm-Heessen;5;NW;B;63;; Abzw. L663;N; Kötterberg;S;416644,000;5730381,000
+5362;Vreden-Süd;5;NW;B;70;; Vreden;N; Abzw. Wenningfeld/Stadtlohn;S;350576,000;5764625,500
+5363;Sassenberg-Süd;5;NW;B;475;; Sassenberg (B513);N; Warendorf;S;432657,500;5757597,000
+5364;Wanne-Eickel Ost;5;NW;B;226;; Abzweig Ackerstraße;O; L639, AS Herne-Crange (A42);W;373992,346;5711058,512
+5365;Dortmund-Wambeldorf;5;NW;B;236;; AS Hannöversche Straße;N; AS Westfalendamm (B1);S;397132,000;5709019,500
+5366;Winterberg-Waltenberg;5;NW;B;236;; Im Hohlen Seifen;N; Tunnel Waltenberg;S;467133,541;5671562,522
+5367;Schmallenberg;5;NW;B;236;; Fleckenberg;N; Schmallenberg (L737);S;449676,393;5666990,732
+5368;Barkhausen;5;NW;B;61;; Barkhausen (B65);N; Porta-Westfalica (L780);S;494237,363;5790054,305
+5369;Winterberg-Herrloh;5;NW;B;236;; Tunnel Herrloh;N; Winterberg (B480);S;466466,368;5671482,677
+5370;Ascheberg-Herbern;5;NW;B;54;; Kreuzung (B58);N; Herbern (L844);S;408642,115;5736568,563
+5371;Werne-Langern;5;NW;B;54;; Werne (B233);N; Lünen (B236);S;401018,480;5721641,071
+5372;Kierspe-Volme;5;NW;B;54;; Oberbrügge (L892);N; Kierspe (B237);S;400337,784;5671292,351
+5373;Olpe-Altenkleusheim;5;NW;B;54;; L711, Olpe (B55);N; Abzweig L729;S;424099,504;5651297,156
+5374;Kreuztal-Buschhütten;5;NW;B;54;; Kreuztal (B508);N; Buschhütten (K28);S;429585,520;5644561,268
+5375;Warstein Süd;5;NW;B;55;; Warstein (L735);O; Abzweig L856;W;454435,762;5697239,852
+5376;Ascheberg West;5;NW;B;58;; Ascheberg;O; Lüdinghausen (B235);W;395520,802;5737662,937
+5377;Linteler See;5;NW;B;61;; Abzweig L568;N; B64, Rheda-Wiedenbrück;S;454303,870;5745912,260
+5378;Bad Driburg Süd;5;NW;B;64;; Bad Driburg (L957);O; Abzweig K18;W;500366,697;5730740,133
+5379;Heek Ost;5;NW;B;70;; Abzweig L579, Metelen;N; Heek;S;372359,558;5775828,623
+5380;Lünten;5;NW;B;70;; Alstätte;N; Vreden (L560);S;352601,314;5772062,912
+5381;Raesfeld West;5;NW;B;70;; Raesfeld, B224;N; L401, Brünen;S;349235,150;5737142,871
+5382;Beverungen-Wehrden;5;NW;B;83;; Godelheim (B64);N; Beverungen (B241);S;525294,782;5731305,620
+5383;Altenhundem;5;NW;B;236;; Meggen;N; Lennestadt;S;434388,181;5662650,888
+5384;Bever;5;NW;B;241;; Beverungen (B83);O; L838, Dalhausen;W;524574,613;5723224,405
+5385;Ladbergen Nord;5;NW;B;475;; AS Ladbergen (A1);N; Ladbergen (L597);S;413410,836;5777998,382
+5386;Ostwestfalendamm;5;NW;B;61;; Bielefeld-Johannistal (L778);N; Bielefeld-Quelle (L756);S;466535,000;5762343,000
+5432;Brüggen (N);5;NW;B;221;; Brüggen;N; L372;S;304473,968;5678560,789
+5506;St. Mauritz;5;NW;B;481;; L588;N; L843;S;409396,385;5763315,833
+5627;AK Bonn Ost (S);5;NW;B;42;;AK Kreuz Bonn-Ost (A59);N;AS Königswinter (L268);S;370605,000;5620363,000
+6001;Allendorf;6;HE;B;27;; Bad Sooden-Allendorf;N; Abzweig B249;S;569122,000;5679064,000
+6003;Isenburger Kreisel;6;HE;B;44;; Nordkreisel (B43);N; Südkreisel (A3);S;474834,500;5545260,500
+6007;Usingen;6;HE;B;275;; AS Ober-Mörlen, Abzweig A5;O; Usingen, Abzweig B456;W;468231,000;5575931,500
+6011;Wetzlar-Zentrum;6;HE;B;49;; Abzweig Wetzlar Am Forum;O; Abzweig Wetzlar Bannstraße;W;464940,500;5601435,000
+6019;Hanau-Steinheim Süd;6;HE;B;45;; Abzweig K200;N; Abzweig B43a;S;492539,500;5548542,500
+6054;Oberursel;6;HE;B;455;; Oberursel;O; Königstein, Abzweig B8;W;466951,500;5562021,000
+6101;Wallau 1;6;HE;B;62;; Biedenkopf-Ludwigshütte, Abzweig B253;O; Breitenstein, Abzweig B253;W;462683,022;5641211,889
+6102;Wächtersbach;6;HE;B;276;; Birstein;N; Wächtersbach;S;521933,784;5568058,515
+6103;Rüdesheim;6;HE;B;42;; Rüdesheim;N; Eltville;S;424229,581;5537016,162
+6105;Hoheneiche;6;HE;B;27;; Wehretal-Oetmannshausen, Abzweig B7;N; Wehretal-Oetmannshausen, Abzweig B452;S;568325,800;5665500,128
+6107;Wallau 2;6;HE;B;253;; Abzweig B62;O; Dillenburg, Abzweig B277;W;462598,554;5640915,812
+6109;Ahlbach;6;HE;B;49;; Weilburg, Abzweig B456;O; AS Limburg-Nord, Abzweig A3;W;434777,000;5585521,500
+6110;Lorchhausen;6;HE;B;42;; Kaub;N; Lorch;S;412431,000;5546463,000
+6112;Tannenmühlkreisel;6;HE;B;45;; Abzweig Obertshausen, Abzweig B448;N; AS Hanau, Abzweig A3;S;492182,500;5546089,500
+6133;Kelsterbach-Süd;6;HE;B;43;; Airportring;O; Abzweig A3;W;468036,000;5544163,500
+6155;Kerstenhausen;6;HE;B;3;; Borken, Abzweig A49;N; Bad Zwesten, Abzweig B485;S;516050,000;5657146,500
+6173;Büdingen;6;HE;B;457;; Abzweig B521;N; Büdingen;S;506896,287;5570775,378
+6195;Mümling-Grumbach;6;HE;B;45;; Höchst, Abzweig B426;N; Bad König;S;499468,196;5512992,671
+6201;Helmarshausen;6;HE;B;80;; Oberweser;O; Bad Karlshafen, Abzweig B83;W;534201,315;5722333,698
+6202;Herzhausen;6;HE;B;252;; Abzweig B251;N; Abzweig B253;S;492138,594;5669979,225
+6204;Bad Nauheim-Nord;6;HE;B;3;; Bad Nauheim;N; Abzweig B455;S;479536,000;5582731,500
+6205;Hüttenthal;6;HE;B;460;; Marbach, Abzweig B45;O; Fürth-Krumbach, Abzweig B38;W;496596,480;5495974,728
+6206;Bad Camberg-Erbach;6;HE;B;8;; Bad Camberg;O; AS Limburg-Süd, Abzweig A3;W;446745,000;5573833,500
+6209;Nieder-Mörlen;6;HE;B;275;; Abzweig B3;O; AS Ober-Mörlen;W;479565,500;5582357,500
+6212;Offenbach;6;HE;B;459;; AS Offenbach (A3), Abzweig B3;N; Abzweig B459;S;480812,835;5546056,050
+6221;Langen;6;HE;B;486;; AS Langen (A661);O; AS Langen/Mörfelden (A5);W;475116,255;5538673,891
+6250;Seelbach;6;HE;B;54;; Wilnsdorf;N; AS Haiger/Burbach, Abzweig A45, B277;S;440519,000;5623884,500
+6260;Michelbach;6;HE;B;54;; Aarbergen;N; Bad Schwalbach, Abzweig B275;S;431780,000;5564361,500
+6266;Nieder-Weisel Süd;6;HE;B;3;; Abzweig B275;N; Bad Nauheim;S;478033,000;5584785,000
+6267;Ober Mörlen-Maiberg;6;HE;B;275;; AS Ober-Mörlen, Abzweig A5;O; Usingen, Abzweig B456;W;477186,500;5579473,000
+6300;Okarben;6;HE;B;3;; Wöllstadt, Abzweig B45;N; Kloppenheim, Abzweig K10;S;482183,000;5566458,500
+6301;Wehrheim;6;HE;B;456;; Usingen, Abzweig B275;N; Bad Homburg;S;468828,740;5570538,018
+6302;Roth;6;HE;B;255;; AS Herborn-West (A45);O; Abzweig B414;W;445219,280;5611748,063
+6303;Okarben-Nord;6;HE;B;3;; Wöllstadt, Abzweig B45;N; Kloppenheim, Abzweig K10;S;482587,500;5567839,500
+6304;Ober-Wöllstadt Süd;6;HE;B;3;; Wöllstadt, Abzweig B45;N; Kloppenheim, Abzweig K10;S;483034,000;5570818,000
+6305;Nieder-Wöllstadt;6;HE;B;3;; Wöllstadt, Abzweig B45;N; Kloppenheim, Abzweig K10;S;482917,500;5569084,000
+6307;Oberems;6;HE;B;8;; Königstein, Abzweig B455;O; Waldems, Abzweig B275;W;456626,000;5565193,000
+6310;Bad Vilbel;6;HE;B;521;; Bad Vilbel;O; AS Ffm.-Friedberger-Landstraße (A661);W;480685,936;5556938,826
+6317;Köppern;6;HE;B;455;; Friedberg, Abzweig B3;O; AS Friedberg, Abzweig A5;W;477174,500;5570984,500
+6318;Ockstadt;6;HE;B;455;; Friedberg, Abzweig B3;O; AS Friedberg, Abzweig A5;W;478674,500;5573130,000
+6325;Bruchköbel;6;HE;B;45;; Bruchköbel;N; AS Hanau-Nord (A66);S;493762,459;5557249,116
+6329;Ober-Wöllstadt Ost;6;HE;B;3;; Abzweig Frankfurter Straße (K24);N; Abzweig B45;S;482946,500;5572286,000
+6332;Friedberg-Süd;6;HE;B;3;; Friedberg, Abzweig B455, B275;N; Wöllstadt, Abzweig B45;S;481572,000;5573788,000
+6334;Friedberg-Mitte;6;HE;B;3;; Abzweig B455;N; Friedberg, Abzweig B455, B275;S;481139,500;5575975,000
+6337;Bad Nauheim-Süd;6;HE;B;3;; Abzweig B455;N; Friedberg, Abzweig B455, B275;S;482646,000;5578630,000
+6345;Löschenrod;6;HE;B;27;; Fulda, Frankfurter Str., Abzweig B254;N; AS Fulda-Süd (A66);S;548632,491;5593520,339
+6350;Merzhausen;6;HE;B;275;; Usingen, Abzweig B456;O; Waldems, Abzweig B8;W;460895,000;5573791,000
+6364;Eppertshausen;6;HE;B;45;; Rödermark, Abzweig B459;N; Abzweig B486;S;488114,500;5533623,500
+6366;Obertshausen;6;HE;B;45;; Hausen;N; Abzweig Obertshausen, Abzweig B448;S;492124,500;5547461,000
+6370;Idstein-Oberauroff;6;HE;B;275;; Waldems, Abzweig B8;O; Idstein;W;446722,000;5563193,000
+6380;Ober-Wöllstadt Nord;6;HE;B;3;; Friedberg, Abzweig B455, B275;N; Wöllstadt, Abzweig B45;S;481965,500;5573092,500
+6390;Melsungen;6;HE;B;253;; Melsungen, Abzweig B83;O; AS Melsungen (A7);W;536611,375;5664548,161
+6393;Karben-Kloppenheim;6;HE;B;3;; Wöllstadt, Abzweig B45;N; Kloppenheim, Abzweig K10;S;481814,966;5564727,216
+6394;Kloppenheim-Süd;6;HE;B;3;; Kloppenheim, Abzweig K10;N; AN Dortelweil, Abzweig K10;S;481214,500;5563521,500
+6395;Tenne;6;HE;B;275;; Usingen, Abzweig B456;O; Waldems, Abzweig B8;W;454938,500;5570063,000
+6396;Dortelweil;6;HE;B;3;; AN Dortelweil, Abzweig K10;N; AN Bad Vilbel Massenheim, Abzw. B661;S;481165,500;5561656,500
+6400;Eschenhahn;6;HE;B;275;; Idstein;O; Taunusstein-Neuhof, Abzweig B417;W;445976,500;5560527,500
+6402;Reinheim;6;HE;B;38;; Reinheim. Abzweig B426;N; Gersprenz, Abzweig B47;S;487543,000;5517797,500
+6403;Weilburg;6;HE;B;456;; Weilburg;N; Usingen, Abzweig B275;S;449645,160;5592555,118
+6404;Wetzlar-Niedergirmes;6;HE;B;49;; AS Wetzlar-Ost (A45);O; Abzweig L3020;W;467010,000;5602274,500
+6405;Friedlos;6;HE;B;27;; Bebra, Abzweig B83;N; Bad Hersfeld, Abzweig B325, B62;S;552674,000;5641125,500
+6407;Mörlenbach;6;HE;B;38;; Fürth-Lörzenbach, Abzweig B460;N; Weinheim, Abzweig B3;S;480409,661;5493065,544
+6408;Wega;6;HE;B;253;; Abzweig B450;O; Bad Wildungen, Abzweig B485;W;511698,555;5663991,393
+6409;Wetzlar-Garbenheim;6;HE;B;49;; Abzweig Wetzlar Garbenheimer Straße;O; Abzweig Wetzlar Am Forum;W;465184,000;5601416,000
+6412;Ilbenstadt;6;HE;B;45;; Wöllstadt, Abzweig B3;N; Nidderau, Abzweig B521;S;486499,000;5568834,000
+6426;Cölbe 2;6;HE;B;62;; Cölbe, Abzweig B3;O; Abzweig B252;W;485433,002;5633976,672
+6435;Görsroth;6;HE;B;417;; Hünfelden;N; Taunusstein-Neuhof, Abzweig B275;S;442831,000;5564364,500
+6452;Flörsbach;6;HE;B;276;; Flörsbachtal;N; Abzweig, Abzweig L3199;S;531127,975;5551504,694
+6462;Schönstadt;6;HE;B;3;; Bad Zwesten, Abzweig B485;N; Bürgeln, Abzweig B62;S;487435,500;5635143,000
+6475;Wiesbaden-Taunusstein;6;HE;B;417;; Taunusstein-Neuhof, Abzweig B275;N; Wiesbaden, Abzweig B54;S;443609,500;5553321,500
+6493;Bebra;6;HE;B;83;; Rotenburg a.d. Fulda;N; Bebra, Abzweig B27;S;554974,598;5648236,797
+6495;Kinzenbach;6;HE;B;429;; AS Heuchelheim, Abzweig L3020;N; Abzweig Lahnfelddreieck, Abzweig B49;S;474933,500;5602686,500
+6496;Gießen Allendorf;6;HE;B;49;; AS Bergwerkswald, Abzweig A485;O; Abzweig Lahnfelddreieck, Abzweig B429;W;475146,500;5601731,000
+6503;Kelsterbacher Spange;6;HE;B;43;; Frankfurt-Flugh.-West/F-Kreuz,Abzw.A5;O; Abzweig A3;W;468349,000;5544469,500
+6504;Niederselters;6;HE;B;8;; Bad Camberg;O; AS Limburg-Süd, Abzweig A3;W;444081,500;5576966,500
+6505;Kirchhain;6;HE;B;454;; Stadtallendorf;O; Kirchhain, Abzweig B62;W;498360,835;5630257,055
+6507;Lauterbach;6;HE;B;254;; Alsfeld, Abzweig B62;N; Lauterbach, Abzweig B275;S;527198,326;5611294,847
+6513;Wahnhausen;6;HE;B;3;; Hann. Münden, Abzweig B496, B80;N; Kassel-Schützenstr., Abzweig B7;S;539435,191;5690309,086
+6516;Marxheim;6;HE;B;519;; Hofheim a. Ts.;N; AS Hofheim a.Ts., Abzweig A66, B40;S;459561,500;5545947,500
+6525;Heuchelheim;6;HE;B;49;; Abzweig Lahnfelddreieck, Abzweig B429;O; AS Wetzlar-Ost, Abzweig A45;W;472183,000;5601458,500
+6545;Martinsthal;6;HE;B;260;; AS Wiesbaden-Frauenstein, Abzweig A66;O; Schlangenbad;W;436308,000;5546665,000
+6549;Vellmar;6;HE;B;7;; Kassel, Abzweig B251;O; Espenau-Schäferberg, Abzweig B83;W;532316,000;5689571,000
+6585;Bad Schwalbach;6;HE;B;275;; Bad Schwalbach, Abzweig B54;O; Abzw. südl. Bad Schwalbach,Abzw. B260;W;434350,500;5553001,000
+6588;Wolfhagen Istha;6;HE;B;450;; Wolfhagen;N; Abzweig B251;S;515291,464;5683680,489
+6590;Großenlüder;6;HE;B;254;; Großenlüder;N; Fulda, Abzweig B27, Abzweig B458;S;538669,500;5603312,000
+6591;Marbach;6;HE;B;27;; Hünfeld, Abzweig B84;N; AS Fulda-Nord (A7);S;551838,647;5608712,702
+6594;Fulda-Maberzell;6;HE;B;254;; Großenlüder;N; Fulda, Abzweig B27, Abzweig B458;S;545575,000;5601358,000
+6598;Ziegenhain;6;HE;B;254;; Homberg (Efze), Abzweig B323;N; Abzweig B454;S;518259,761;5642058,279
+6601;Königstein;6;HE;B;8;; Königstein, Abzweig B455;O; Waldems, Abzweig B275;W;460466,000;5560710,500
+6605;Grebenroth;6;HE;B;260;; Bad Schwalbach;O; Holzhausen a.d. Haide;W;425061,000;5562123,500
+6612;Niederweimar;6;HE;B;3;; Niederweimar, Abzweig B255;N; AS Gießener Nordkreuz (A485);S;481880,535;5622801,744
+6620;Wiesbaden;6;HE;B;455;; AS Wiesbaden/Niedernhausen, Abzw. A3;O; Wiesbaden-Halnerberg, Abzweig B54;W;449463,500;5552941,500
+6641;Cölbe 1;6;HE;B;3;; Bürgeln, Abzweig B62;N; Cölbe, Abzweig B62;S;486244,445;5634030,125
+6643;Eichen;6;HE;B;521;; Altenstadt;O; Nidderau, Abzweig B45;W;493890,500;5568272,000
+6651;Helsa;6;HE;B;7;; Helsa, Abzweig B451;O; AS Kassel-Ost (A7);W;547448,563;5678920,213
+6655;Frankfurt U-Schweinstiege;6;HE;B;43;; Frankfurt-Flugh.-West/F-Kreuz,Abzw.A5;O; Abzweig A3;W;470980,000;5545159,000
+6660;Butzbach;6;HE;B;3;; AS Langgöns (A485);N; Butzbach, Abzweig B488;S;475956,373;5588337,658
+6661;Dorchheim;6;HE;B;54;; Dornburg;N; Hadamar, Abzweig B49;S;433615,189;5594646,507
+6664;Kirberg;6;HE;B;417;; Hünfelden;N; Taunusstein-Neuhof, Abzweig B275;S;440435,922;5572488,084
+6666;Lampertheim;6;HE;B;44;; Bürstadt, Abzweig B47;N; Lampertheim;S;460757,143;5497213,342
+6668;Niederaula;6;HE;B;62;; Niederaula, Abzweig B454;O; AS Niederaula (A7);W;542118,339;5627132,608
+6669;Seeheim-Jugenheim;6;HE;B;3;; Darmstadt-Eberstadt, Abzweig B426;N; Bensheim, Abzweig B47;S;471845,575;5509923,598
+6670;Solms;6;HE;B;49;; Wetzlar, Abzweig B277;O; Weilburg, Abzweig B456;W;454748,743;5598990,739
+6671;Sontra;6;HE;B;27;; Sontra;N; Bebra, Abzweig B83;S;562973,589;5656689,540
+6701;Beselich;6;HE;B;49;; Weilburg, Abzweig B456;O; AS Limburg-Nord, Abzweig A3;W;439066,000;5591490,000
+6703;Lich;6;HE;B;457;; Lich, Abzweig B488;N; Hungen, Abzweig B489;S;488095,065;5596767,128
+6705;Fischbach;6;HE;B;455;; Königstein, Abzweig B8;O; Eppstein;W;458433,000;5555615,500
+6707;Oberforsthaus;6;HE;B;43;; Frankfurt a. Main,Sachsenhausen (B43);O; AS Frankfurt-Süd;W;475141,000;5546684,000
+6710;Walsdorf;6;HE;B;8;; Waldems, Abzweig B275;O; Bad Camberg;W;450171,000;5567836,000
+6716;Malsfeld;6;HE;B;83;; Abzweig B487;N; Rotenburg a.d. Fulda;S;538452,123;5662374,496
+6719;Kelkheim;6;HE;B;519;; Abzweig nördl. Kelkheim, Abzweig B8;N; Hofheim a.Ts.;S;461611,000;5554212,000
+6721;Hanau-Steinheim;6;HE;B;43;a; AN Hanau-Steinheim;O; AN Hanau-Fasanerie;W;493457,000;5549661,000
+6722;Hanau-Hafen;6;HE;B;43;a; AS Hanau-Hafen;O; AN Hanau-Steinheim;W;494661,500;5550828,500
+6724;Hanau-Wolfgang;6;HE;B;43;a; AN Hanau-Wolfgang;O; AS Hanau-Bahnhof;W;496320,500;5551791,000
+6734;Bad Nauheim-Mitte;6;HE;B;3;; Abzweig B455;N; Friedberg, Abzweig B455, B275;S;481947,000;5580942,000
+6745;Langen-Nord;6;HE;B;486;; AS Langen, Abzweig A661;O; AS Langen/Mörfelden, Abzweig A5;W;477115,500;5538214,500
+6746;Marburg;6;HE;B;3;; Cölbe, Abzweig B62;N; Abzweig B255;S;484133,000;5627803,500
+6761;Rodgau-Jügesheim;6;HE;B;45;; AS Hanau, Abzweig A3;N; Rödermark, B459;S;492341,000;5541425,500
+6772;Frankfurt a. Main-Stadion;6;HE;B;43;; Abzweig Frankfurt-Süd, Abzweig B44;O; Frankfurt-Flugh.-West/F-Kreuz,Abzw.A5;W;472334,500;5544973,500
+6773;Neu-Isenburg West;6;HE;B;43;; Frankfurt-Sachsenhausen, Abzweig B44;O; Abzweig Frankfurt Süd, Abzweig B44;W;473991,000;5544956,500
+6789;Heilsberg;6;HE;B;3;; AN Bad Vilbel, Abzweig L3008;N; Preungesheimer Dreieck, Abzweig A661;S;479892,000;5558761,000
+6798;Staufenberg;6;HE;B;3;; Abzweig B255;N; AS Gießener Nordkreuz, Abzweig A485;S;480579,000;5609891,000
+6910;Gedern;6;HE;B;276;; Schotten, Abzweig B455;N; Gedern, Abzweig B275;S;514165,129;5587369,640
+6911;Gersfeld;6;HE;B;279;; Bischofsheim a.d. Rhön, Abzweig B278;O; Gersfeld, Abzweig B284;W;565154,360;5587787,161
+6946;Kelsterbach Südpark;6;HE;B;43;; Kelsterbach, Abzweig B40/B43;O; AS Kelsterbach (A3);W;467680,000;5544153,000
+6947;Kelsterbach-Nord;6;HE;B;43;; Abzweig A3;O; Kelsterbach, Abzweig B40;W;467744,500;5544930,000
+7001;Oberwesel;7;RP;B;9;; St. Goar;N; Bacharach;S;408445,198;5552145,668
+7002;Wahlrod;7;RP;B;8;; Höchstenbach;O; Wahlrod;W;409739,802;5611305,112
+7004;Horchheimer Höhe;7;RP;B;49;; Eitelborn;O; AS Horchheim;W;402015,343;5577349,653
+7005;Fehrbach;7;RP;B;10;; Fehrbach;O; Contwig;W;396856,544;5454127,054
+7006;Neulauterburg;7;RP;B;9;; Wörth;N; Neulauterburg;S;439038,569;5426451,910
+7007;Bad Breisig;7;RP;B;9;; Sinzig;N; Niederbreisig;S;377586,580;5599075,930
+7008;Birkenfeld;7;RP;B;41;; Birkenfeld;N; Nohfelden;S;367015,583;5497796,929
+7009;Remagen;7;RP;B;9;; Remagen;N; Sinzig;S;374729,227;5604164,677
+7010;Rinkenberger Hof;7;RP;B;9;; Mutterstadt;N; Speyer;S;458174,970;5467408,975
+7014;Mittelweiden;7;RP;B;9;; AS Koblenz, A48;N; Koblenz;S;398379,189;5582153,385
+7016;Rhens;7;RP;B;9;; Koblenz;N; Rhens;S;400216,801;5572521,243
+7019;Klotten;7;RP;B;49;; Klotten;O; Cochem;W;369193,522;5557511,276
+7020;Rheinbreitbach;7;RP;B;42;; Bad Honnef;N; Unkel;S;374041,213;5608797,768
+7023;Fahr-Feldkirchen;7;RP;B;42;; Leutesdorf;N; Neuwied;S;387874,584;5589372,331
+7025;Schwegenheim;7;RP;B;9;; Speyer;N; Lingenfeld;S;454292,450;5459773,027
+7026;Maudach;7;RP;B;9;; AK Kreuz Oggersheim (A650);N; Mutterstadt, A65;S;453595,818;5480720,823
+7027;Rheinbrücke Germersheim;7;RP;B;35;; Huttenheim;O; B9;W;455001,073;5452993,351
+7030;Wilgartswiesen;7;RP;B;10;; Rinnthal;O; Wilgartswiesen;W;419824,190;5452469,084
+7031;Urbar;7;RP;B;42;; Vallendar;N; Ehrenbreitstein;S;401488,597;5581049,321
+7033;Kottenheim;7;RP;B;256;; Thür;N; Mayen;S;376869,641;5578921,979
+7034;Bendorf;7;RP;B;42;; Engers;N; Vallendar;S;398583,595;5586021,343
+7038;Godramstein;7;RP;B;10;; Landau;O; Annweiler;W;432346,096;5450761,385
+7039;Moselweiß;7;RP;B;49;; Koblenz;O; Lay;W;397219,207;5577954,768
+7044;Zermüllen;7;RP;B;257;; Nürburgring;N; Daun;S;351429,423;5574207,293
+7049;Freusburg;7;RP;B;62;; Mudersbach;O; Betzdorf;W;421846,643;5630344,698
+7050;Hönningen;7;RP;B;257;; Altenahr;N; Dümpelfeld;S;354610,964;5592680,852
+7052;Konz;7;RP;B;51;; Helenenberg;N; Konz;S;328622,693;5510691,162
+7064;Kirchberg;7;RP;B;50;; Unzenberg L228;O; Kirchberg B421;W;386393,000;5535134,500
+7067;Oberbaar;7;RP;B;258;; Mayen;O; Nürburgring;W;359690,275;5579501,094
+7068;Niederhorbach;7;RP;B;38;; Landau;N; Bergzabern;S;429201,564;5440475,070
+7080;Rheinbrücke Worms;7;RP;B;47;; Bürstadt;O; Worms;W;455061,500;5497764,000
+7086;Schweisweiler;7;RP;B;48;; Rockenhausen;N; Winnweiler;S;415615,932;5493676,596
+7088;Büchel;7;RP;B;259;; Büchel;O; Auderath;W;361332,545;5561075,017
+7093;Dudenhofen;7;RP;B;39;; Speyer;O; Neustadt;W;456355,002;5462814,987
+7094;Rheinbrücke Speyer-Süd;7;RP;B;39;; Altlussheim;O; Speyer;W;460044,522;5462669,659
+7098;Bodendorf;7;RP;B;266;; Sinzig;O; Bad Bodendorf;W;373980,780;5601844,956
+7099;Güls;7;RP;B;416;; Koblenz;N; Winningen;S;397010,874;5577824,296
+7111;Dahn;7;RP;B;427;; Busenberg;O; Hinterweidenthal;W;410253,656;5445821,801
+7117;Wilwerath;7;RP;B;51;; Stadtkyll;N; Prüm;S;318541,689;5567709,802
+7127;Winzenheim;7;RP;B;41;; Bingen;N; Sobernheim;S;417458,047;5523466,897
+7135;Bitburg;7;RP;B;51;; Bitburg (Prüm);N; Masholder (Trier);S;321723,861;5537595,898
+7139;Alsdorf;7;RP;B;257;; Alsdorf;N; Irrel;S;318147,820;5529144,618
+7219;Nierstein;7;RP;B;9;; Nackenheim;N; Oppenheim;S;452481,210;5526293,670
+7242;Barbelroth;7;RP;B;427;; Winden;O; Bad Bergzabern;W;434155,427;5438518,380
+7257;Echternacherbrück;7;RP;B;257;; Echternach (Lux);N; Grenze Luxemburg;S;315474,990;5521056,831
+7286;Wintrich (Mosel);7;RP;B;53;; Bernkastel-Kues;O; Wintrich;W;352690,117;5526784,375
+7419;Boden;7;RP;B;255;; Hahn;O; Montabaur;W;418286,419;5591135,385
+7433;AD Ludwigshafen VQ Süd;7;RP;B;9;; AS Ludwigshafen;N;AK Mutterstadt;S;454143,827;5477653,571
+7510;Schmißberg;7;RP;B;41;; Idar-Oberstein;N; Birkenfeld;S;369542,522;5502794,521
+7520;Thür;7;RP;B;262;; Mendig;N; Kottenheim;S;376947,848;5580958,488
+7549;Wawern;7;RP;B;51;; Konz;N; Saarburg;S;322148,476;5501968,655
+7562;AS Ludwigsh.-Nord VQ Nord;7;RP;B;9;; Abzweig K1;N; Abzweig K3;S;456358,512;5488986,064
+7563;AS Ludwigsh.-Nord VQ Süd;7;RP;B;9;; AS Ludwigshafen-Nord (A6);N; Abzweig L523;S;456015,554;5488047,702
+7564;AS Oggersh. Kreuz VQ Nord;7;RP;B;9;; Frankenthal;N; AS Oggersheimer Kreuz;S;453507,282;5481656,014
+7567;AS Kreuz Speyer VQ Süd;7;RP;B;9;; AK Kreuz Speyer (A61);N; Abzweig L454;S;457788,085;5466464,865
+7569;Meilbrück;7;RP;B;51;; Bitburg;N; Welschbillig;S;323473,112;5531059,488
+7570;AS Waldesch VQ Ost;7;RP;B;327;; Waldesch;N; AS Koblenz/Waldesch;S;394598,846;5567701,766
+7571;AS Waldesch VQ West;7;RP;B;327;; AS Koblenz/Waldesch;N; Pfaffenheck;S;393869,589;5566362,497
+7704;Völkenroth;7;RP;B;327;; Kappel;N; Kastellaun;S;385354,195;5542938,641
+7705;Klüsserath;7;RP;B;53;; Trittenheim;O; Klüsserath;W;346339,457;5523497,009
+7748;Rheinbrücke Wörth;7;RP;B;10;; Karlsruhe;O; Wörth;W;448744,425;5431864,332
+7800;Lahnstein;7;RP;B;42;; Koblenz;N; Braubach;S;401027,533;5573529,555
+7801;Rülzheim;7;RP;B;9;; Germersheim;N; Rheinzabern;S;449137,776;5445419,755
+7804;AK Mainz VQ Nord;7;RP;B;40;; Abzweig Haifa-Allee;O;AK Mainz-Süd (A60);W;445683,325;5535268,521
+7823;AS Koblenz-Nord VQ Süd;7;RP;B;9;; Andernach;N; Koblenz;S;396927,500;5582991,500
+7824;AS Koblenz-Nord VQ Nord;7;RP;B;9;; Andernach;N; Koblenz;S;396101,000;5583652,000
+7825;AS MZ-Laubenheim VQ Nord;7;RP;B;9;; Mainz;N; Nierstein;S;450687,000;5535840,000
+7826;AS MZ-Laubenheim VQ Süd;7;RP;B;9;; Mainz;N; Nierstein;S;451012,765;5535222,009
+7838;Schweigen;7;RP;B;38;; Bad Bergzabern;N; Bundesgrenze (F);S;423567,158;5433255,955
+7849;Wasserbilligerbrück;7;RP;B;49;; Trier;O; Wasserbillig (L);W;320282,937;5509851,065
+7913;Idar-Oberstein;7;RP;B;41;; Kirn;N; Idar-Oberstein;S;383868,875;5509497,277
+7982;Waldfischbach-Burgalben;7;RP;B;270;; Schopp;N; Waldfischbach-Burgalben;S;402216,610;5460691,296
+7996;Bad Hönningen;7;RP;B;42;; Bad Honnef;N; Neuwied;S;380947,420;5597414,298
+8051;Neuenburg-Rheinbrücke;8;BW;B;378;; Neuenburg;O; Chalampe (F);W;391307,000;5296662,000
+8100;Göppingen;8;BW;B;10;; Eislingen;O; Uhingen;W;547255,475;5394261,158
+8106;Bad Säckingen 3 Grenze;8;BW;B;518;; Bad Säckingen;N; Stein (CH);S;420781,680;5266449,894
+8301;Reutlingen;8;BW;B;312;; Abzweig Burgholz (B28);N; Pfullingen;S;517426,000;5372138,500
+8302;Sigmaringen;8;BW;B;32;; Abzweig Jungnauer Str.;O; Abzweig B463, Jungnau;W;515324,740;5328225,632
+8311;Harlachen;8;BW;B;31;; Immenstaad;O; Meersburg;W;523036,408;5281178,802
+8321;Ertingen 2;8;BW;B;311;; Riedlingen;O; Herbertingen;W;533978,434;5327504,162
+8340;Tübingen West;8;BW;B;28;; Tübingen;O; Hirschau;W;502933,452;5372594,737
+8360;Plochingen;8;BW;B;10;; Plochingen;O; Esslingen;W;526747,681;5395919,252
+8375;Bad Mergentheim 2;8;BW;B;290;; Unterbalbach;N; Bad Mergentheim;S;554164,826;5485934,680
+8382;Neckarsulm 2;8;BW;B;27;; Bad Friedrichshall;N; AS Heilbronn/Neckarsulm;S;517147,181;5448705,315
+8390;Strümpfelbach;8;BW;B;14;; Oppenweiler;O; Backnang;W;532365,902;5424970,647
+8403;Grunbach;8;BW;B;29;; Schorndorf;O; Geradstetten;W;532815,201;5406150,714
+8405;Schwäbisch Gmünd;8;BW;B;29;; Aalen;O; Stuttgart;W;558049,000;5406014,000
+8440;Stuttgart-Zuffenhausen;8;BW;B;10;; Stuttgart-Feuerbach;O; AS Stuttgart-Zuffenhausen;W;509475,600;5410382,117
+8441;Stuttgart-Hedelfingen;8;BW;B;10;; Eßlingen;O; Stuttgart;W;519215,205;5400152,698
+8453;Echterdingen 2;8;BW;B;27;; Stuttgart;N; AS Stuttgart-Degerloch;S;512019,223;5395726,570
+8468;Westumgehung Aalen;8;BW;B;29;; AS Affalterried;O; Aalen West;W;578301,757;5409659,058
+8490;Weisenbach;8;BW;B;462;; Gernsbach;N; Forbach;S;452456,562;5397843,684
+8520;Karlsruhe 2;8;BW;B;3;; Weingarten;N; Karlsruhe-Durlach;S;463554,804;5429717,566
+8525;Achern-Önsbach;8;BW;B;3;; Achern;N; Achern-Önsbach;S;428951,039;5384443,390
+8526;Schramberg;8;BW;B;462;; Schramberg;N; Dunningen;S;456257,449;5342090,419
+8527;Emmendingen;8;BW;B;3;; Emmendingen;N; Freiburg;S;414679,000;5327352,000
+8529;Kehl-Europabrücke;8;BW;B;28;; Kehl;O; Bundesgrenze (F);W;411797,308;5380850,260
+8531;Scherzingen;8;BW;B;3;; Freiburg (B31, B31a);N; Abzweig B31;S;406043,000;5311247,000
+8533;Oppenau-West;8;BW;B;28;; Oppenau;O; Oberkirch;W;437538,000;5369573,500
+8537;March-Umkirch West;8;BW;B;31;a;AS Freiburg-Mitte;O; Umkirch;W;408433,172;5321710,595
+8538;March-Umkirch Ost;8;BW;B;31;a;AS Freiburg-Mitte;O; Umkirch;W;408789,518;5321229,793
+8539;Falkensteig;8;BW;B;31;; Donaueschingen;O; Freiburg;W;425343,903;5310680,218
+8540;Freiburg Ost Tunnel;8;BW;B;31;; Donaueschingen;O; Freiburg;W;417222,139;5315000,931
+8541;Hinterzarten;8;BW;B;31;; Titisee;O; Hinterzarten;W;433137,500;5306940,500
+8542;Friedenweiler;8;BW;B;31;; Rötenbach;O; Neustadt i. Schwarzwald;W;445163,479;5305560,284
+8544;Döggingen;8;BW;B;31;; Donaueschingen;O; Freiburg;W;457523,500;5304925,500
+8551;Radolfzell 2;8;BW;B;33;; Allensbach-West;O; Radolfzell;W;501624,033;5286994,410
+8552;Kloster Hegne;8;BW;B;33;; Konstanz;O; Singen;W;507389,000;5283866,000
+8570;Schönau;8;BW;B;317;; Schönau;O; Zell;W;416874,500;5291880,500
+8601;Tübingen Süd;8;BW;B;27;; Tübingen;N; Hechingen;S;504796,565;5369265,126
+8620;Rittersbach;8;BW;B;27;; Rittersbach;N; Dallau;S;516477,500;5474162,500
+8623;Auerbach;8;BW;B;292;; Oberschefflenz;O; Auerbach;W;516551,098;5471936,457
+8634;Künzelsau;8;BW;B;19;; Belsenberg;N; Künzelsau;S;549292,000;5460017,000
+8644;Schwaigern;8;BW;B;293;; Heilbronn;O; Schwaigern;W;504582,042;5443738,382
+8678;Vaihingen (Enz);8;BW;B;10;; Schwieberdingen;O; Illingen;W;496282,561;5419408,670
+8685;Rastatt;8;BW;B;36;; Bietigheim;N; Rastatt;S;444084,615;5413655,947
+8686;Rheinbrücke Iffezheim;8;BW;B;500;; Roppenheim (F);N; Iffezheim;S;434871,500;5409236,000
+8690;Alpirsbach;8;BW;B;294;; Loßburg;N; Alpirsbach;S;456566,739;5356251,437
+8701;Hornberg Tunnel;8;BW;B;33;; Triberg;O; Hausach;W;442295,233;5341137,856
+8704;Gutach 2;8;BW;B;33;; Hornberg;O; Hausach;W;442260,500;5341244,000
+8712;Rottweil;8;BW;B;27;; Rottweil;N; Deisslingen;S;472402,500;5329923,500
+8714;Tuttlingen;8;BW;B;14;; Tuttlingen (B311);O; Abzweig B491;W;485971,500;5313939,500
+8720;Breisach;8;BW;B;31;; Breisach;O; Neubreisach (F);W;394393,000;5319901,500
+8724;Waldkirch 2;8;BW;B;294;; Waldkirch;N; Freiburg;S;423106,000;5326700,500
+8801;Tauberbischofsheim;8;BW;B;27;; Tauberbischofsheim;N; Hardheim;S;543887,000;5496526,500
+8810;Ulm-Nord;8;BW;B;10;; Ulm;O; Dornstadt;W;571915,832;5363066,159
+8816;Eberhardzell;8;BW;B;30;; Unteressendorf;N; Oberessendorf;S;557911,521;5315838,570
+8818;Heroldstatt;8;BW;B;28;; Suppingen;O; Feldstetten;W;550033,622;5367985,798
+8824;Walheim;8;BW;B;27;; Lauffen am Neckar;N; Bietigheim-Bissingen;S;511127,272;5428386,869
+8826;Korb;8;BW;B;14;; Winnenden;O; Waiblingen;W;525824,643;5411241,053
+8827;Crailsheim-Süd;8;BW;B;290;; Crailsheim;N; Jagstheim;S;577830,624;5439065,458
+8828;Horb-Nord;8;BW;B;28;; Bildechingen;O; Horb;W;478438,540;5367632,263
+8910;Palmrainbrücke;8;BW;B;532;; Weil a. Rhein;O; Bundesgrenze (F);W;394475,500;5272932,500
+8921;Weil-Friedlingen;8;BW;B;317;; Weil-Friedlingen;O; Bundesgrenze (CH);W;394242,500;5271618,000
+8922;Weil-Otterbach;8;BW;B;3;; Lörrach;N; Basel (CH);S;395073,500;5270803,000
+8925;Grenzacherhorn;8;BW;B;34;; Grenzach-Wyhlen;O; Bundesgrenze (CH);W;397332,870;5268546,795
+8929;Waldshut Rheinbrücke;8;BW;B;34;; Waldshut;O; Bundesgrenze (CH);W;442308,140;5273127,938
+8931;Erzingen;8;BW;B;34;; Erzingen;O; Bundesgrenze (CH);W;456497,500;5277694,000
+8932;Lottstetten;8;BW;B;27;; Lottstetten;N; Bundesgrenze (CH);S;467875,500;5273570,500
+8933;Jestetten-Hardt;8;BW;B;27;; Bundesgrenze (CH);N; Jestetten;S;469629,500;5279587,000
+8935;Neuhaus;8;BW;B;27;; Neuhaus;N; Bundesgrenze (CH);S;468548,475;5294597,402
+8936;Bietingen;8;BW;B;34;; Bietingen;O; Bundesgrenze (CH);W;479333,500;5287545,000
+8944;Konstanz-Tägermoos;8;BW;B;33;; Bundesgrenze (CH);O; OD Konstanz;W;512094,399;5278538,331
+9102;Ismaning-Fischerhäuser;9;BY;B;388;; Moosinning;O; Ismaning;W;700546,000;5347698,500
+9104;Weiden i.d. Opf.;9;BY;B;22;; Bechtsrieth;O; Neustadt a.d. Waldnaab;W;729566,716;5507219,305
+9107;GAP - Partenkirchen;9;BY;B;2;; Farchant;N; Garmisch-Partenkirchen;S;658698,500;5264110,000
+9108;Fladungen;9;BY;B;285;; Rednitzhembach;N; Roth;S;580646,490;5599230,212
+9109;Laufen;9;BY;B;20;; Laufen;N; Freilassing;S;794200,000;5315604,500
+9113;Hof;9;BY;B;15;; Hof;N; Rehau;S;707937,801;5574816,829
+9114;Fischen;9;BY;B;19;; Fischen;N; Oberstdorf;S;595658,000;5256698,000
+9121;Schneizlreuth-Baumgarten;9;BY;B;21;; Salzburg;O; Lofer;W;788860,500;5289319,000
+9124;Eichstätt;9;BY;B;13;; Eichstätt;N; Adelschlag-Pietenfeld;S;661279,479;5416489,349
+9125;Philippsreut;9;BY;B;12;; Bundesgrenze (CZ);O; Freyung;W;843555,493;5423687,982
+9129;Langweid;9;BY;B;2;; Meitingen;N; Gersthofen;S;637477,576;5372469,710
+9135;Altenmarkt;9;BY;B;304;; Stein a. d. Traun;O; Altenmarkt;W;763716,000;5321857,000
+9137;Waltenhofen-Herzmanns;9;BY;B;19;; Waltenhofen;N; Martinszell;S;597288,143;5278086,321
+9138;Untermeitingen-Lagerle.;9;BY;B;17;; Königsbrunn;N; Kaufering;S;636631,500;5336703,500
+9142;Traunstein;9;BY;B;304;; Teisendorf;O; Traunstein;W;774261,761;5308307,808
+9143;Tunnel Ettendorf;9;BY;B;304;; Abzweig B306;O; Abzweig St2105;W;773501,751;5308949,075
+9144;Freilassing;9;BY;B;304;; Salzburg;O; Freilassing;W;798734,500;5305940,000
+9147;Unterwössen-Oberwössen;9;BY;B;305;; Reit im Winkl;O; Unterwössen;W;760710,500;5290438,500
+9148;Eggenfelden (n);9;BY;B;20;; Falkenberg;N; Wurmannsquick;S;779574,024;5368284,955
+9149;Eggenfelden (s);9;BY;B;20;; Falkenberg;N; Wurmannsquick;S;779370,500;5367976,500
+9153;Schirnding;9;BY;B;303;; Bundesgrenze (CZ);O; Arzberg;W;731864,763;5553095,554
+9156;Fremdingen;9;BY;B;25;; Wilburgstetten;N; Fremdingen;S;604271,170;5427142,659
+9157;Harburg;9;BY;B;25;; Hoppingen;N; Harburg (Schwaben);S;623738,022;5405464,839
+9175;Kempten;9;BY;B;12;; Marktoberdorf/B472;O; AS Kempten, A7;W;601863,070;5288735,761
+9199;Polling (o);9;BY;B;472;; Oberhausen;O; Peißenberg/Polling;W;658647,500;5296135,500
+9201;Werneck-Eßleben;9;BY;B;19;; AS Werneck (A70);N; Bergtheim;S;577424,500;5533334,000
+9204;Polling (w);9;BY;B;472;; Hugelfing;O; Schongau;W;658611,033;5296229,424
+9206;Stockheim-Haßlach (w);9;BY;B;89;; Grafenau;O; Schönberg;W;663373,689;5573184,087
+9209;Stockheim-Haßlach (s);9;BY;B;85;; Stockheim;N; Kronach;S;663501,000;5573214,500
+9210;Stockheim-Haßlach (n);9;BY;B;85;; Kronach;N; Neuhaus;S;663350,978;5573292,049
+9237;Untersiemau (W);9;BY;B;289;; Lichtenfels;O; Untersiemau;W;643061,024;5558910,967
+9254;AS Schierling;9;BY;B;15;n; AS Schierling-Nord, ST2144;N; AS Schierling-Süd;S;728802,000;5413952,500
+9262;Weiding;9;BY;B;20;; Weiding;N; Cham;S;772423,288;5461853,062
+9270;Donauwörth;9;BY;B;2;; Donauwörth;N; Nordheim;S;632124,392;5397423,991
+9271;Weißenburg i.Bay.;9;BY;B;2;; Ellingen;N; Weissenburg i. Bay.;S;645316,584;5432984,988
+9273;Burgthann-Oberferrieden;9;BY;B;8;; Postbauer-Heng;O; Oberferrieden;W;669796,317;5465717,873
+9274;Mittenwald;9;BY;B;2;; Mittenwald;N; GÜ Scharnitz;S;670391,251;5254655,765
+9275;Kitzingen;9;BY;B;8;; Repperndorf;O; Biebelried;W;579380,407;5512621,435
+9277;Bayerisch Eisenstein;9;BY;B;11;; Bundesgrenze (CZ);N; Bayrisch Eisenstein;S;806565,406;5449493,802
+9278;Oberdachstetten;9;BY;B;13;; Oberdachstetten;N; Ansbach;S;603416,130;5474024,256
+9279;Schnaittenbach;9;BY;B;14;; Schnaittenbach;O; Hirschau;W;716181,152;5492254,846
+9280;Hersbruck;9;BY;B;14;; Salzbach-Rosenhof;O; Laufbach-Rosenhof;W;677272,172;5486330,914
+9282;Neustadt a.d. Donau;9;BY;B;16;; Regensburg;N; Ingolstadt;S;703069,177;5406551,450
+9283;Halblech;9;BY;B;17;; Halblech;N; Buching;S;636788,500;5276698,000
+9284;Furth i. Wald;9;BY;B;20;; Bundesgrenze (CZ);N; Furth i.W.;S;779486,268;5470541,220
+9285;Schneizlreuth-Melleck;9;BY;B;21;; Schneizlreuth;O; Bundesgrenze (A);W;782476,000;5286629,500
+9287;Altenstadt a.d. Waldnaab;9;BY;B;22;; Weiden i.d. Oberpfalz;O; Neustadt/Bayreuth;W;727386,324;5511164,379
+9288;Karsbach-Höllrich;9;BY;B;27;; Höllrich;N; Heßdorf;S;560330,627;5550336,340
+9289;Amberg (w);9;BY;B;85;; Sulzbach-Rosenberg;N; Amberg;S;701166,594;5483008,788
+9290;Roding;9;BY;B;85;; Mitterdorf;N; Roding;S;755684,000;5456042,000
+9291;Kolitzheim-Oberspiesheim;9;BY;B;286;; Oberwiesheim;N; Alitzheim;S;591777,500;5533857,500
+9292;Amberg (s);9;BY;B;299;; Amberg;N; Ursensollen;S;704352,731;5479402,379
+9293;Schrobenhausen;9;BY;B;300;; Hohenwart;O; Schrobenhausen;W;669459,000;5382069,000
+9294;Bischofsgrün;9;BY;B;303;; Marktredwitz;O; Bad Berneck;W;699604,000;5549045,000
+9295;Rain;9;BY;B;8;; Atting;O; Rain;W;755163,000;5422824,000
+9296;Miltenberg;9;BY;B;469;; Kleinheubach;N; Amorbach;S;515907,607;5505655,203
+9297;Gößweinstein-Sachsenmühle;9;BY;B;470;; Pottenstein;O; Ebermannstadt;W;666086,000;5516315,000
+9298;Waakirchen;9;BY;B;472;; Miesbach;O; Waakirchen;W;701921,500;5294721,500
+9299;Eibelstadt;9;BY;B;13;; Eibelstadt-Nord;N; Eibelstadt-Süd;S;571618,241;5508688,196
+9301;Soyen;9;BY;B;15;; Soyen;N; Reitmehring;S;738260,865;5331252,567
+9302;Würzburg/Estenfeld;9;BY;B;19;; Estenfeld;N; Lengfeld;S;570297,000;5518364,500
+9303;Burgwindheim;9;BY;B;22;; Kappel;O; Burgwindheim;W;615332,000;5520689,000
+9304;Winklarn;9;BY;B;22;; Pillmersried;O; Winklarn;W;752205,500;5480372,500
+9305;Kronach (O);9;BY;B;173;; Unterrodach;O; Höfles;W;669857,155;5568222,458
+9307;Kleinheubach;9;BY;B;469;; Kleinheubach;N; Miltenberg;S;515347,869;5506850,641
+9308;Schweigbach/Halbergmoos;9;BY;B;301;; Abzweig St2053;N; Abzweig B388, Fischerhäuser;S;701053,500;5352202,000
+9310;Eching-Viecht;9;BY;B;11;; Landshut;N; Moosburg;S;726229,833;5376431,632
+9311;Oberzell;9;BY;B;300;; AS Dasing (A8);O; Friedberg;W;648627,000;5359986,753
+9320;Zorneding;9;BY;B;304;; Kirchseeon;O; Vaterstetten;W;710822,000;5328653,500
+9324;Dietersheim;9;BY;B;470;; Neustadt a.d. Aisch;O; Dottenheim;W;611750,375;5490806,599
+9350;Oberau (n);9;BY;B;2;; Eschenlohe;N; Farchant;S;662582,500;5271411,500
+9351;Oberau (s);9;BY;B;2;; Eschenlohe;N; Farchant;S;659399,500;5267013,000
+9352;Oberau (w);9;BY;B;23;; Ettal;N; Oberau;S;660633,500;5269462,000
+9380;Buchloe;9;BY;B;12;; Buchloe;O; Kaufbeuren;W;628478,398;5319718,140
+9384;Griesen;9;BY;B;23;; Abzweig S2061;N; Bundesgrenze (A);S;646475,500;5260127,500
+9385;Sylvensteinsee;9;BY;B;307;; Bundesgrenze (A);O; Abzweig B13;W;691847,000;5273440,500
+9393;Oberammergau;9;BY;B;23;; Saulgrub;N; Oberau;S;654437,000;5273032,000
+9394;Kesselberg;9;BY;B;11;; Kochel;N; Walchensee;S;676827,500;5277485,500
+9401;Deggendorf;9;BY;B;11;; Grafling;N; Deggendorf;S;790352,825;5420851,709
+9420;Grafenau;9;BY;B;533;; AS Roth;O; Rednitzhembach;W;820782,609;5419526,274
+9462;Eggenfelden (o);9;BY;B;388;; Auhof;O; Eggenfelden;W;779781,000;5368416,500
+9496;Freising;9;BY;B;301;; Abzweig Tüntenhausen;N; Abzweig Zurnhausen;S;704987,000;5367954,500
+9571;Marktzeuln-Zettlitz (w);9;BY;B;173;; Kronach;O; Lichtenfels;W;655939,000;5558599,135
+9572;Marktzeuln-Zettlitz (o);9;BY;B;173;; Kronach;O; Lichtenfels;W;656185,258;5558890,432
+9573;Zettlitz Süd;9;BY;B;289;; Horb a. Main;O; Zettlitz;W;656179,280;5558718,821
+9810;Karlsfeld-Rothschwaige;9;BY;B;304;; Karlsfeld;O; Dachau;W;682416,500;5344784,500
+9820;Oberschleißheim-Neuh.;9;BY;B;13;; Harthof;N; Oberschleißheim;S;692182,521;5344262,648
+9830;Pullach;9;BY;B;11;; München;N; Baierbrunn;S;687449,430;5326555,989
+9853;Höchstadt;9;BY;B;505;; Pommersfelden;N; AS Pommersfelden;S;631544,054;5510354,469
+9861;Simbach a. Inn (s);9;BY;B;12;; Bundesgrenze (A);O; Dreieck Ach;W;797480,590;5351891,889
+9862;Simbach a. Inn (n);9;BY;B;12;; Simbach;O; Dreieck Ach;W;796833,674;5352376,152
+9863;Simbach a. Inn (w);9;BY;B;12;; Dreieck Ach;O; Altötting;W;796714,313;5351609,387
+9870;Neuhaus a. Inn (o);9;BY;B;512;; Bundesgrenze (A);O; Abzweig S2110;W;826727,586;5377661,525
+9871;Neuhaus a. Inn (s);9;BY;B;512;; Übergang S2110;O; Abzweig S2119;W;826217,796;5377284,234
+9937;Nußdorf-Aiging;9;BY;B;304;; Traunstein;O; Altenmarkt;W;770243,000;5312079,500
+9945;Schwabach;9;BY;B;2;; Rednitzhembach;N; Roth;S;650139,500;5466266,500
+9949;Lindau-Diepoldsbergtunnel;9;BY;B;31;; Weißensberg;O; Kressbronn;W;551648,000;5269569,000
+9988;Bergkirchen-Geiselbullach;9;BY;B;471;; Dachau;O; AS Dachau/Fürstenfeldbruck;W;674499,530;5345033,367
+0223;Eppelborn;10;SL;B;10;; Eppelborn;O; Dirmingen;W;353551,500;5475311,500
+0243;SB-Neue Bremm;10;SL;B;41;; Saarbrücken-Neue Bremm;N; Bundesgrenze (F);S;351246,500;5452253,500
+0244;Saarbrücken-Rodenhof;10;SL;B;41;; Saarbrücken-Rodenhof;N; Saarbrücken-Rastpfuhl;S;354180,000;5457590,500
+0267;Rilchingen-Hanweiler;10;SL;B;51;; Rilchingen;N; Bundesgrenze (F);S;359027,500;5442221,500
+0279;Bous;10;SL;B;51;; Ensdorf;N; Völklingen;S;339302,500;5460812,000
+0300;OU Besseringen;10;SL;B;51;; Mettlach;N; Merzig;S;327558,102;5483735,989
+0329;Ensdorf;10;SL;B;269;; Bous;N; A620, Altforweiler;S;337796,000;5461546,500
+0330;Überherrn (LisdorferBerg);10;SL;B;269;; A620, Bous;N; Altforweiler;S;337202,500;5461418,500
+0370;Unner;10;SL;B;406;; Unner;N; Bundesgrenze (F);S;356230,500;5450711,500
+0393;Nennig-Ost;10;SL;B;406;; Sinz Orscholz;N; Nennig;S;310363,000;5490820,500
+0394;Nennig-Zoll;10;SL;B;406;; Bundesgrenze (L);N; Nennig;S;310076,500;5490948,000
+0404;Perl-Zoll 2;10;SL;B;419;; B407 Bundesgrenze (F);N; Perl;S;309635,000;5483091,500
+0406;Nennig-Nord;10;SL;B;419;; Perl;N; B406 Palzem (Rhl.Pfalz);S;310239,693;5490934,541
+0429;Perl-Zoll 1;10;SL;B;419;L; Perl;O; Schengen (L);W;309580,500;5483173,000
+0523;Saarbrücken;10;SL;B;41;; Übergang A623;N; Saarbrücken-Rodenhof;S;354027,000;5457826,500
+2061;Nikolassee;11;BE;B;1;; AK Kreuz Zehlendorf (A115);O; Potsdam (B2/B273);W;784281,239;5815843,611
+2062;Staaken;11;BE;B;5;; Berlin-Spandau (B2);O; Berlin-Spandau, Landesgr. BB;W;779485,500;5827853,500
+2063;Blankenfelde;11;BE;B;96;a; Schildow, Landesgr. BB;N; Berlin-Pankow;S;796774,500;5839596,000
+2064;Mahlsdorf;11;BE;B;1;; Berlin-Hellersdorf, Landesgr. BB;O; Berlin-Marzahn (B158);W;813970,902;5827113,113
+2065;Malchow;11;BE;B;2;; AS Berlin-Weißensee (A10);N; Berlin-Prenzlauer Berg (B96a);S;803750,500;5835645,500
+2066;Marienfelde;11;BE;B;101;; Berlin-Tempelhof (B96);N; Abzweig Heinersdorf (L76);S;796174,072;5814873,739
+3616;Angermünde;12;BB;B;2;; Angermünde;N; Schmargendorf, Abzweig L200;S;834517,677;5883644,498
+3617;Friedrichsthal;12;BB;B;2;; Gartz, Abzweig L27;N; Schwedt, Abzweig B166;S;855955,743;5902800,452
+3618;Lietzow;12;BB;B;5;; Nauen;O; Berge;W;759301,500;5836307,000
+3619;Nassenheide;12;BB;B;96;; Löwenberg, Kreuzung B167;N; Oranienburg, Kreuzung B273;S;784789,106;5859286,380
+3620;Dollenchen;12;BB;B;96;; Finsterwalde, Abzweig L60;N; AS Großräschen (A13);S;835575,927;5729002,871
+3622;Birkhahn;12;BB;B;97;; AS Cottbus-Süd (A15);N; Spremberg, Abzweig B156;S;871164,500;5732221,500
+3625;Ahrensfelde;12;BB;B;158;; Berlin-Marzahn;N; AS Berlin-Hohenschönhausen;S;810818,432;5835821,761
+3626;Falkenberg;12;BB;B;167;; Bad Freienwalde, Kreuzung B158;O; Eberswalde;W;836381,500;5860980,500
+3632;Vogelsdorf;12;BB;B;1;; Herzfelde;O; AS Berlin-Hellersdorf (A10);W;823341,965;5826877,355
+3634;Schlieben;12;BB;B;87;; Abzweig B96;O; Herzberg, Kreuzung B101;W;805572,007;5740765,105
+3635;Plessa;12;BB;B;169;; Plessa;N; Elsterwerda, Abzweig B101;S;817976,858;5711953,243
+3636;Fredersdorf;12;BB;B;102;; Golzow;N; Belzig;S;747461,449;5787644,171
+3637;Werbig;12;BB;B;102;; Jüterbog;N; Dahme;S;790441,323;5760535,293
+3638;Hohenwutzen;12;BB;B;158;; Neuenhagen, Kreuzung B158a, L28;N; Bad Freienwalde, Kreuzung B167;S;840584,500;5864348,500
+3639;Ganzer;12;BB;B;167;; AS Neuruppin (A24);O; Bückwitz;W;741229,839;5864252,436
+3640;Groß Pankow;12;BB;B;189;; Pritzwalk, Abzweig L111;N; Perleberg, Abzweig B5;S;703950,500;5890415,500
+3650;Jeserig;12;BB;B;1;; Groß Kreutz;O; Brandenburg a.d.H.-Neuschmerzke, B102;W;750199,346;5812835,370
+3653;Drebkau;12;BB;B;169;; AS Cottbus-West (A15);N; Drebkau;S;863885,000;5739767,000
+3654;Märkisch Buchholz;12;BB;B;179;; Bestensee, Kreuzung B246;N; Märkisch Buchholz;S;824286,435;5788750,080
+3655;Lenzen;12;BB;B;195;; Lenzen;N; Ferbitz;S;670166,237;5886492,978
+3668;Neurochlitz;12;BB;B;2;; GÜG Rossow;N; Kreuzung B113;S;860320,213;5917103,490
+3669;Dallgow;12;BB;B;5;; Berlin-Spandau;O; AS Berlin-Spandau (A10);W;775188,500;5828186,500
+3672;Schwedt;12;BB;B;166;; Schwedt, Abzweig B2;N; GÜG Schwedt;S;854372,781;5891372,525
+3675;Simmersdorf;12;BB;B;115;; Simmersdorf;O; AS Forst (A15);W;887473,000;5743486,500
+3677;Frankfurt (Oder);12;BB;B;5;; GÜG Frankfurt(Oder)-Stadtbrücke;O; Frankfurt(O)-Zentrum, Abzweig B87;W;878037,500;5814188,500
+3679;Heiligengrabe;12;BB;B;189;; AS Pritzwalk (A24);N; Pritzwalk, Kreuzung B103;S;727288,106;5894246,722
+3680;Köpernitz;12;BB;B;122;; Rheinsberg (L15);N; Dierberg (L19);S;763825,500;5886303,500
+3686;Schlagsdorf-Grenze;12;BB;B;97;; Bundesgrenze (PL);N; B112;S;891177,500;5765551,000
+3689;Beutersitz;12;BB;B;101;; Herzberg, Kreuzung B87;N; Bad Liebenwerda, Abzweig B183;S;801840,500;5723812,500
+3693;Müncheberg;12;BB;B;168;; Prötzel;N; Müncheberg, Kreuzung B1, B5;S;846540,000;5831045,500
+3701;Glindow;12;BB;B;1;; Werder;O; AS Groß Kreutz (A10);W;762036,500;5811122,000
+3703;Dannenwalde;12;BB;B;96;; Fürstenberg/Havel, Abzweig L15;N; Gransee, Abzweig L22;S;780821,323;5886673,497
+3706;Tiefensee;12;BB;B;158;; Tiefensee, Kreuzung B168;N; Werneuchen;S;826343,500;5847164,000
+3707;Teerofen;12;BB;B;166;; Zichow, Abzweig B166a;N; Schwedt, Abzweig B2;S;846531,885;5898348,099
+3708;Zerpenschleuse;12;BB;B;167;; Abzweig L220;O; Zerpenschleuse, Abzweig B109;W;806554,517;5865987,366
+3709;Löwenberg;12;BB;B;167;; Löwenberg, Abzweig B96;O; Alt Ruppin, Abzweig B122;W;777921,961;5868371,458
+3710;Carzig;12;BB;B;167;; Lebus, Kreuzung B112;O; Seelow, Kreuzung B1;W;870424,406;5826227,958
+3711;Turnow;12;BB;B;168;; Lieberose, Abzweig B320;N; Peitz;S;871098,500;5759799,000
+3712;Seddin;12;BB;B;2;; BAB A10;N; B246, Beelitz;S;772933,494;5798762,154
+3713;Wilhelmshorst;12;BB;B;2;; Potsdam;N; Michendorf;S;775523,914;5807368,632
+3714;Biebersdorf;12;BB;B;87;; Beeskow;O; Lübben/Spreewald;W;842285,239;5771441,716
+3715;Zossen;12;BB;B;96;; Zossen;N; Wünsdorf;S;805168,038;5790969,500
+3716;Lossow 2;12;BB;B;112;;AS Frankfurt(Oder)-Mitte (A12);N; Eisenhüttenstadt (B246);S;879448,142;5806128,625
+3717;Mahlow 2;12;BB;B;96;a; Schönefeld;N; Mahlow;S;802221,384;5810941,519
+3718;Heinersdorf;12;BB;B;101;; Abzweig Heinersdorf;N; Abzweig Großbeeren;S;795270,500;5813341,000
+3719;Dolgelin;12;BB;B;167;; Abzweig K6435;O; Abzweig L37;W;866255,000;5830603,000
+3720;Dahlewitz 2;12;BB;B;96;; Mahlow, Abzweig B96a;N; AS Rangsdorf (A10);S;803295,000;5806045,000
+3721;Steinsdorf;12;BB;B;112;; Neuzelle;N; Gross Breesen;S;889347,000;5779134,000
+3723;Manschnow 2;12;BB;B;1;; Küstrin-Kietz;O; Manschnow;W;880106,000;5839544,500
+1680;Ückeritz;13;MV;B;111;; Schmollensee;O; Koserow;W;832717,334;5993692,626
+1681;Pudagla;13;MV;B;111;; B110;O; Schmollensee;W;832861,533;5993497,843
+1682;Ziethen;13;MV;B;109;; Klein Bünzow;N; Redoute;S;808306,129;5980104,126
+1683;Relzow;13;MV;B;110;; Zecherin;O; Redoute;W;808611,000;5980808,500
+1684;Rostock-Messestraße;13;MV;B;105;; Messestraße, B103;O; Sievershagen;W;699088,500;5999686,000
+1701;Selmsdorf;13;MV;B;104;; Selmsdorf;O; Schlutup;W;620727,289;5972156,319
+1702;Schönberg;13;MV;B;104;; Schönberg;O; Selmsdorf;W;622770,257;5971718,098
+1703;Teldau;13;MV;B;195;; Abzw. OU Boizenburg, Abzw. B5 Ludw.;N; Neuhaus;S;621661,309;5909779,027
+1705;Dömitz;13;MV;B;191;; Kreuzung B195 bei Dömitz;O; Dannenberg;W;649374,027;5891261,074
+1706;Pampow;13;MV;B;321;; Schwerin, Abzweig B106 Wismar;O; AS Hagenow (A24);W;654743,840;5936711,731
+1707;Niendorf;13;MV;B;106;; Abzweig B208 bei Wismar;N; Schwerin, Abzweig B104 Güstrow;S;660108,289;5963116,881
+1709;Brahlstorf;13;MV;B;104;; Brüel;O; AS Schwerin-Nord (A241);W;669299,016;5952920,448
+1710;Hornstorf;13;MV;B;105;; Neubukow;O; AK Kreuz Wismar (A20);W;667582,581;5975281,356
+1711;Reinstorf;13;MV;B;192;; Warin;O; AS Zurow (A20);W;672907,500;5970356,500
+1712;Rom;13;MV;B;191;; Lübz;O; Parchim, Abzweig B321 Schwerin;W;697694,500;5926182,000
+1713;Klueß;13;MV;B;104;; AS Güstrow (A19);O; Abzweig B103 bei Güstrow;W;717067,029;5963120,051
+1714;Sarmstorf;13;MV;B;103;; AS Laage (A19);N; Güstrow;S;711692,386;5970801,121
+1716;Rövershagen;13;MV;B;105;; Rövershagen;O; AS Rostock-Ost (A19);W;711221,371;6006479,795
+1717;Hohenfelde;13;MV;B;110;; Sanitz, Abzweig L191;O; AS Rostock-Süd (A19);W;716852,935;5997156,128
+1718;Perow;13;MV;B;108;; Matgendorf;N; Abzweig Thürkow;S;732360,497;5972529,302
+1719;Woldegk;13;MV;B;104;; Strasburg;O; Woldegk;W;806928,491;5934165,617
+1720;Waren;13;MV;B;192;; Klein Plasten;O; Waren (Müritz);W;748766,909;5937198,094
+1721;Vietzen;13;MV;B;198;; Mirow;O; Kreuzung L24 Röbel/Müritz;W;749540,567;5913833,182
+1722;Karnin;13;MV;B;105;; Kreuzung Martenshof;O; Löbnitz;W;748425,606;6023833,149
+1723;Ferdinandshof;13;MV;B;109;; Rathebur;N; Ferdinandshof;S;818673,454;5962920,859
+1724;Rosenow;13;MV;B;104;; Abzweig Neubrandenburg, Abzweig B192;O; Stavenhagen, Abz. B194 Waren (Müritz);W;765286,000;5950756,000
+1725;Demmin;13;MV;B;110;; Kruckow;O; Demmin, Abzweig B194 Stavenhagen;W;768214,280;5980472,758
+1726;Poggendorf;13;MV;B;194;; AS Grimmen-Ost (A20);N; Süderholz-Poggendorf;S;769393,378;5998512,701
+1727;Weisdin;13;MV;B;96;; Neubrandenburg, Abzweig B104 Prenzlau;N; Neustrelitz, Abzweig B193;S;772537,500;5923923,000
+1729;Reinberg;13;MV;B;105;; Greifswald-Neuenkirchen;O; Reinberg;W;778419,000;6013639,500
+1730;Scharpitz;13;MV;B;96;; Rambin;N; Stralsund;S;769677,052;6029144,924
+1731;Kaiseritz;13;MV;B;196;; Karow;O; Bergen;W;790494,275;6037867,799
+1733;Hinrichshagen;13;MV;B;198;; Canzow;O; Bredenfelde;W;798702,613;5931249,588
+1735;Boldekow;13;MV;B;197;; Sarnow;N; Friedland;S;802085,904;5960833,149
+1736;Neu Kosenow;13;MV;B;109;; Anklam, Abzweig B197;N; Ducherow;S;811450,308;5973103,406
+1737;Bannemin;13;MV;B;111;; Bansin;O; Wolgast;W;816914,950;6001520,913
+1738;Usedom;13;MV;B;110;; Zirchow;O; Usedom;W;824516,221;5981743,012
+1739;Zerrenthin;13;MV;B;104;; Löcknitz;O; Pasewalk, Abzweig B109 Prenzlau;W;838054,500;5938787,500
+1740;Sülsdorf;13;MV;B;105;; Grevesmühlen;O; Selmsdorf;W;623838,142;5972780,942
+1741;Bargeshagen;13;MV;B;105;; Rostock (B103);O; Bad Doberan (L12);W;696222,583;6000008,074
+1742;Reutershagen;13;MV;B;103;; Rostock (B105, Abzw. nach Wismar);N; Rostock (L10);S;700612,595;5997773,512
+1743;Lütten Klein;13;MV;B;103;; Rostock (B105, Abzw. zur A19);N; Rostock (B105, Abzw. nach Wismar);S;700107,770;6002760,722
+1744;Stralsund;13;MV;B;96;;AS Brandshagen;N;AS Miltzow;S;772553,000;6010427,000
+1745;Gelbensande;13;MV;B;105;; Altheide;O; Rövershagen;W;716121,461;6011114,842
+1746;Bentwisch;13;MV;B;105;; Erdbeerhof Rövershagen;O; AS Rostock-Ost, A19;W;710303,000;6003160,500
+1747;Züssow;13;MV;B;111;; B109;O; L263;W;800901,227;5992967,010
+1748;Lühmannsdorf;13;MV;B;111;; L26;O; B109;W;801168,791;5993115,447
+1749;Gladrow;13;MV;B;109;; L26;N; B111;S;800928,988;5993170,493
+1750;Karlsburg;13;MV;B;109;; B111;N; Klein Bünzow;S;801117,023;5992894,217
+1753;Zölkow;13;MV;B;392;; Mestlin;O; Zölkow;W;688696,500;5939053,000
+4201;Adorf;14;SN;B;92;; Unterwürschnitz;N; Rebersreuth;S;729739,646;5582771,830
+4202;Marienberg;14;SN;B;174;; Marienberg;N; Reitzenhain;S;794414,999;5615272,267
+4203;Rochlitz;14;SN;B;175;; Rochlitz;O; Waldenburg;W;765583,858;5661638,887
+4205;Torgau;14;SN;B;87;; Torgau;O; Mockrehna;W;773737,500;5717818,500
+4206;Döbeln;14;SN;B;169;; Ostrau;N; Döbeln;S;786842,075;5673333,454
+4207;Meissen;14;SN;B;6;; Meissen;O; Keilbusch;W;811391,411;5679127,389
+4208;Hoyerswerda;14;SN;B;97;; Hoyerswerda;N; Bernsdorf;S;862225,000;5709815,500
+4209;Görlitz;14;SN;B;115;; Görlitz;O; Kodersdorf;W;913606,187;5690457,753
+4210;Mittelbacher Berg;14;SN;B;173;; Mittelbach;O; Oberlungwitz;W;765712,297;5633415,383
+4213;Kubschütz;14;SN;B;6;; Hochkirch;O; Jenkwitz;W;885261,000;5682325,500
+4215;Freiberg;14;SN;B;101;; Freiberg;N; Brand-Erbisdorf;S;804543,839;5646751,464
+4216;Aue;14;SN;B;101;; Aue;N; Lauter;S;763375,000;5608798,000
+4218;Possendorfer Berg;14;SN;B;170;; Possendorf;N; Abzweig K9013;S;830738,830;5656451,980
+4219;Schönberg (GÜG);14;SN;B;92;; Bad Brambach;N; GüG Schönberg;S;736408,013;5564134,457
+4220;Oberwiesenthal (GÜG);14;SN;B;95;; Oberwiesenthal;N; GüG Oberwiesenthal;S;779758,000;5591893,000
+4221;Reitzenhain (GÜG);14;SN;B;174;; Reitzenhain;N; GüG Reitzenhain;S;799213,500;5608131,000
+4223;Schmilka (GÜG);14;SN;B;172;; GÜG Schmilka;O; Schmilka;W;867992,045;5650518,435
+4224;Hammerunterwiesenthal;14;SN;B;95;; Bärenstein;N; Oberwiesenthal;S;785299,458;5596062,561
+4225;Großbothen;14;SN;B;107;; Grimma;N; Schönbach;S;761983,500;5677591,000
+4227;Mülsen St. Jacob;14;SN;B;173;; Lichtenstein;O; Mülsen St. Jakob;W;753849,220;5628015,096
+4228;Altenberg (GÜG);14;SN;B;170;; Altenberg;N; GüG Altenberg;S;835642,887;5631192,288
+4229;Gerichshain;14;SN;B;6;; Machern;O; Leipzig;W;748292,908;5695923,403
+4230;Hainichen;14;SN;B;169;; Hainichen-Schlegel;N; Hainichen-Falkenau;S;787737,611;5654938,360
+4231;Grumbach;14;SN;B;173;; Kesselsdorf;O; Herzogswalde;W;819583,428;5663223,425
+4232;Lichtentanne;14;SN;B;173;; Lichtentanne;O; Neumark;W;740099,921;5618945,199
+4237;Mehltheuer;14;SN;B;282;; Mehltheuer;O; Oberpirk;W;714772,000;5603688,500
+4249;Reichenau;14;SN;B;171;; Hennersdorf;O; Frauenstein;W;821886,000;5638620,000
+4267;Hundshübel (OU);14;SN;B;169;; Schneeberg (B93);N; Rodewisch (B94);S;752057,255;5605649,271
+4269;Chemnitz-Altenhain;14;SN;B;174;; Chemnitz;N; Gornau;S;781569,500;5634176,500
+4272;Zittau Nord (GÜG);14;SN;B;178;; Mittelherwigsdorf;N; BG Polen;S;910439,500;5655400,000
+4274;Pressel;14;SN;B;183;; Weidenhain;O; Laußig;W;758361,000;5720645,000
+4275;Kötten;14;SN;B;183;; LG Brandenburg;O; Graditz;W;788194,500;5719020,000
+4294;Dippoldiswalde;14;SN;B;170;; Dippoldiswalde;N; Schmiedeberg;S;828473,298;5645363,112
+4296;Zöblitz;14;SN;B;171;; Olbernhau;O; Marienberg (B174);W;799569,785;5619847,051
+4297;Königstein;14;SN;B;172;; Bad Schandau;O; Pirna;W;857791,000;5653653,000
+3802;Aspenstedt;15;ST;B;79;; Aspenstedt;N; Halberstadt (B81);S;634784,000;5754434,500
+3803;Wilhelmshöhe;15;ST;B;81;; Halberstadt (B79);N; Abzweig L82;S;636675,500;5748230,000
+3805;Hohenthurm;15;ST;B;100;; AS Halle a. d. Saale (A9);O; AS Halle a. d. Saale/Peißen (A14);W;714297,238;5712429,003
+3807;Langenweddingen;15;ST;B;81;; AS Magdeburg-Sudenburg (A14);N; Langenweddingen;S;674427,021;5770712,014
+3808;Roßlau;15;ST;B;187;; AS Coswig (A9);O; Roßlau (B184);W;727865,000;5753750,500
+3813;Walbeck;15;ST;B;180;; Quenstedt;N; Walbeck;S;669928,395;5728562,849
+3814;Pratau;15;ST;B;2;; Lutherstadt Wittenberg (B187);N; Pratau;S;751463,137;5751790,327
+3815;Weißenfels;15;ST;B;91;; AS Leuna (A38);N; Weißenfels (B176, B87);S;707548,255;5680547,593
+3816;Wethau;15;ST;B;87;; Wethau (B180);O; Naumburg (B180, B88);W;698538,000;5669687,000
+3818;Zerbst ( 1 );15;ST;B;184;; Leitzkau (L56);N; Schora (L51);S;706588,000;5767213,500
+3819;Gerwisch;15;ST;B;1;; Möser;O; Gerwisch;W;688911,500;5785590,000
+3820;Kakerbeck;15;ST;B;71;; L20, Kakerbeck;O; Cheinitz (L11);W;652643,903;5840978,938
+3821;OU Tangermünde;15;ST;B;188;; Abzweig B107, Fischbeck;O; Tangermünde;W;702018,020;5828225,244
+3822;Gardelegen;15;ST;B;188;; L25, Gardelegen;O; Solpke (K1111);W;655921,500;5820154,000
+3823;Wolfen;15;ST;B;184;; AS Dessau-Süd (A9);N; Bitterfeld-Wolfen (B183, B100);S;723023,192;5736269,088
+3824;Bernburg ( 2 );15;ST;B;6;; Kleinpaschleben;O; Bernburg;W;692869,500;5742234,500
+3825;Eimersleben;15;ST;B;1;; Erxleben;O; Eimersleben;W;650505,347;5788140,800
+3827;Saurasen (Harzgerode);15;ST;B;242;; Abzweig L158;O; Saurasen;W;664754,757;5721669,024
+3828;Halle;15;ST;B;6;; Gröbers;O; L167, Halle a. d. Saale;W;711844,500;5703371,000
+3829;Stendal ( 1 );15;ST;B;189;; Erxleben;N; L35, Groß Schwechten;S;687568,930;5845045,269
+3830;Arendsee;15;ST;B;190;; Abzweig B189;O; Arendsee;W;680567,851;5863525,973
+3831;Bennstedt;15;ST;B;80;; L173, Halle a. d. Saale;O; Abzweig L174;W;693252,744;5706737,071
+3842;Freyburg;15;ST;B;180;; Abzweig B176;N; Kleinjena;S;694221,000;5674237,000
+3843;Naumburg;15;ST;B;87;; Abzweig K2234;O; Schulpforte;W;693431,000;5669968,000
+3844;Osterburg;15;ST;B;189;; Seehausen (B190);N; Osterburg;S;684259,554;5856036,617
+3845;Blankenburg;15;ST;B;81;; Abzweig B6;N; B6, AS Blankenburg-Zentrum;S;633775,000;5742459,000
+3846;Merseburg ( 1 );15;ST;B;181;; Abzweig L183;O; Merseburg (B91);W;710537,444;5694068,354
+3847;Wittenberg;15;ST;B;187;; Mühlanger;O; Abzweig L126;W;756341,630;5751973,942
+3849;Ballenstedt;15;ST;B;185;; Ballenstedt;O; Mägdesprung;W;651943,079;5731732,405
+3850;Schmatzfeld;15;ST;B;244;; Schmatzfeld;N; AS Wernigerode-Nord (B6);S;621817,479;5749636,278
+3851;Profen;15;ST;B;2;; Profen;N; Zeitz;S;724326,000;5668140,500
+3852;Nessa;15;ST;B;91;; AS Weißenfels (A9);N; Abzweig K2202;S;711592,418;5671653,243
+3854;Emersleben;15;ST;B;81;; Emersleben (K1319);N; Abzweig B245;S;644404,160;5752864,074
+3855;Jerichow;15;ST;B;107;; Jerichow (K1030);N; L54, Redekin;S;705874,427;5820116,525
+3857;Merseburg ( 3 );15;ST;B;91;; Abzweig L171;N; Merseburg (B181);S;707402,505;5696826,778
+3858;Merseburg ( 4 );15;ST;B;91;; Merseburg (B181);N; AS Leuna (A38);S;708266,834;5692063,548
+3876;Oschersleben;15;ST;B;246;; Abzweig L76, Klein Oschersleben;O; Oschersleben (L24);W;657782,953;5765319,177
+3886;Salzwedel;15;ST;B;190;; Pretzier (K1389);O; Salzwedel (B71);W;648948,132;5856814,230
+3887;Ahlum;15;ST;B;248;; Ahlum;N; Neumühle;S;635844,549;5838773,471
+3888;Wust;15;ST;B;188;; K1474, Rathenow;O; Wust;W;711134,021;5827357,241
+3889;Mieste;15;ST;B;188;; Abzweig L26;O; Miesterhorst;W;649164,653;5817780,626
+3890;Wulkau;15;ST;B;107;; Wulkau (L18);N; Schönfeld;S;706533,051;5850015,845
+3891;Ferropolis;15;ST;B;107;; Oranienbaum;N; Gräfenhainichen (B100);S;736732,503;5737705,245
+3892;Stemmern;15;ST;B;246;a; Kreuzung L50;O; Bahrendorf;W;677440,500;5763986,000
+3893;Genthin;15;ST;B;1;; Genthin (B107);O; Parchen (K1206);W;712074,685;5807455,473
+3895;Ovelgünne;15;ST;B;246;a; Ovelgünne;O; Hakenstedt (B245);W;655208,948;5779890,383
+3896;OU Radegast;15;ST;B;183;; Radegast (L142);O; Weißandt-Gölzau (K2073);W;713584,500;5727951,500
+3897;Droßdorf;15;ST;B;2;; Zeitz;N; Droßdorf;S;719079,000;5655829,000
+3898;Kropstädt;15;ST;B;2;; K2012, Kropstädt;N; K2011, Wittenberg;S;755038,500;5759932,000
+3899;Göritz;15;ST;B;107;; Göritz;N; AS Köselitz (A9);S;738326,342;5765810,742
+3900;Freyburg (2) WWA;15;ST;B;176;; Abzweig B180;O; Abzweig L207;W;695275,263;5676320,662
+3920;Königerode/Windmühle;15;ST;B;242;; Abzweig K2751;O; Königerode (K2351);W;654508,879;5718684,044
+3921;Rösa;15;ST;B;183;; Schwemsal (B107);O; Pouch (B100);W;742344,657;5724445,067
+3959;Haldensleben;15;ST;B;71;; Abzweig L42;O; Abzweig B71/B245;W;666972,500;5794578,000
+4400;Sonneberg-Unterlind;16;TH;B;4;; Abzweig B89;N; Abzweig L2662;S;654070,677;5577097,130
+4402;Dingelstädt;16;TH;B;247;; Leinefelde;N; Mühlhausen;S;592515,929;5687039,772
+4407;Gräfentonna;16;TH;B;176;; Gräfentonna;O; Bad Langensalza;W;619193,401;5661733,858
+4408;OU Erfurt;16;TH;B;7;; BAB A4;O; Sömmerda;W;646716,885;5650078,069
+4410;Dachwig;16;TH;B;176;; Erfurt;O; Döllstedt;W;630771,982;5660076,802
+4412;Gamstädt;16;TH;B;7;; Erfurt;O; Gotha;W;631864,509;5645662,748
+4414;Gebesee;16;TH;B;4;; Straussfurt;N; Walschleben;S;635071,875;5662529,793
+4415;Ulla;16;TH;B;7;; Weimar;O; Nohra;W;659514,200;5649147,155
+4416;Warza;16;TH;B;247;; Westhausen;N; Gotha;S;618397,942;5651088,495
+4417;Watzdorf;16;TH;B;88;; Bad Blankenburg;O; Königsee;W;657750,331;5618066,016
+4421;Neuheide;16;TH;B;4;; Nordhausen;N; Sondershausen;S;625832,000;5697097,000
+4422;Rathsfeld;16;TH;B;85;; Berga;N; Bad Frankenhausen;S;644434,597;5695632,935
+4423;Backleben;16;TH;B;176;; Laucha;O; Kölleda;W;659177,713;5674130,977
+4425;Rannstedt;16;TH;B;87;; Eckartberg;O; Apolda;W;677708,000;5662080,500
+4426;Kölleda;16;TH;B;85;; Schillingstedt;N; Kölleda;S;656344,344;5673919,223
+4432;Katharinenberg;16;TH;B;249;; Mühlhausen;O; Eschwege;W;587383,500;5670903,500
+4433;Marksuhl;16;TH;B;84;; Eisenach;O; Dorndorf;W;584962,672;5641248,102
+4434;Hohe Sonne;16;TH;B;19;; Eisenach;N; Etterwinden;S;592676,409;5643057,080
+4442;Ferna;16;TH;B;247;; Duderstadt;N; Worbis;S;591378,651;5700919,566
+4444;Arenshausen;16;TH;B;80;; Uder;O; Hohengandern;W;569107,627;5692606,956
+4454;Bachfeld;16;TH;B;89;; Schalkau;O; Eisfeld;W;640264,416;5586062,129
+4455;Steinheid;16;TH;B;281;; Neuhaus;O; Sachsenbrunn;W;648055,098;5593675,625
+4456;Neuhaus-Schierschnitz;16;TH;B;89;; B85;O; Neuhaus;W;659736,706;5575610,977
+4461;Dorndorf;16;TH;B;62;; Bad Salzungen;O; Vacha;W;574217,581;5631882,062
+4462;Immelborn;16;TH;B;62;; Barchfeld;O; Bad Salzungen;W;589753,208;5627975,477
+4463;Walldorf;16;TH;B;19;; Wasungen;N; Meiningen;S;598255,937;5608352,496
+4464;Neidhartshausen;16;TH;B;285;; Dermbach;N; Kaltennordheim;S;579328,587;5614421,950
+4465;Wutha-Farnroda;16;TH;B;88;; Thal;O; Wutha;W;597837,506;5643125,909
+4471;Rothenstein;16;TH;B;88;; AS Jena-Göschwitz, A4;O; Kahla;W;682692,500;5635357,000
+4472;Langenwolschendorf;16;TH;B;94;; Zeulenroda;O; Schleiz;W;708246,654;5612913,321
+4473;Großebersdorf;16;TH;B;2;; Gera;N; Auma;S;708754,000;5630188,000
+4474;Gardschütz;16;TH;B;93;; Altenburg;N; Meerane;S;740547,072;5649351,111
+4475;Neue Schänke;16;TH;B;281;; Pößneck;O; Saalfeld;W;676048,007;5615469,367
+4476;Wildetaube;16;TH;B;92;; Weida;N; Langenwetzendorf;S;719580,561;5623073,681
